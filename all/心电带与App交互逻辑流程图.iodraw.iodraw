@@ -251,8 +251,8 @@
             <mxPoint x="384" y="880" as="targetPoint" />
             <mxPoint x="463" y="940" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="483" y="940" />
-              <mxPoint x="483" y="880" />
+              <mxPoint x="510" y="940" />
+              <mxPoint x="510" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -269,7 +269,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-71" value="存储模式下的心率数值（从HrRun中解析得到）、心率带电量 实时显示页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-71" value="实时模式下的ecg、hr曲线（从HrRun中解析得到）、心率带电量 实时显示页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="164" y="1070" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-73" target="EsyDy2RAEM6CwkYFkrmJ-79">
