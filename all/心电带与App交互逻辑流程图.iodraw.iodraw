@@ -11,8 +11,8 @@
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes，发出可以被连接的广播信号" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry x="0.0245" y="-50" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="0.0082" y="-49" relative="1" as="geometry">
+            <mxPoint x="49" y="49" as="offset" />
             <mxPoint x="220" y="249" as="sourcePoint" />
             <mxPoint x="220" y="289" as="targetPoint" />
           </mxGeometry>
