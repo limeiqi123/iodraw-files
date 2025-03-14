@@ -109,14 +109,14 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-17" target="EsyDy2RAEM6CwkYFkrmJ-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="1340" />
-              <mxPoint x="300" y="1370" />
+              <mxPoint x="281" y="1340" />
+              <mxPoint x="281" y="1370" />
               <mxPoint x="280" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-17" value="存储模式下的心率数值实时显示页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1280" width="300" height="60" as="geometry" />
+          <mxGeometry x="170" y="1280" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-20" target="EsyDy2RAEM6CwkYFkrmJ-28">
           <mxGeometry relative="1" as="geometry" />
