@@ -109,9 +109,9 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-17" target="EsyDy2RAEM6CwkYFkrmJ-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="281" y="1340" />
-              <mxPoint x="281" y="1370" />
+              <mxPoint x="280" y="1340" />
               <mxPoint x="280" y="1370" />
+              <mxPoint x="281" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
