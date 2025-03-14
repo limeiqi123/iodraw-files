@@ -38,8 +38,8 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;App与心率带连接&lt;/h1&gt;&lt;p&gt;心率带的MCU进行佩戴检测，累记超过3s检测到了佩戴，“开机”，发出可以被连接的广播信号，App检索到心率带设备后，进行连接，开始蓝牙通信。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;App与心率带连接&lt;/h1&gt;&lt;p&gt;心率带的MCU进行佩戴检测，累记超过3s检测到了佩戴，“开机”，发出可以被连接的广播信号，App检索到心率带设备后，进行连接，开始蓝牙通信。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="10" width="210" height="120" as="geometry" />
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;App与心率带实时数据交互&lt;/h1&gt;&lt;p&gt;在实时模式下，心率带通过蓝牙向App发送信号，App根据收到的信号，如安静心率检测结果flag，决定是否从安静心率检测等待页面&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="480" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
