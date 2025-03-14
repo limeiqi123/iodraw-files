@@ -56,6 +56,9 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-7" value="App端选择“存储模式”" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-9" target="EsyDy2RAEM6CwkYFkrmJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-9" value="App端进入“安静心率检测&quot;页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="980" width="120" height="60" as="geometry" />
         </mxCell>
@@ -69,7 +72,10 @@
           <mxGeometry x="430" y="1000" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-14" value="蓝牙&lt;div&gt;安静心率检测结果flag&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="970" width="140" height="40" as="geometry" />
+          <mxGeometry x="450" y="970" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-15" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
