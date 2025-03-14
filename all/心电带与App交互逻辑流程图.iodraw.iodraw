@@ -132,7 +132,7 @@
           <mxGeometry x="60" y="1410" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-27" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;以1s的固定间隔给app发送蓝牙帧 HrRun&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;以notify的方式发送电量值&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="1210" width="235" height="50" as="geometry" />
+          <mxGeometry x="425" y="1210" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-28" target="EsyDy2RAEM6CwkYFkrmJ-32">
           <mxGeometry relative="1" as="geometry" />
@@ -173,8 +173,14 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-32" value="可以回连到之前的蓝牙设备？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1710" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-40" target="EsyDy2RAEM6CwkYFkrmJ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-40" value="实时显示页面暂停" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105.5" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-42" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105.5" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
