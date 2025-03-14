@@ -33,7 +33,7 @@
           <mxGeometry x="251" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-1" value="用户手动进行蓝牙连接" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="251" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="241" y="400" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;App与心率带连接&lt;/h1&gt;&lt;p&gt;心率带进行佩戴检测，累记超过3s检测到了佩戴，系统“开机”，发出可以被连接的通知，App接收到有心率带设备可被连接的通知后，在设备连接页面显示该设备，等待用户手动进行连接。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" width="210" height="130" as="geometry" />
