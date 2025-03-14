@@ -41,7 +41,7 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;实时模式下，App与心率带数据交互&lt;/h1&gt;&lt;p&gt;在实时户外跑模式下，心率带与App通过蓝牙连接上之后，两者通过蓝牙协议进行数据交互。主要的交互有：&lt;/p&gt;&lt;p&gt;心率带通过蓝牙向App发送信号，App根据收到的信号，如安静心率检测结果flag，决定是否从安静心率检测等待页面&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="480" width="210" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;存储模式下，App与心率带数据交互&lt;/h1&gt;&lt;p&gt;在实时户外跑模式下，心率带与App通过蓝牙连接上之后，两者通过蓝牙协议进行数据交互。主要的交互有：&lt;/p&gt;&lt;p&gt;心率带通过蓝牙向App发送信号，App根据收到的信号，如安静心率检测结果flag，决定是否从安静心率检测等待页面&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;存储模式下，App与心率带数据交互&lt;/h1&gt;&lt;p&gt;心率带与App通过蓝牙连接上之后，用户手动选择“存储模式”后，安静心率检测页面&lt;/p&gt;&lt;p&gt;两者通过蓝牙协议进行数据交互。主要的交互有：&lt;/p&gt;&lt;p&gt;心率带通过蓝牙向App发送信号，App根据收到的信号，如安静心率检测结果flag，决定是否从安静心率检测等待页面&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="730" width="210" height="190" as="geometry" />
         </mxCell>
       </root>
