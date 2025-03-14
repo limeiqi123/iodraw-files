@@ -164,11 +164,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EsyDy2RAEM6CwkYFkrmJ-37">
+          <mxGeometry x="-0.2722" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-32" value="可以回连到之前的蓝牙设备？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1710" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="1728" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
