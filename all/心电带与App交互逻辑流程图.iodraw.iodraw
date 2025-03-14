@@ -86,7 +86,7 @@
             <mxPoint x="380" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-15" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;安静心率检测结果flag==1？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-15" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;安静心率检测ok&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="1110" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-17" target="EsyDy2RAEM6CwkYFkrmJ-20">
