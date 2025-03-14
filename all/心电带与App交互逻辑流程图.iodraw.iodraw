@@ -30,7 +30,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="App连接页面显示该心率带的蓝牙设备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="251" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="310" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-1" value="用户手动进行蓝牙连接" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="241" y="400" width="140" height="40" as="geometry" />
