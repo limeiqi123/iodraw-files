@@ -156,7 +156,7 @@
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="1550" as="targetPoint" />
+            <mxPoint x="380" y="1560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="250" y="1750" />
               <mxPoint x="250" y="1560" />
@@ -166,6 +166,9 @@
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-32" value="可以回连到之前的蓝牙设备？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1710" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="1728" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
