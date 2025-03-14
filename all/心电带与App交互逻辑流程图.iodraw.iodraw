@@ -74,8 +74,19 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-14" value="蓝牙&lt;div&gt;安静心率检测结果flag&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="970" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-15" target="EsyDy2RAEM6CwkYFkrmJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EsyDy2RAEM6CwkYFkrmJ-18">
+          <mxGeometry x="-0.2444" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-15" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;安静心率检测结果flag==1？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="1110" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-17" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
