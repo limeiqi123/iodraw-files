@@ -140,7 +140,7 @@
           <mxGeometry x="320" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-32" value="可以回连到之前的蓝牙设备？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="1710" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="1710" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
