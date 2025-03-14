@@ -269,7 +269,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-71" value="实时模式下的ecg曲线从“&lt;span style=&quot;text-align: left;&quot;&gt;ECG实时数据”解析得到&lt;/span&gt;&lt;div&gt;hr曲线从HrRun中解析得到、心率带电量 实时显示页面&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-71" value="实时模式下的ecg曲线从“&lt;span style=&quot;text-align: left;&quot;&gt;ECG实时数据”解析得到&lt;/span&gt;&lt;div&gt;hr曲线从“&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;HrRun实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”中解析得到、心率带电量 实时显示页面&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="164" y="1070" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-73" target="EsyDy2RAEM6CwkYFkrmJ-79">
