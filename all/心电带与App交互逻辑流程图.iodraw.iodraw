@@ -554,6 +554,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-288" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-286">
+          <mxGeometry x="-0.4514" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-283" value="蓝牙断连（30s未佩戴）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备与人体脱离＞30，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1842" y="1003" width="220" height="100" as="geometry" />
         </mxCell>
