@@ -143,7 +143,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-105" value="App给心率带发送 “开始板上存储”notify+时间字段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-102">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-105" value="App给心率带发送 “开始板上存储”notify+开始时间字段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-102">
           <mxGeometry x="-0.2765" y="5" relative="1" as="geometry">
             <mxPoint x="-51" y="-16" as="offset" />
           </mxGeometry>
