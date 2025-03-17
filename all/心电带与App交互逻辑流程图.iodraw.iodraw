@@ -63,7 +63,7 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-197" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="21.47" y="1344.13" width="1868.53" height="504.8699999999999" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-113" value="&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;/div&gt;&lt;div&gt;蓝牙断开（die手机进程）、&lt;/div&gt;&lt;div&gt;蓝牙断开（关闭系统蓝牙）&lt;/div&gt;蓝牙断连（心率带设备低电）、&lt;div&gt;蓝牙断连（心率带长时未佩戴）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-197">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-113" value="&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;/div&gt;&lt;div&gt;蓝牙断开（die手机进程）、&lt;/div&gt;&lt;div&gt;蓝牙断开（关闭系统蓝牙）&lt;/div&gt;蓝牙断连（心率带设备低电）、&lt;div&gt;蓝牙断连（4时未佩戴）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-197">
           <mxGeometry x="1398.53" y="223.8699999999999" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tPt6kjmwFI2hEgzp8p8G-197" source="tPt6kjmwFI2hEgzp8p8G-150" target="tPt6kjmwFI2hEgzp8p8G-151">
