@@ -298,21 +298,6 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-79" value="App端以固定时间间隔进行蓝牙回连操作" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="324" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="1054" as="targetPoint" />
-            <mxPoint x="475" y="1544" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="810" y="1544" />
-              <mxPoint x="810" y="1054" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-81" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EsyDy2RAEM6CwkYFkrmJ-80" vertex="1" connectable="0">
-          <mxGeometry x="0.2168" y="-2" relative="1" as="geometry">
-            <mxPoint x="-3" y="174" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="EsyDy2RAEM6CwkYFkrmJ-79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390.96" y="1350" as="targetPoint" />
