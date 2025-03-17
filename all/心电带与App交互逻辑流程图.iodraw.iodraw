@@ -476,9 +476,6 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-101" value="心率带端开始板上数据存储&lt;div&gt;记录此时为运动开始时间&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="221" y="2565" width="151" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-106" value="心率带端结束板上数据存储&lt;div&gt;记录此时为运动结束时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="227.5" y="2793" width="159" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-110" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1169.41" y="1094" width="766" height="200.25" as="geometry" />
         </mxCell>
@@ -551,12 +548,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-114" target="tPt6kjmwFI2hEgzp8p8G-106">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-145" value="App给心率带发送 “结束板上存储”notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-144">
-          <mxGeometry x="0.0469" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="386.5" y="2823" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-146" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-144">
@@ -566,6 +560,11 @@
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-114" target="tPt6kjmwFI2hEgzp8p8G-213">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-215" value="App给心率带发送 “结束板上存储”notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-214">
+          <mxGeometry x="-0.1217" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-114" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="654" y="2783" width="160" height="80" as="geometry" />
@@ -593,7 +592,7 @@
             <mxPoint x="8" y="-84" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-213" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-213" value="心率带端结束板上数据存储&lt;div&gt;记录此时为运动结束时间&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="674" y="2953" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
