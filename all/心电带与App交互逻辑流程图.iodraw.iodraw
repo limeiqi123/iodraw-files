@@ -350,7 +350,7 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-101" value="心率带端开始板上数据存储&lt;div&gt;记录此时为运动开始时间&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="1910" width="151" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-106" value="心率带端结束板上数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-106" value="心率带端结束板上数据存储&lt;div&gt;记录此时为运动结束时间？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="91" y="2350" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-110" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
