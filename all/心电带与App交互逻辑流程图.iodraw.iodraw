@@ -518,8 +518,8 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-108" value="实时显示页面暂停&lt;div&gt;提示蓝牙异常&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-110">
           <mxGeometry x="226" y="140.25" width="131" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-111" value="蓝牙断连（设备超距）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-110">
-          <mxGeometry x="466" y="155.25" width="280" height="30" as="geometry" />
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-111" value="蓝牙断连（设备超距）、&lt;div&gt;蓝牙断连（30s未佩戴）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-110">
+          <mxGeometry x="466" y="117.25" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-90" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="665" y="1240" width="160" height="80" as="geometry" />
