@@ -610,10 +610,10 @@
           <mxGeometry x="612" y="2987" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-281" value="手机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1056" y="3087" width="90" height="60" as="geometry" />
+          <mxGeometry x="1800" y="2910" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-282" value="蓝牙断开（忽略已连接蓝牙）？&lt;div&gt;（用户手动关闭已连接的设备蓝牙开关，并选择“忽略此蓝牙”）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="2987" width="220" height="80" as="geometry" />
+          <mxGeometry x="1530" y="2899" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
