@@ -217,7 +217,7 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-60" value="App端进入“安静心率检测&quot;+“GPS信号质量检测”页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="324" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="384" y="860" as="targetPoint" />
             <mxPoint x="684" y="860" as="sourcePoint" />
@@ -416,7 +416,7 @@
           <mxGeometry y="1250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-71" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
