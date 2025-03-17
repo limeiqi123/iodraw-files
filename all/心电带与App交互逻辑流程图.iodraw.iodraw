@@ -328,7 +328,7 @@
           <mxGeometry x="485" y="2640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-23" value="曲线平滑算法" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="686" y="1381" width="120" height="70" as="geometry" />
+          <mxGeometry x="685" y="1406" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-76" target="tPt6kjmwFI2hEgzp8p8G-23">
           <mxGeometry relative="1" as="geometry">
@@ -349,7 +349,7 @@
             <mxPoint x="451" y="1372.75" as="targetPoint" />
             <Array as="points">
               <mxPoint x="408" y="1501" />
-              <mxPoint x="675" y="1500" />
+              <mxPoint x="686" y="1500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -367,7 +367,7 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1382" as="sourcePoint" />
-            <mxPoint x="670" y="1500" as="targetPoint" />
+            <mxPoint x="690" y="1430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="380" y="1376" />
               <mxPoint x="380" y="1420" />
