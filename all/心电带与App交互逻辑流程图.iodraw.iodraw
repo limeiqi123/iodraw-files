@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1793" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -572,7 +572,7 @@
           <mxGeometry x="1795" y="3244.37" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-322" value="&lt;div&gt;蓝牙断连（设备低电）？&lt;/div&gt;（手机蓝牙还开着，但是由于心率带设备电量不足，与app断连）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1790" y="3000" width="214.5" height="93" as="geometry" />
+          <mxGeometry x="1790" y="2970" width="214.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-333" value="蓝牙断连（4h未佩戴）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备与人体脱离＞4h，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1790" y="3112.37" width="220" height="100" as="geometry" />
