@@ -400,6 +400,9 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-76" value="蓝牙断开（系统蓝牙）？&lt;div&gt;（用户手动关闭手机系统蓝牙开关）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="169.97" y="1400.5" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-66" target="tPt6kjmwFI2hEgzp8p8G-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-66" value="&lt;div&gt;蓝牙断连（设备低电）？&lt;/div&gt;（手机蓝牙还开着，但是由于心率带设备电量不足，与app断连）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="171.97" y="1496" width="214.5" height="93" as="geometry" />
         </mxCell>
@@ -443,8 +446,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="1494" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="1663" />
-              <mxPoint x="490" y="1440" />
+              <mxPoint x="510" y="1663" />
+              <mxPoint x="510" y="1440" />
             </Array>
           </mxGeometry>
         </mxCell>
