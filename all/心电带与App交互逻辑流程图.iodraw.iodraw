@@ -419,7 +419,7 @@
           <mxGeometry x="20" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-41" value="保存当次运动记录数据" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
