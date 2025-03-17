@@ -300,7 +300,7 @@
             <mxPoint x="590" y="1220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="384" y="1190" />
-              <mxPoint x="679" y="1190" />
+              <mxPoint x="651" y="1190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -324,7 +324,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-90" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="599" y="1202" width="160" height="80" as="geometry" />
+          <mxGeometry x="571" y="1210" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tPt6kjmwFI2hEgzp8p8G-63">
           <mxGeometry relative="1" as="geometry">
