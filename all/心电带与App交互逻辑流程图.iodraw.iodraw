@@ -407,6 +407,9 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-63" value="曲线平滑" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="634" y="1903.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-66" value="&lt;div&gt;设备低电？&lt;/div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="55.5" y="1290" width="214.5" height="93" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
