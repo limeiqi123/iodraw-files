@@ -320,14 +320,19 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-6" value="App连接到了心率带" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="676" y="2404" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-7" target="EsyDy2RAEM6CwkYFkrmJ-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="736" y="2654" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-7" value="App端选择“存储模式”&lt;div&gt;并点击开始运动&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="676" y="2514" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-9" target="EsyDy2RAEM6CwkYFkrmJ-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="736" y="2714" as="sourcePoint" />
+            <mxPoint x="736.0526315789475" y="2784.0263157894738" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tPt6kjmwFI2hEgzp8p8G-101">
           <mxGeometry relative="1" as="geometry">
@@ -342,9 +347,6 @@
             <mxPoint x="-51" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-9" value="App端进入“安静心率检测&quot;页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="676" y="2654" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-95" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="736" y="2924" as="targetPoint" />
@@ -354,8 +356,10 @@
             <mxPoint x="1036" y="2763.9999999999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-15" target="EsyDy2RAEM6CwkYFkrmJ-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="EsyDy2RAEM6CwkYFkrmJ-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="736" y="2864" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EsyDy2RAEM6CwkYFkrmJ-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2444" y="5" relative="1" as="geometry">
@@ -371,9 +375,6 @@
               <mxPoint x="835" y="2764" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-15" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;安静心率检测ok notify&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="656" y="2784" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-17" target="tPt6kjmwFI2hEgzp8p8G-114" edge="1">
           <mxGeometry relative="1" as="geometry">
