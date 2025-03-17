@@ -430,12 +430,6 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-60" value="App端进入“安静心率检测&quot;+“GPS信号质量检测”页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="686" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-71" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="746" y="870" as="targetPoint" />
-            <mxPoint x="1046" y="870" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-68" target="EsyDy2RAEM6CwkYFkrmJ-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="1083" as="targetPoint" />
@@ -456,7 +450,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-68" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;GPS（手机调用高德api） ok？&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;安静心率检测ok notify&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-68" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;GPS（手机调用高德api） ok？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="621" y="910" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-71" target="EsyDy2RAEM6CwkYFkrmJ-90">
