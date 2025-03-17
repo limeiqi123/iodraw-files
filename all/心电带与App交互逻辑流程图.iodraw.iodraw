@@ -401,6 +401,9 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-23" value="曲线平滑算法" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;实时模式下，App与心率带、算法数据交互&lt;/h1&gt;&lt;p&gt;在实时户外跑模式下，心率带与App通过蓝牙连接上之后，两者通过蓝牙协议进行数据交互。主要的交互有：&lt;/p&gt;&lt;p&gt;心率带通过蓝牙向App发送安静心率检测ok 通知，决定是否从安静心率检测等待页面跳转到实时数据显示页面（GPS的不是在心率带上处理的，这里未注明，下同）&lt;/p&gt;&lt;p&gt;在实时显示页面，app解析从心率带传过来的“&lt;span style=&quot;background-color: initial;&quot;&gt;ECG实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”和“&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HrRun实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”，实时更新曲线和参数&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;在实时显示页面，app接收来自心率带的佩戴检查异常通知，以显示佩戴异常提示&lt;/span&gt;&lt;/p&gt;&lt;p&gt;运动结束后，app调用跑步参数平滑算法，绘制数据详情页曲线；app端生成数据库.db，并上传到服务器&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="550" width="300" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
