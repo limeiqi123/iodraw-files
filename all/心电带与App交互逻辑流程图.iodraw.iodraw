@@ -354,7 +354,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-23" target="tPt6kjmwFI2hEgzp8p8G-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="746" y="1610" />
+              <mxPoint x="746" y="1610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-76" value="蓝牙断开（手机端）？&lt;div&gt;（用户手动关闭手机蓝牙开关）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="149.5" y="1234" width="210" height="80" as="geometry" />
@@ -365,7 +370,8 @@
             <mxPoint x="670" y="1500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="380" y="1376" />
-              <mxPoint x="380" y="1500" />
+              <mxPoint x="380" y="1420" />
+              <mxPoint x="670" y="1420" />
             </Array>
           </mxGeometry>
         </mxCell>
