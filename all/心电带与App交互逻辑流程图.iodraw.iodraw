@@ -261,6 +261,9 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-71" value="实时显示ecg、hr曲线，跑步参数、异常提示（佩戴、GPS、蓝牙）&lt;div&gt;其中ecg曲线从“&lt;span style=&quot;text-align: left;&quot;&gt;ECG实时数据”解析得到&lt;/span&gt;&lt;div&gt;hr曲线从“&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;HrRun实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”中解析得到&lt;/span&gt;&lt;/div&gt;&lt;div&gt;跑步参数从&lt;span style=&quot;background-color: initial;&quot;&gt;“&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;HrRun实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”中解析得到&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;佩戴异常提示从 心率带notify得到&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;蓝牙异常提示由app端丢帧率计算结果flag得到&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GPS异常提示由app端高德接口flag得到&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="164" y="1063" width="440" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-73" target="EsyDy2RAEM6CwkYFkrmJ-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-73" value="蓝牙断连（设备超距）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="339" y="1740" width="310" height="100" as="geometry" />
         </mxCell>
@@ -354,12 +357,6 @@
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-1" value="心率带" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="433" y="1620" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335.5" y="1990" as="sourcePoint" />
-            <mxPoint x="335" y="2070" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-2" value="设备超距？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="528" y="1830" width="285" height="80" as="geometry" />
