@@ -361,20 +361,6 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-27" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;以1s的固定间隔给app发送蓝牙帧“HrRun”&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;以notify的方式发送电量值&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="807" y="2583" width="235" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="EsyDy2RAEM6CwkYFkrmJ-48" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635" y="3850" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-48" target="EsyDy2RAEM6CwkYFkrmJ-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-48" value="是否同步数据？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="595" y="3930" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-50" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="575" y="4100" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-56" target="EsyDy2RAEM6CwkYFkrmJ-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
