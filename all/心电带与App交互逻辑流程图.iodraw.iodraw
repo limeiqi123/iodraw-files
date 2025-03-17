@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-291" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1373" y="2727.5" width="800" height="257.25" as="geometry" />
-        </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-290" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1092" y="1062.75" width="800" height="257.25" as="geometry" />
         </mxCell>
