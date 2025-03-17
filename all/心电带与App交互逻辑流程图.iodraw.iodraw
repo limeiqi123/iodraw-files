@@ -193,14 +193,6 @@
             <mxPoint x="575" y="2359.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="361" y="2290" />
-            </Array>
-            <mxPoint x="360" y="2359.9999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-17" value="&amp;nbsp;实时显示心率数值（从HrRun中解析得到）、心率带电量（notify）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="355" y="2230" width="440" height="60" as="geometry" />
         </mxCell>
@@ -359,7 +351,7 @@
           <mxGeometry x="230" y="1930" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-106" value="心率带结束板上存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="246" y="2060" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-110" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="884" y="1094" width="766" height="200.25" as="geometry" />
@@ -421,7 +413,7 @@
           <mxGeometry x="648" y="1279" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-114" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="493" y="2370" width="160" height="80" as="geometry" />
+          <mxGeometry x="495" y="2360" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
