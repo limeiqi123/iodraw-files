@@ -349,7 +349,7 @@
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-135" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-129">
           <mxGeometry x="-0.0711" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-26" as="offset" />
+            <mxPoint x="2" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-16" value="&lt;div&gt;进入到数据详情页面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
