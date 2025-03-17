@@ -453,7 +453,7 @@
           <mxGeometry x="246" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-108" value="实时显示页面暂停" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="1268.25" width="240" height="91.75" as="geometry" />
+          <mxGeometry x="1120" y="1234.25" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
