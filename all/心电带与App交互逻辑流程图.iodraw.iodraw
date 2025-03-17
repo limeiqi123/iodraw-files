@@ -274,12 +274,13 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-74" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="474" y="898" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.971;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.317;entryY=0.075;entryDx=0;entryDy=0;exitX=0.971;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tPt6kjmwFI2hEgzp8p8G-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="247.91000000000008" y="1241.04" as="sourcePoint" />
             <mxPoint x="370" y="1380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="1241" />
+              <mxPoint x="370" y="1383" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -403,7 +404,7 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;App与心率带断连交互&lt;/h1&gt;&lt;p&gt;心率带与app蓝牙断连时，先由心率带发出断连通知（错误码）&lt;/p&gt;&lt;p&gt;app接收到错误码后区分是超距断连还是低电断连&lt;/p&gt;&lt;p&gt;超距断连的话，app会不断进行重连操作，直到恢复为正常连接&lt;/p&gt;&lt;p&gt;低电断连的话，app不再进行重连&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="1770" width="300" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tPt6kjmwFI2hEgzp8p8G-39">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-41" target="tPt6kjmwFI2hEgzp8p8G-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="164" y="1400" as="sourcePoint" />
           </mxGeometry>
@@ -412,7 +413,7 @@
           <mxGeometry x="600" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-39" value="进入到设备连接页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-41" value="保存当次运动记录数据" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="1460" width="120" height="60" as="geometry" />
