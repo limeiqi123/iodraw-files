@@ -318,7 +318,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-9">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-9">
           <mxGeometry x="-0.0287" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -363,6 +363,9 @@
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-5" value="&lt;div&gt;设备低电？&lt;/div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="522" y="1860" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="1400" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
