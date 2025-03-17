@@ -466,7 +466,7 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-108" value="实时显示页面暂停" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-110">
           <mxGeometry x="226" y="140.25" width="131" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-111" value="蓝牙断连（设备超距）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-110">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-111" value="蓝牙断连（设备超距）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-110">
           <mxGeometry x="506" y="146" width="154" height="30" as="geometry" />
         </mxCell>
       </root>
