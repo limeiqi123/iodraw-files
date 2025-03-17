@@ -597,7 +597,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-213" value="进入到数据同步页面&lt;div&gt;通过同步蓝牙帧，将数据从mcu传到app上&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="2899" width="189" height="60" as="geometry" />
+          <mxGeometry x="590" y="2899" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-217" value="同步" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="674" y="3000" width="120" height="60" as="geometry" />
