@@ -399,7 +399,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-23" value="曲线平滑算法" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1380" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="1340" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;App与心率带断连交互&lt;/h1&gt;&lt;p&gt;心率带与app蓝牙断连时，先由心率带发出断连通知（错误码）&lt;/p&gt;&lt;p&gt;app接收到错误码后区分是超距断连还是低电断连&lt;/p&gt;&lt;p&gt;超距断连的话，app会不断进行重连操作，直到恢复为正常连接&lt;/p&gt;&lt;p&gt;低电断连的话，app不再进行重连&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="1770" width="300" height="300" as="geometry" />
