@@ -413,7 +413,7 @@
           <mxGeometry x="13" y="1353" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-113" value="&lt;div&gt;蓝牙断开、&lt;/div&gt;蓝牙断连（设备低电）、蓝牙断连（长时未佩戴）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="5" y="1570" width="365" height="30" as="geometry" />
+          <mxGeometry x="5" y="1557" width="285" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-117" target="tPt6kjmwFI2hEgzp8p8G-118">
           <mxGeometry relative="1" as="geometry" />
