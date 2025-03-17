@@ -99,13 +99,13 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-39" value="进入到设备连接页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-138">
           <mxGeometry x="347.03" y="350.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-139" value="" style="group" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-138">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-140" value="" style="group" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-138">
           <mxGeometry x="609.53" y="108.5" width="240" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-23" value="曲线平滑算法" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-139">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-23" value="曲线平滑算法" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-140">
           <mxGeometry x="54" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tPt6kjmwFI2hEgzp8p8G-139" source="tPt6kjmwFI2hEgzp8p8G-23" target="tPt6kjmwFI2hEgzp8p8G-41">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tPt6kjmwFI2hEgzp8p8G-140" source="tPt6kjmwFI2hEgzp8p8G-23" target="tPt6kjmwFI2hEgzp8p8G-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="115" y="204" />
@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-41" value="保存当次运动记录数据（上传到云端，存储的数据字段及格式见《&lt;span style=&quot;text-align: left;&quot;&gt;运动心率带3.0蓝牙协议及&lt;/span&gt;数据库说明》）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-139">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-41" value="保存当次运动记录数据（上传到云端，存储的数据字段及格式见《&lt;span style=&quot;text-align: left;&quot;&gt;运动心率带3.0蓝牙协议及&lt;/span&gt;数据库说明》）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-140">
           <mxGeometry y="224" width="240" height="96" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
