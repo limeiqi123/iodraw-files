@@ -311,8 +311,8 @@
             <mxPoint x="385" y="1054" as="targetPoint" />
             <mxPoint x="475" y="1544" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="685" y="1544" />
-              <mxPoint x="685" y="1054" />
+              <mxPoint x="810" y="1544" />
+              <mxPoint x="810" y="1054" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -360,8 +360,8 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-93" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="324" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-0" value="蓝牙断连（设备远离）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="1220" width="260" height="80" as="geometry" />
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-0" value="蓝牙断连（设备低电）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="1200" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
