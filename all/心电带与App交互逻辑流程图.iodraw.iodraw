@@ -262,7 +262,11 @@
           <mxGeometry x="164" y="1063" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-73" target="EsyDy2RAEM6CwkYFkrmJ-79">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="1840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-73" value="蓝牙断连（设备超距）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="339" y="1740" width="310" height="100" as="geometry" />
@@ -298,27 +302,12 @@
           <mxGeometry x="420" y="990" width="311" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-79" value="App端以固定时间间隔进行蓝牙回连操作" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="428" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="EsyDy2RAEM6CwkYFkrmJ-90" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="1183" as="sourcePoint" />
             <mxPoint x="590" y="1220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-14" target="EsyDy2RAEM6CwkYFkrmJ-79">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="277" y="2000" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="593" y="1945" />
-              <mxPoint x="563" y="1945" />
-              <mxPoint x="563" y="1845" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-7">
-          <mxGeometry x="-0.0844" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-90" target="EsyDy2RAEM6CwkYFkrmJ-71">
@@ -362,7 +351,7 @@
           <mxGeometry x="528" y="1830" width="285" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-5" value="&lt;div&gt;设备低电？&lt;/div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="1990" width="300" height="80" as="geometry" />
+          <mxGeometry x="548" y="2050" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-13" value="用户手动进行蓝牙连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="246" y="400" width="130" height="60" as="geometry" />
