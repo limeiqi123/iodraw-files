@@ -619,7 +619,7 @@
           <mxGeometry x="226" y="140.25" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-111" value="蓝牙断连（设备超距）、&lt;div&gt;蓝牙断连（30s未佩戴）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" vertex="1" parent="tPt6kjmwFI2hEgzp8p8G-290">
-          <mxGeometry x="40" y="227.25" width="280" height="30" as="geometry" />
+          <mxGeometry x="-10" y="207.25" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
