@@ -303,7 +303,7 @@
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tPt6kjmwFI2hEgzp8p8G-213">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-114" target="tPt6kjmwFI2hEgzp8p8G-213">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="974.478260869565" y="2990.9891304347825" as="sourcePoint" />
           </mxGeometry>
@@ -658,6 +658,11 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-334">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="3000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1290" y="3011" />
+              <mxPoint x="1290" y="3001" />
+              <mxPoint x="970" y="3001" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-334" value="进入到设备连接页面&lt;div&gt;（显示蓝牙电量）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
