@@ -300,8 +300,10 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-64" value="&lt;div&gt;以主动通知的方式给出&lt;/div&gt;&lt;div&gt;安静心率检测ok的notify&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="780" y="845" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-68" target="EsyDy2RAEM6CwkYFkrmJ-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EsyDy2RAEM6CwkYFkrmJ-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-66" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EsyDy2RAEM6CwkYFkrmJ-65" vertex="1" connectable="0">
           <mxGeometry x="-0.2444" y="5" relative="1" as="geometry">
