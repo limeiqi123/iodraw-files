@@ -223,16 +223,6 @@
             <mxPoint x="684" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-71" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="384" y="1040" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="710" y="880" />
-              <mxPoint x="740" y="880" />
-              <mxPoint x="740" y="1040" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-64" value="&lt;div&gt;以主动通知的方式给出&lt;/div&gt;&lt;div&gt;安静心率检测ok的notify&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="494" y="825" width="150" height="40" as="geometry" />
         </mxCell>
@@ -319,7 +309,7 @@
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-21">
           <mxGeometry x="-0.307" y="1" relative="1" as="geometry">
-            <mxPoint x="-18" as="offset" />
+            <mxPoint x="-26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.675;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tPt6kjmwFI2hEgzp8p8G-23">
@@ -411,7 +401,7 @@
           <mxGeometry x="144.5" y="1318.5" width="214.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-71" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="672" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="664" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-73" target="EsyDy2RAEM6CwkYFkrmJ-76">
           <mxGeometry relative="1" as="geometry" />
