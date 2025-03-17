@@ -269,7 +269,7 @@
           <mxGeometry x="164" y="1063" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-73" value="蓝牙断连（设备超距）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备远离，与app断连）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="1650" width="260" height="80" as="geometry" />
+          <mxGeometry x="360" y="1610" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-74" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="474" y="898" width="40" height="30" as="geometry" />
@@ -308,7 +308,7 @@
           <mxGeometry x="420" y="990" width="311" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-79" value="App端以固定时间间隔进行蓝牙回连操作" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="1770" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="EsyDy2RAEM6CwkYFkrmJ-90" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -318,11 +318,11 @@
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-14" target="EsyDy2RAEM6CwkYFkrmJ-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149" y="1910" as="sourcePoint" />
+            <mxPoint x="279" y="1870" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="465" y="1855" />
-              <mxPoint x="435" y="1855" />
-              <mxPoint x="435" y="1755" />
+              <mxPoint x="595" y="1815" />
+              <mxPoint x="565" y="1815" />
+              <mxPoint x="565" y="1715" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -355,8 +355,8 @@
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-1" target="EsyDy2RAEM6CwkYFkrmJ-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="382" y="1570" as="sourcePoint" />
-            <mxPoint x="75" y="1570" as="targetPoint" />
+            <mxPoint x="512" y="1530" as="sourcePoint" />
+            <mxPoint x="205" y="1530" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -366,7 +366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-1" value="心率带" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="1530" width="120" height="40" as="geometry" />
+          <mxGeometry x="435" y="1490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -387,7 +387,7 @@
           <mxGeometry x="246" y="400" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-14" value="回连到之前的蓝牙设备？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285" y="1880" width="180" height="80" as="geometry" />
+          <mxGeometry x="415" y="1840" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-16" value="保存当次运动记录数据&lt;div&gt;并进入到数据详情页面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="519" y="1370" width="161" height="60" as="geometry" />
@@ -402,7 +402,7 @@
           <mxGeometry x="330" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;实时模式下，App与心率带、算法数据交互&lt;/h1&gt;&lt;p&gt;在实时户外跑模式下，心率带与App通过蓝牙连接上之后，两者通过蓝牙协议进行数据交互。主要的交互有：&lt;/p&gt;&lt;p&gt;心率带通过蓝牙向App发送安静心率检测ok 通知，决定是否从安静心率检测等待页面跳转到实时数据显示页面（GPS的不是在心率带上处理的，这里未注明，下同）&lt;/p&gt;&lt;p&gt;在实时显示页面，app解析从心率带传过来的“&lt;span style=&quot;background-color: initial;&quot;&gt;ECG实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”和“&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HrRun实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”，实时更新曲线和参数&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;在实时显示页面，app接收来自心率带的佩戴检查异常通知，以显示佩戴异常提示&lt;/span&gt;&lt;/p&gt;&lt;p&gt;运动结束后，app调用跑步参数平滑算法，绘制数据详情页曲线；app端生成数据库.db，并上传到服务器&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="550" width="300" height="300" as="geometry" />
+          <mxGeometry x="10" y="1480" width="300" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
