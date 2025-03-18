@@ -766,6 +766,11 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-507" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-504" target="tPt6kjmwFI2hEgzp8p8G-506" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LHbNSL2hMWJ82KbKqo-y-0" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-507">
+          <mxGeometry x="-0.4762" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-504" value="心率带连接上？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="909" y="2874.5" width="80" height="80" as="geometry" />
         </mxCell>
