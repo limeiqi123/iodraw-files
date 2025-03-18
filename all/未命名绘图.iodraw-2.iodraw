@@ -205,6 +205,9 @@
         <mxCell id="5YwHFYmCweXgvK3WNZur-17" value="蓝牙断开（忽略已连接蓝牙）？&lt;div&gt;（用户手动忽略已连接上的心率带蓝牙）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="213.69000000000005" y="739" width="226" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="5YwHFYmCweXgvK3WNZur-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YwHFYmCweXgvK3WNZur-19" target="5YwHFYmCweXgvK3WNZur-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-19" value="蓝牙断开（关闭系统蓝牙）？&lt;div&gt;（用户手动关闭系统蓝牙）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="213.44000000000005" y="623" width="226" height="100" as="geometry" />
         </mxCell>
