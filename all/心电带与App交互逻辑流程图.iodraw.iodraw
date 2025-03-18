@@ -740,6 +740,9 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-492" value="再次打开App" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="559" y="2788" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LHbNSL2hMWJ82KbKqo-y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-495" target="EsyDy2RAEM6CwkYFkrmJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-495" value="连接上蓝牙" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="941" y="2788" width="120" height="60" as="geometry" />
         </mxCell>
@@ -749,7 +752,7 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-501" value="设备连接页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="686" y="3005" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-507" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-504" edge="1">
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-507" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-504" target="tPt6kjmwFI2hEgzp8p8G-213" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1046" y="3035" as="targetPoint" />
           </mxGeometry>
@@ -761,11 +764,6 @@
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-504" value="心率带连接上？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="906" y="2995" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LHbNSL2hMWJ82KbKqo-y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tPt6kjmwFI2hEgzp8p8G-213">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1166" y="3035" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="LHbNSL2hMWJ82KbKqo-y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.595;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-504" target="tPt6kjmwFI2hEgzp8p8G-501">
           <mxGeometry relative="1" as="geometry" />
