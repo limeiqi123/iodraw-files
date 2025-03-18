@@ -224,7 +224,7 @@
         <mxCell id="5YwHFYmCweXgvK3WNZur-2" value="进入到运动记录列表页，并显示同步进度" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="350" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5YwHFYmCweXgvK3WNZur-4" value="同步成功" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="5YwHFYmCweXgvK3WNZur-4" value="提示同步成功" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="735" y="453" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
