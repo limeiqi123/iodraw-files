@@ -21,33 +21,26 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-5" value="设备连接页面弹出&lt;div&gt;数据同步浮窗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="265" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-5" target="S3E7KXirn8rthBPccOVv-11" edge="1">
+        <mxCell id="S3E7KXirn8rthBPccOVv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="806" y="325" as="sourcePoint" />
+            <mxPoint x="806" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="805" y="370" />
+              <mxPoint x="807" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="S3E7KXirn8rthBPccOVv-11" target="S3E7KXirn8rthBPccOVv-13" edge="1">
+        <mxCell id="S3E7KXirn8rthBPccOVv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" target="S3E7KXirn8rthBPccOVv-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="568" as="targetPoint" />
+            <mxPoint x="806" y="475" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="S3E7KXirn8rthBPccOVv-8" vertex="1" connectable="0">
           <mxGeometry x="-0.2444" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="806" y="375" as="targetPoint" />
-            <mxPoint x="885" y="435" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="932" y="435" />
-              <mxPoint x="932" y="375" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-11" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;同步 ？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="681" y="395" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="S3E7KXirn8rthBPccOVv-13" target="S3E7KXirn8rthBPccOVv-22" edge="1">
           <mxGeometry relative="1" as="geometry">
