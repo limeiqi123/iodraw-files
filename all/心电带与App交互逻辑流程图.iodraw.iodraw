@@ -668,7 +668,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-442" value="心率带端结束板上数据存储&lt;div&gt;（该次运动的结束时刻由文件的名称确定）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="2944" width="160" height="60" as="geometry" />
+          <mxGeometry x="490" y="2944" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
