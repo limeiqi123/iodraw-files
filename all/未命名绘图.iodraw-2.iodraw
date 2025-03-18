@@ -24,7 +24,7 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="806" y="325" as="sourcePoint" />
-            <mxPoint x="806" y="395" as="targetPoint" />
+            <mxPoint x="860" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="805" y="370" />
               <mxPoint x="807" y="370" />
@@ -52,9 +52,6 @@
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-13" value="实时显示ecg、hr曲线，跑步参数、异常提示（佩戴、GPS、蓝牙）&lt;div&gt;其中ecg曲线从“&lt;span style=&quot;text-align: left;&quot;&gt;ECG实时数据”解析得到&lt;/span&gt;&lt;div&gt;hr曲线从“&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;HrRun实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”中解析得到&lt;/span&gt;&lt;/div&gt;&lt;div&gt;跑步参数从&lt;span style=&quot;background-color: initial;&quot;&gt;“&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;HrRun实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”中解析得到&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;佩戴异常提示从&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;“&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;HrRun实时数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”中解析得到&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;蓝牙异常提示由app端丢帧率计算结果flag得到&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GPS异常提示由app端高德接口flag得到&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="624" y="568" width="363" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="896" y="393" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-15" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;以0.2s的固定间隔给app发送蓝牙帧 “ECG实时数据”&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;以1s的固定间隔给app发送蓝牙帧 “HrRun实时数据”（包含hr、跑步参数、&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left; text-wrap: wrap;&quot;&gt;佩戴检测flag&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="481" width="311" height="50" as="geometry" />
@@ -394,7 +391,7 @@
           <mxGeometry x="1929" y="690" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-2" value="1. 设备连接页面弹出&lt;span style=&quot;background-color: initial;&quot;&gt;数据同步浮窗&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 用户选择“同步”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="275" width="230" height="60" as="geometry" />
+          <mxGeometry x="680" y="385" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
