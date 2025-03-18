@@ -33,6 +33,9 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-29" value="手机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="109.47" y="620" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5YwHFYmCweXgvK3WNZur-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S3E7KXirn8rthBPccOVv-32" target="5YwHFYmCweXgvK3WNZur-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-32" value="蓝牙断开（die手机进程）？&lt;div&gt;（用户手动清理app后台，退出app）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="234.97" y="610" width="210" height="80" as="geometry" />
         </mxCell>
@@ -195,6 +198,9 @@
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-13" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="79.47" y="950" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5YwHFYmCweXgvK3WNZur-15" value="同步失败" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="569.97" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
