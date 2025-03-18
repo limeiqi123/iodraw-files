@@ -620,7 +620,7 @@
           <mxGeometry x="20" y="1782" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-418" value="进入到设备连接页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="1663" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="1762" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
