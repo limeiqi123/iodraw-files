@@ -736,8 +736,8 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-495" value="连接上蓝牙" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="927" y="3310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-501" value="再次打开App" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="3320" width="120" height="60" as="geometry" />
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-501" value="设备连接页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="3406.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
