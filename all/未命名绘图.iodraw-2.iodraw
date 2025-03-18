@@ -104,13 +104,11 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-65" value="&lt;div&gt;蓝牙断开（关闭系统蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;br&gt;&lt;/div&gt;蓝牙断连（设备超距）、&lt;div&gt;蓝牙断连（30s未佩戴）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
           <mxGeometry x="1997.5" y="528.75" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-67" edge="1">
+        <mxCell id="S3E7KXirn8rthBPccOVv-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1603" y="720" as="sourcePoint" />
             <mxPoint x="1560" y="598.875" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-67" value="蓝牙断连（30s未佩戴）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备与人体脱离＞30，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1603" y="670" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-70" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -202,8 +200,10 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-100" value="手机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1929" y="453" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-103" target="S3E7KXirn8rthBPccOVv-67" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="S3E7KXirn8rthBPccOVv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1823" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-102" value="notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S3E7KXirn8rthBPccOVv-101" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
@@ -228,7 +228,7 @@
           <mxGeometry x="855" y="433" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-7" value="提示“出现异常，同步失败”" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="733" width="140" height="60" as="geometry" />
+          <mxGeometry x="880" y="733" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
