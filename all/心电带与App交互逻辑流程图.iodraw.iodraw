@@ -536,20 +536,6 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-111" value="蓝牙断连（设备超距）、&lt;div&gt;蓝牙断连（30s未佩戴）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1850" y="1470" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-283">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1449" y="1235" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1492" y="1235" />
-              <mxPoint x="1492" y="1235" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-288" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tPt6kjmwFI2hEgzp8p8G-286">
-          <mxGeometry x="-0.4514" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-283" value="蓝牙断连（30s未佩戴）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备与人体脱离＞30，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1504" y="1185" width="220" height="100" as="geometry" />
         </mxCell>
