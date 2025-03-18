@@ -16,8 +16,8 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="S3E7KXirn8rthBPccOVv-5" target="S3E7KXirn8rthBPccOVv-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-5" value="App端选择实时监测模式（“户外跑”、“跑步机跑”、“自由训练”）&lt;div&gt;并点击开始运动&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="746" y="155" width="174" height="60" as="geometry" />
+        <mxCell id="S3E7KXirn8rthBPccOVv-5" value="设备连接页面弹出&lt;div&gt;数据同步浮窗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="691" y="155" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="S3E7KXirn8rthBPccOVv-7" target="S3E7KXirn8rthBPccOVv-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
