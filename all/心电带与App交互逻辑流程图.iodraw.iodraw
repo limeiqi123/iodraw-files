@@ -626,7 +626,10 @@
           <mxGeometry x="940" y="1762" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-420" value="检测到心率带蓝牙?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130.5" y="1653" width="120" height="80" as="geometry" />
+          <mxGeometry x="1124" y="1754" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.075;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-418" target="tPt6kjmwFI2hEgzp8p8G-420">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
