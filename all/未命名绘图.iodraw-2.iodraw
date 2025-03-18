@@ -208,6 +208,9 @@
         <mxCell id="5YwHFYmCweXgvK3WNZur-19" value="蓝牙断开（关闭系统蓝牙）？&lt;div&gt;（用户手动关闭系统蓝牙）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="210.44000000000005" y="629.75" width="226" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="5YwHFYmCweXgvK3WNZur-20" value="手机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="82.94" y="649.75" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
