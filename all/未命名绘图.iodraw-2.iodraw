@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2H_VtWUAdijuZt0X90WH">
-    <mxGraphModel dx="1674" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3044" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,9 @@
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-3" value="App连接到了心率带" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5YwHFYmCweXgvK3WNZur-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S3E7KXirn8rthBPccOVv-5" target="5YwHFYmCweXgvK3WNZur-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-5" value="1. 设备连接页面弹出&lt;span style=&quot;background-color: initial;&quot;&gt;数据同步浮窗&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 用户选择“同步”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="265" width="230" height="60" as="geometry" />
@@ -69,16 +72,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="S3E7KXirn8rthBPccOVv-21" edge="1">
+        <mxCell id="S3E7KXirn8rthBPccOVv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="816" y="535" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1146" y="535" />
             </Array>
+            <mxPoint x="1146" y="384.9999999999998" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-21" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1086" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-22" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="725" width="160" height="80" as="geometry" />
