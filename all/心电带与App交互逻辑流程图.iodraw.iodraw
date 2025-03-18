@@ -777,6 +777,9 @@
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-506" value="弹出同步浮窗" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1049" y="2884.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LHbNSL2hMWJ82KbKqo-y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.595;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tPt6kjmwFI2hEgzp8p8G-504" target="tPt6kjmwFI2hEgzp8p8G-501">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
