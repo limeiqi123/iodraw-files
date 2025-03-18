@@ -603,7 +603,10 @@
           <mxGeometry x="1318" y="1203" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-412" value="蓝牙断连（4h未佩戴）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备与人体脱离＞4h，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="176.47" y="1657" width="220" height="100" as="geometry" />
+          <mxGeometry x="165.5" y="1762" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tPt6kjmwFI2hEgzp8p8G-413" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1800" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
