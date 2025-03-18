@@ -312,6 +312,14 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-103" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1929" y="690" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5YwHFYmCweXgvK3WNZur-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YwHFYmCweXgvK3WNZur-2" target="5YwHFYmCweXgvK3WNZur-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5YwHFYmCweXgvK3WNZur-6" value="1min内" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5YwHFYmCweXgvK3WNZur-5">
+          <mxGeometry x="-0.1236" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-2" value="进入到运动记录列表页，并显示同步进度" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="350" width="230" height="60" as="geometry" />
         </mxCell>
