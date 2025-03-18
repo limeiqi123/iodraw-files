@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-3" value="App连接到了心率带" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1046" y="111" width="120" height="40" as="geometry" />
+          <mxGeometry x="1046" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-5" target="5YwHFYmCweXgvK3WNZur-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="5YwHFYmCweXgvK3WNZur-2" value="进入到运动记录列表页，并显示同步进度" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="991" y="301" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5YwHFYmCweXgvK3WNZur-4" value="提示同步成功" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="5YwHFYmCweXgvK3WNZur-4" value="提示&lt;span style=&quot;text-align: left;&quot;&gt;升级&lt;/span&gt;成功" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1036" y="404" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-7" value="提示“出现异常，同步失败”" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
