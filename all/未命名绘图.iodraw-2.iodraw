@@ -33,7 +33,7 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-29" value="手机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="92.94" y="530" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5YwHFYmCweXgvK3WNZur-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S3E7KXirn8rthBPccOVv-32">
+        <mxCell id="5YwHFYmCweXgvK3WNZur-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S3E7KXirn8rthBPccOVv-32" target="5YwHFYmCweXgvK3WNZur-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="655" y="560" as="targetPoint" />
           </mxGeometry>
@@ -235,8 +235,8 @@
         <mxCell id="5YwHFYmCweXgvK3WNZur-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.038;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5YwHFYmCweXgvK3WNZur-20" target="5YwHFYmCweXgvK3WNZur-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5YwHFYmCweXgvK3WNZur-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="5YwHFYmCweXgvK3WNZur-32" value="同步失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="529.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
