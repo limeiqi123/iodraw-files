@@ -672,7 +672,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tPt6kjmwFI2hEgzp8p8G-433" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1830" y="1203" width="80" height="60" as="geometry" />
+          <mxGeometry x="1830" y="1205" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
