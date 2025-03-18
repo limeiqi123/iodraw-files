@@ -73,24 +73,25 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-38" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="92.94" y="716.5" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S3E7KXirn8rthBPccOVv-41" target="S3E7KXirn8rthBPccOVv-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="S3E7KXirn8rthBPccOVv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150.94000000000005" y="867" as="sourcePoint" />
+            <mxPoint x="226.05578947368417" y="867.0526315789475" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-40" value="notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S3E7KXirn8rthBPccOVv-39" vertex="1" connectable="0">
           <mxGeometry x="-0.12" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-41" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="80.94" y="837" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-44" edge="1">
+        <mxCell id="S3E7KXirn8rthBPccOVv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="689.47" y="746" as="targetPoint" />
             <Array as="points">
               <mxPoint x="569.47" y="867" />
               <mxPoint x="569.47" y="746" />
             </Array>
+            <mxPoint x="445.9399999999996" y="867" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-43" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S3E7KXirn8rthBPccOVv-42" vertex="1" connectable="0">
@@ -98,17 +99,8 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-44" value="蓝牙断连（4h未佩戴）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备与人体脱离＞4h，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225.94" y="817" width="220" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-65" value="&lt;div&gt;蓝牙断开（关闭系统蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;br&gt;&lt;/div&gt;蓝牙断连（设备超距）、&lt;div&gt;蓝牙断连（30s未佩戴）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
           <mxGeometry x="1997.5" y="528.75" width="410" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1603" y="720" as="sourcePoint" />
-            <mxPoint x="1560" y="598.875" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-70" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -199,19 +191,6 @@
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-100" value="手机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1929" y="453" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-103" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1823" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-102" value="notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="S3E7KXirn8rthBPccOVv-101" vertex="1" connectable="0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-103" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="1929" y="690" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5YwHFYmCweXgvK3WNZur-2" target="5YwHFYmCweXgvK3WNZur-4">
           <mxGeometry relative="1" as="geometry" />
