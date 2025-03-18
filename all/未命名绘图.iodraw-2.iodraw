@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2H_VtWUAdijuZt0X90WH">
-    <mxGraphModel dx="1762" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,8 +24,8 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-5" value="1. 设备连接页面弹出&lt;span style=&quot;background-color: initial;&quot;&gt;数据同步浮窗&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 用户选择“同步”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="245" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（die手机进程）、&lt;/div&gt;蓝牙断连（心率带设备低电）、&lt;div&gt;蓝牙断连（心率带设备充电）&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="950" width="470" height="30" as="geometry" />
+        <mxCell id="S3E7KXirn8rthBPccOVv-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="920" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-29" target="S3E7KXirn8rthBPccOVv-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry x="294.47" y="847.25" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-65" value="&lt;div&gt;蓝牙断开（关闭系统蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;br&gt;&lt;/div&gt;蓝牙断连（设备超距）、" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
-          <mxGeometry x="1997.5" y="528.75" width="410" height="30" as="geometry" />
+          <mxGeometry x="1140" y="680" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-82" target="5YwHFYmCweXgvK3WNZur-7" edge="1">
           <mxGeometry relative="1" as="geometry">
