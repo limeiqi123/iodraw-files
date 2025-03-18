@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2H_VtWUAdijuZt0X90WH">
-    <mxGraphModel dx="2093" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3402" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
           <mxGeometry x="294.47" y="847.25" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-65" value="&lt;div&gt;蓝牙断开（die手机进程）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（关闭系统蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断连（心率带设备低电）、&lt;div&gt;蓝牙断连（心率带设备充电）、&lt;/div&gt;&lt;/div&gt;&lt;div&gt;蓝牙断连（设备超距）&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="680" width="410" height="30" as="geometry" />
+          <mxGeometry x="-43" y="742.75" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-82" target="5YwHFYmCweXgvK3WNZur-7" edge="1">
           <mxGeometry relative="1" as="geometry">
