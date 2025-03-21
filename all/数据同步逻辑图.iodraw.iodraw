@@ -109,6 +109,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cYGd4gFSotdwMFCdNYG4-6" value="App向mcu反馈同步成功的数据ID（方面mcu下次给出列表及决定文件发送顺序）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5YwHFYmCweXgvK3WNZur-5">
+          <mxGeometry x="0.4829" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-2" value="App进入到运动记录列表页，并显示&lt;span style=&quot;text-align: left;&quot;&gt;同步&lt;/span&gt;进度" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="985" y="394" width="241" height="40" as="geometry" />
         </mxCell>
