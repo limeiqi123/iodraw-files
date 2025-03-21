@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-5" value="1. 设备连接页面弹出&lt;span style=&quot;text-align: left;&quot;&gt;同步数据&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;浮窗&lt;/span&gt;（仅在设备连接页面和存储页面才会有可能弹出）&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 用户选择“&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;同步&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="991" y="210" width="230" height="60" as="geometry" />
+          <mxGeometry x="991" y="200" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-29" target="S3E7KXirn8rthBPccOVv-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
