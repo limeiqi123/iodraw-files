@@ -109,7 +109,7 @@
           <mxGeometry x="985" y="380" width="241" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-4" value="提示&lt;span style=&quot;text-align: left;&quot;&gt;同步&lt;/span&gt;成功/失败（只提示一次，不需要每成功一次就提示一次）" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="455" width="176" height="35" as="geometry" />
+          <mxGeometry x="1000" y="455" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-7" value="提示“&lt;span style=&quot;text-align: left;&quot;&gt;出现异常，&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;同步&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;失败&lt;/span&gt;”" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1043.53" y="876" width="170" height="60" as="geometry" />
