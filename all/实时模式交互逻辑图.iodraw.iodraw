@@ -88,15 +88,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-21" edge="1">
+        <mxCell id="FHs8Cgwomu3kawwBKDpe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="816" y="535" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1147" y="375" />
-              <mxPoint x="1147" y="380" />
-              <mxPoint x="1200" y="380" />
-              <mxPoint x="1200" y="535" />
-            </Array>
+            <mxPoint x="810" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-21" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
