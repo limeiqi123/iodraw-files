@@ -161,28 +161,6 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-38" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="93.47" y="928.5" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="vhma3fg5Y648AO8j-QCg-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="151.47000000000003" y="1079" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-44" target="vhma3fg5Y648AO8j-QCg-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="1012" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="1079" />
-              <mxPoint x="570" y="958" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-43" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vhma3fg5Y648AO8j-QCg-42" vertex="1" connectable="0">
-          <mxGeometry x="-0.7489" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-44" value="蓝牙断连（4h未佩戴）？&lt;div&gt;（手机蓝牙还开着，但是由于心率带设备与人体脱离＞4h，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="226.47" y="1029" width="220" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-54" target="vhma3fg5Y648AO8j-QCg-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -311,7 +289,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-82" value="蓝牙断连（设备充电）？&lt;div&gt;（手机蓝牙还开着，但是心率带设备充电，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225.5" y="1144" width="220" height="100" as="geometry" />
+          <mxGeometry x="225.5" y="1047" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-85" target="vhma3fg5Y648AO8j-QCg-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -322,7 +300,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-85" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1164" width="80" height="60" as="geometry" />
+          <mxGeometry x="80" y="1067" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-86" value="进入到设备连接页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1144" width="120" height="60" as="geometry" />
