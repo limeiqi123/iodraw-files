@@ -92,14 +92,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="816" y="535" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1147" y="375" />
               <mxPoint x="1147" y="380" />
-              <mxPoint x="1146" y="380" />
-              <mxPoint x="1146" y="535" />
+              <mxPoint x="1200" y="380" />
+              <mxPoint x="1200" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-21" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1087" y="325" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-22" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="725" width="160" height="80" as="geometry" />
