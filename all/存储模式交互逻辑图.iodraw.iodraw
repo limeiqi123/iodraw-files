@@ -363,8 +363,8 @@
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-90" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（die手机进程）、&lt;/div&gt;蓝牙断连（心率带设备低电）、&lt;div&gt;蓝牙断连（4时未佩戴）、&lt;/div&gt;&lt;div&gt;蓝牙断连（心率带设备充电）&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
           <mxGeometry x="141.47" y="3520" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FoqwPx5EqOw4-RM_lVA4-5" value="用户点击当条运动记录" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
-          <mxGeometry x="1533.97" y="3534.875" width="120" height="60" as="geometry" />
+        <mxCell id="FoqwPx5EqOw4-RM_lVA4-5" value="用户点击当条运动记录查看数据详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="1533.97" y="3470.005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
