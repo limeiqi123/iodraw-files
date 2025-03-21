@@ -70,7 +70,7 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-38" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="536.47" y="874.5" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S3E7KXirn8rthBPccOVv-65" value="&lt;div&gt;蓝牙断开（die手机进程）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（关闭系统蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断连（心率带设备低电）、&lt;div&gt;蓝牙断连（心率带设备充电）、&lt;/div&gt;&lt;/div&gt;&lt;div&gt;蓝牙断连（设备超距）&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
+        <mxCell id="S3E7KXirn8rthBPccOVv-65" value="&lt;div&gt;蓝牙断开（die手机进程）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（关闭系统蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断连（心率带设备没电）、&lt;div&gt;蓝牙断连（心率带设备充电）、&lt;/div&gt;&lt;/div&gt;&lt;div&gt;蓝牙断连（设备超距）&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
           <mxGeometry x="100" y="807.25" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S3E7KXirn8rthBPccOVv-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3E7KXirn8rthBPccOVv-82" target="5YwHFYmCweXgvK3WNZur-7" edge="1">
@@ -143,7 +143,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5YwHFYmCweXgvK3WNZur-13" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="5YwHFYmCweXgvK3WNZur-13" value="手机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="529" y="1110" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5YwHFYmCweXgvK3WNZur-17" target="5YwHFYmCweXgvK3WNZur-7" edge="1">
