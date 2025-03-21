@@ -46,11 +46,11 @@
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-8" target="_1KWG_5H9zGKl4j-NjRT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-8" value="心率带1号 佩戴检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-8" value="心率带2号 佩戴检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-9" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Yes，心率带发出可以被连接的通知信号&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319" y="395.51724137931024" as="geometry" />
+          <mxGeometry x="549" y="385.51724137931024" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-12" target="_1KWG_5H9zGKl4j-NjRT-8">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-12" value="&lt;div&gt;连续3s佩戴?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="290" width="100" height="80" as="geometry" />
+          <mxGeometry x="500" y="280" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
