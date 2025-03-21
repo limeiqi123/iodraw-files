@@ -110,7 +110,7 @@
           <mxGeometry x="1463.5" y="3262.25" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-24" value="app中调用曲线平滑算法&lt;div&gt;保存当次运动记录数据（上传到云端，存储的数据字段及格式见《&lt;span style=&quot;text-align: left;&quot;&gt;运动心率带3.0蓝牙协议及&lt;/span&gt;数据库说明》）&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1433.97" y="3350.25" width="320" height="100" as="geometry" />
+          <mxGeometry x="1433.97" y="3350.25" width="320" height="89.75" as="geometry" />
         </mxCell>
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-26" target="hdzeUjcCGxVkYUa7Ub5_-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
