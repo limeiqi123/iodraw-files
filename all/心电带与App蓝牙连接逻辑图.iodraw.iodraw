@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-3" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Yes，心率带发出可以被连接的通知信号&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;ble信号包含 电量、强度、名称&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_1KWG_5H9zGKl4j-NjRT-2">
           <mxGeometry x="-0.1471" y="-1" relative="1" as="geometry">
-            <mxPoint x="56" y="-12" as="offset" />
+            <mxPoint x="56" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-3">
@@ -60,6 +60,11 @@
               <mxPoint x="541" y="390" />
               <mxPoint x="420" y="390" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_1KWG_5H9zGKl4j-NjRT-13">
+          <mxGeometry x="0.6036" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-12" target="_1KWG_5H9zGKl4j-NjRT-8">
