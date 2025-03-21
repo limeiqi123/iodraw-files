@@ -130,14 +130,6 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-29" value="手机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="832" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-32" target="vhma3fg5Y648AO8j-QCg-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vhma3fg5Y648AO8j-QCg-30" vertex="1" connectable="0">
-          <mxGeometry x="-0.6975" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-32" value="蓝牙断开（die手机进程）？&lt;div&gt;（用户手动清理app后台，退出app）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="235.5" y="822" width="210" height="80" as="geometry" />
         </mxCell>
