@@ -102,7 +102,7 @@
             <mxPoint x="1106" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sV2h3V9OI8rIBlkD6ZUL-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5YwHFYmCweXgvK3WNZur-5">
+        <mxCell id="sV2h3V9OI8rIBlkD6ZUL-2" value="mcu向App发送升级成功/失败的notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5YwHFYmCweXgvK3WNZur-5">
           <mxGeometry x="-0.2333" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
