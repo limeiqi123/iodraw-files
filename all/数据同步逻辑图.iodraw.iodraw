@@ -118,7 +118,7 @@
           <mxGeometry x="985" y="394" width="241" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-4" value="提示&lt;span style=&quot;text-align: left;&quot;&gt;同步&lt;/span&gt;成功/失败（只提示一次，不需要每上传一个文件就提示一次）" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="455" width="220" height="45" as="geometry" />
+          <mxGeometry x="1000" y="480" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-7" value="提示“&lt;span style=&quot;text-align: left;&quot;&gt;出现异常，&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;同步&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;失败&lt;/span&gt;”" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1043.53" y="876" width="170" height="60" as="geometry" />
@@ -186,7 +186,7 @@
         <mxCell id="cYGd4gFSotdwMFCdNYG4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cYGd4gFSotdwMFCdNYG4-1" target="5YwHFYmCweXgvK3WNZur-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cYGd4gFSotdwMFCdNYG4-5" value="mcu向app发送运动同步帧（依次发：ECG帧、Hr帧、Run帧（跑步模式下才有））数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cYGd4gFSotdwMFCdNYG4-2">
+        <mxCell id="cYGd4gFSotdwMFCdNYG4-5" value="mcu向app发送运动同步帧（依次发：文件名称、ECG帧、Hr帧、Run帧（跑步模式下才有））数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cYGd4gFSotdwMFCdNYG4-2">
           <mxGeometry x="-0.2075" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
