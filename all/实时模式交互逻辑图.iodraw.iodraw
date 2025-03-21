@@ -218,13 +218,18 @@
             <mxPoint x="1378" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-74" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vhma3fg5Y648AO8j-QCg-73" vertex="1" connectable="0">
+        <mxCell id="vhma3fg5Y648AO8j-QCg-74" value="s是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vhma3fg5Y648AO8j-QCg-73" vertex="1" connectable="0">
           <mxGeometry x="-0.0126" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FHs8Cgwomu3kawwBKDpe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-75" target="FHs8Cgwomu3kawwBKDpe-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHs8Cgwomu3kawwBKDpe-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FHs8Cgwomu3kawwBKDpe-8">
+          <mxGeometry x="-0.2735" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-75" value="回连到之前的蓝牙设备？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1103.5" y="558.75" width="180" height="80" as="geometry" />
