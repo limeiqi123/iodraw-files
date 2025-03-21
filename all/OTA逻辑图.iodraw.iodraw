@@ -97,16 +97,21 @@
         <mxCell id="S3E7KXirn8rthBPccOVv-85" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="524" y="927.75" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5YwHFYmCweXgvK3WNZur-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5YwHFYmCweXgvK3WNZur-2" edge="1">
+        <mxCell id="5YwHFYmCweXgvK3WNZur-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5YwHFYmCweXgvK3WNZur-2" target="5YwHFYmCweXgvK3WNZur-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1106" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5YwHFYmCweXgvK3WNZur-2" value="App显示OTA&lt;span style=&quot;text-align: left;&quot;&gt;升级&lt;/span&gt;进度页" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="sV2h3V9OI8rIBlkD6ZUL-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5YwHFYmCweXgvK3WNZur-5">
+          <mxGeometry x="-0.2333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YwHFYmCweXgvK3WNZur-2" value="App显示OTA&lt;span style=&quot;text-align: left;&quot;&gt;升级&lt;/span&gt;进度" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="991" y="230" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-4" value="提示&lt;span style=&quot;text-align: left;&quot;&gt;升级&lt;/span&gt;成功" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1036" y="308" width="140" height="60" as="geometry" />
+          <mxGeometry x="1036" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YwHFYmCweXgvK3WNZur-7" value="提示“&lt;span style=&quot;text-align: left;&quot;&gt;出现异常，OTA升级失败&lt;/span&gt;”" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1038.53" y="813.75" width="170" height="60" as="geometry" />
