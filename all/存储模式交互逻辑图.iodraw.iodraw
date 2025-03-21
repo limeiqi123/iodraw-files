@@ -141,7 +141,7 @@
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-34" target="hdzeUjcCGxVkYUa7Ub5_-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-34" value="1. App端进行蓝牙回连操作（1:2:60s,5min）&lt;div&gt;2. 实时显示页面心率显示为--&lt;div&gt;3. 提示蓝牙异常（设备连接已断开，请检查蓝牙连接或佩戴）&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-34" value="1. App端进行蓝牙回连操作（1:2:60s,5min）&lt;div&gt;2. 实时显示页面心率显示为--&lt;div&gt;3. 2s弹窗提示蓝牙断连（设备连接已断开，但不影响mcu数据存储）&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2123.47" y="2960" width="230" height="102.25" as="geometry" />
         </mxCell>
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
