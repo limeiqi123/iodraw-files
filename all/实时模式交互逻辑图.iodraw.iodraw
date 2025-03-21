@@ -223,6 +223,9 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FHs8Cgwomu3kawwBKDpe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-75" target="FHs8Cgwomu3kawwBKDpe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-75" value="回连到之前的蓝牙设备？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1103.5" y="558.75" width="180" height="80" as="geometry" />
         </mxCell>
@@ -311,6 +314,9 @@
         </mxCell>
         <mxCell id="FHs8Cgwomu3kawwBKDpe-3" value="不保存数据" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="832" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHs8Cgwomu3kawwBKDpe-7" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1153.5" y="718.75" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
