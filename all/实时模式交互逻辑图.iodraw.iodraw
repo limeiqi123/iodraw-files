@@ -104,7 +104,7 @@
           <mxGeometry x="725" y="725" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-23" value="&lt;div&gt;进入到数据详情页面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="735" y="1164" width="140" height="60" as="geometry" />
+          <mxGeometry x="736" y="1100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-50" target="vhma3fg5Y648AO8j-QCg-23" edge="1">
           <mxGeometry relative="1" as="geometry">
