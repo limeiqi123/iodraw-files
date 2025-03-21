@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-3" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Yes，心率带发出可以被连接的通知信号&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_1KWG_5H9zGKl4j-NjRT-2">
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-3" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Yes，心率带发出可以被连接的通知信号&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;ble信号包含 电量、强度、名称&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_1KWG_5H9zGKl4j-NjRT-2">
           <mxGeometry x="-0.1471" y="-1" relative="1" as="geometry">
             <mxPoint x="56" y="-12" as="offset" />
           </mxGeometry>
