@@ -361,8 +361,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-140" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Mode&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(254,255,255);&quot;&gt;Stop-0x03&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-415" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  &#xa;6E 40 00 07 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&#xa;&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;&#xa;总长度：34字节" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-798" y="2960" width="310" height="50" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  &#xa;6E 40 00 07 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&#xa;&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="2910" width="738" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-1" value="数据头0xBF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-535" y="3050" width="120" height="60" as="geometry" />
