@@ -283,7 +283,7 @@
           <mxGeometry x="1407" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-54" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-792" y="1760" width="1912" height="750" as="geometry" />
+          <mxGeometry x="-792" y="1754" width="1912" height="750" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-131" value="&lt;div&gt;Stancetime balance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="GeErBc8DgyWqIXQP_eBg-54" vertex="1">
           <mxGeometry x="1588" y="450" width="125" height="80" as="geometry" />
