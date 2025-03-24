@@ -369,8 +369,8 @@
         <mxCell id="FoqwPx5EqOw4-RM_lVA4-5" value="用户点击当条运动记录查看数据详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="1533.97" y="3439.005" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nq-KZF_PCD3fxDx3QRQQ-1" value="App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1820" y="2776.25" as="geometry" />
+        <mxCell id="Nq-KZF_PCD3fxDx3QRQQ-1" value="App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输&lt;div style=&quot;font-size: 9px;&quot;&gt;（用于计算个性化跑步参数）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1795" y="2790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
