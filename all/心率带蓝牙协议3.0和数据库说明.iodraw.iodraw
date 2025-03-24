@@ -22,6 +22,9 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-6" value="Ndata&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KoJfMZJi_zzmortOxPM7-7" value="Len&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
