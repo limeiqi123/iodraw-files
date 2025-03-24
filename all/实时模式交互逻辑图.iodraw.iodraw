@@ -21,7 +21,7 @@
             <mxPoint x="1163.5" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iYTq0eNwBcd8pMFfd4BL-3" value="App通过ble向mcu传输个性化模型参数&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iYTq0eNwBcd8pMFfd4BL-2" vertex="1" connectable="0">
+        <mxCell id="iYTq0eNwBcd8pMFfd4BL-3" value="App从后台拿到通过ble向mcu传输&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iYTq0eNwBcd8pMFfd4BL-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3778" y="1" relative="1" as="geometry">
             <mxPoint x="56" y="-14" as="offset" />
           </mxGeometry>
