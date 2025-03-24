@@ -258,7 +258,7 @@
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-8" value="&lt;div&gt;RData&lt;/div&gt;Size=Len*Uint16" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
           <mxGeometry x="1296" y="575" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e1CjrkJQ4_gOpJPhgHam-9" value="R peak位置（全局的）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
+        <mxCell id="e1CjrkJQ4_gOpJPhgHam-9" value="R peak位置（相对的）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
           <mxGeometry x="1285" y="670" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;entryX=0.542;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GeErBc8DgyWqIXQP_eBg-52" source="e1CjrkJQ4_gOpJPhgHam-8" target="e1CjrkJQ4_gOpJPhgHam-9">
@@ -315,7 +315,7 @@
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-12" value="Len&lt;div&gt;&lt;div&gt;unit8&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-54">
           <mxGeometry x="1220" y="285" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e1CjrkJQ4_gOpJPhgHam-13" value="&lt;div&gt;Data&lt;/div&gt;Size=Len*Uint16" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-54">
+        <mxCell id="e1CjrkJQ4_gOpJPhgHam-13" value="&lt;div&gt;RData&lt;/div&gt;Size=Len*Uint16" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-54">
           <mxGeometry x="1340" y="285" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-131" value="&lt;div&gt;Stancetime balance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="GeErBc8DgyWqIXQP_eBg-54" vertex="1">
