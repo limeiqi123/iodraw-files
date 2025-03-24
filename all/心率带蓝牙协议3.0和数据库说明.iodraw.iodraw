@@ -547,8 +547,8 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-3" value="BufferLen&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-365" y="1552" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-4" value="接下来一段数据是ECG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="1060" width="150" height="30" as="geometry" />
+        <mxCell id="F01ovwvcipL4kE9i2m9c-4" value="当前帧有多少个字节&lt;div&gt;避免粘包异常时数据解析有问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1055" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
