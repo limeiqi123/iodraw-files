@@ -340,28 +340,28 @@
           <mxGeometry x="-790" y="2380" width="1050" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-133" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;黑体&#39;;color:rgb(70,114,196);&quot;&gt;通知外设开始进行数据同步&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="2488" width="160" height="40" as="geometry" />
+          <mxGeometry x="-741" y="2491" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-134" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="2487" width="120" height="60" as="geometry" />
+          <mxGeometry x="-481" y="2490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-135" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(255,255,255);&quot;&gt;Mode&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(255,255,255);&quot;&gt;Start-0x01&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="2487" width="120" height="60" as="geometry" />
+          <mxGeometry x="-361" y="2490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-136" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(254,255,255);&quot;&gt;Filename&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(254,255,255);&quot;&gt;Uint32&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-293" y="2488" width="120" height="60" as="geometry" />
+          <mxGeometry x="-244" y="2491" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-137" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(254,255,255);&quot;&gt;dataNo&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(254,255,255);&quot;&gt;Uint32&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-173" y="2488" width="120" height="60" as="geometry" />
+          <mxGeometry x="-124" y="2491" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-138" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(254,255,255);&quot;&gt;dataNo&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(254,255,255);&quot;&gt;Uint32&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-53" y="2488" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4" y="2491" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-139" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-535" y="2700" width="120" height="60" as="geometry" />
+          <mxGeometry x="-486" y="2703" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-140" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Mode&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(254,255,255);&quot;&gt;Stop-0x03&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-415" y="2700" width="120" height="60" as="geometry" />
+          <mxGeometry x="-366" y="2703" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  6E 40 00 07 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=17;fontStyle=1;fontColor=#1212FF;" parent="1" vertex="1">
           <mxGeometry x="-809" y="2940" width="770" height="77" as="geometry" />
