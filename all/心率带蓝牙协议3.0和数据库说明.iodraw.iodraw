@@ -40,9 +40,6 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-5" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-285" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KoJfMZJi_zzmortOxPM7-6" target="KoJfMZJi_zzmortOxPM7-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-6" value="Ndata&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="500" width="120" height="60" as="geometry" />
         </mxCell>
@@ -78,6 +75,9 @@
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KoJfMZJi_zzmortOxPM7-5" target="KoJfMZJi_zzmortOxPM7-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoJfMZJi_zzmortOxPM7-29" value="用于定义帧序号，该序号为硬件序号，从1~65535循环重置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="430" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
