@@ -289,7 +289,7 @@
           <mxGeometry y="553" width="20" height="600" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-106" value="ecg&lt;div&gt;相关数据长度（字节数）：1+1+1+1+Len*2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-375" y="863" width="250" height="40" as="geometry" />
+          <mxGeometry x="-115" y="870" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
