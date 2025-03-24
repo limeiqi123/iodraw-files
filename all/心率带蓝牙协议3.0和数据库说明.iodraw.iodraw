@@ -259,7 +259,7 @@
           <mxGeometry x="1296" y="575" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-9" value="R peak位置（全局的Uint16够吗？）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
-          <mxGeometry x="1250" y="670" width="220" height="30" as="geometry" />
+          <mxGeometry x="1247" y="690" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;entryX=0.542;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GeErBc8DgyWqIXQP_eBg-52" source="e1CjrkJQ4_gOpJPhgHam-8" target="e1CjrkJQ4_gOpJPhgHam-9">
           <mxGeometry relative="1" as="geometry" />
