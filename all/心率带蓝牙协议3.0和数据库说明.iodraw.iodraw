@@ -29,120 +29,120 @@
           <mxGeometry x="98" y="2210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-13" value="&lt;div&gt;......&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1134" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="1134" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-17" value="&lt;div&gt;Data2ID2&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="919" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="919" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-18" value="Data2-2&lt;div&gt;Size = Len2*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1039" y="951" width="120" height="80" as="geometry" />
+          <mxGeometry x="1039" y="945" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-12" target="PwnZsV8JZDB9xa-zJPwu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-12" value="Bus 0x05&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="339" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="339" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="519" y="851" as="targetPoint" />
+            <mxPoint x="519" y="845" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-13" value="Ndata2&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="459" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="459" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-14" value="Len2&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="579" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="579" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-15" value="&lt;div&gt;Data2ID1&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="699" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="699" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-16" value="Data2-1&lt;div&gt;Size = Len2*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="819" y="951" width="120" height="80" as="geometry" />
+          <mxGeometry x="819" y="945" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9lCgYHCCG70mawcoOUn9-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Calibri; color: rgb(70, 114, 196);&quot;&gt;UART Over Ble &lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: 黑体; color: rgb(70, 114, 196);&quot;&gt;蓝牙服务&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: Calibri; color: rgb(70, 114, 196);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: 黑体; color: rgb(70, 114, 196);&quot;&gt;服务&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: Calibri; color: rgb(70, 114, 196);&quot;&gt;UUID 6E 40 00 01 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-815" y="200" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;UartSig 蓝牙字段数据帧内容 characteristic UUID 6E 40 00 03 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: 黑体;&quot;&gt;发送方向：外设向手机发送，使用&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: Calibri;&quot;&gt;notify without response&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: 黑体;&quot;&gt;低地址&amp;nbsp; &amp;nbsp;→&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 黑体; font-size: 15px; background-color: initial;&quot;&gt;高地址&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="KoJfMZJi_zzmortOxPM7-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;UartSig 蓝牙字段数据帧内容 characteristic UUID 6E 40 00 03 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: 黑体;&quot;&gt;发送方向：外设向手机发送，使用&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: Calibri;&quot;&gt;notify without response&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: 黑体;&quot;&gt;低地址&amp;nbsp; &amp;nbsp;→&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 黑体; font-size: 15px; background-color: initial;&quot;&gt;高地址&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-815" y="690" width="700" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-2" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-481" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="-481" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-3" value="ECGIMU实时帧（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-817" y="969" width="350" height="30" as="geometry" />
+          <mxGeometry x="-817" y="963" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-5" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-241" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="-241" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-6" target="KoJfMZJi_zzmortOxPM7-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-6" value="Ndata1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-121" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="-121" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-7" value="Len1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-8" value="Timestamp&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-361" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="-361" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-9" target="KoJfMZJi_zzmortOxPM7-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-9" value="&lt;div&gt;Data1ID1&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="119" y="951" width="120" height="60" as="geometry" />
+          <mxGeometry x="119" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-11" target="PwnZsV8JZDB9xa-zJPwu-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="309" y="1066" as="targetPoint" />
+            <mxPoint x="309" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-11" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="239" y="951" width="120" height="80" as="geometry" />
+          <mxGeometry x="239" y="945" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;心率带系统蓝牙协议3.0说明&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;在心率带与App交互过程中，涉及大量的蓝牙交互通信过程，这里主要定义每次通信的数据类型及具体协议&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;1. app与心率带设备初次连接的ble服务，App可以获取mcu的 Name、信号强度&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;2. app与心率带设备连接上之后，进行一系列的数据交互通信，包含：电量、设备地址、已连接设备名称......&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;3. 实时模式下，在实时监测页面，mcu向app发送的ECGIMU实时帧、HR实时帧、RUN实时帧&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;4. 存储模式下，在实时显示页面，mcu向app发送的HR实时帧，与实时模式下的HR实时帧相同&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;5. 存储模式下，数据同步页面，mcu向app发出的同步指令、文件名称帧&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;6. 存储模式下，数据同步页面，mcu向app发送的ECG同步帧、HR同步帧、RUN同步帧&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;7. 存储数据管理下，存储数据页面，mcu向app发送的待同步文件列表帧&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-815" y="275" width="815" height="310" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-22" value="用于定义帧序号，该序号为硬件序号&lt;div style=&quot;font-size: 10px;&quot;&gt;取值范围1~2047循环重置&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;先低8位后高8位&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-376" y="871" width="180" height="50" as="geometry" />
+          <mxGeometry x="-376" y="865" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.452;entryY=0.959;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-8" target="KoJfMZJi_zzmortOxPM7-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180.19999999999982" y="1020.8" as="targetPoint" />
+            <mxPoint x="-180.19999999999982" y="1014.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-29" value="该类型数据对应的通道数，即DataID的数量&lt;div style=&quot;font-size: 10px;&quot;&gt;（对于ECG，目前只有单通道）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-166" y="873" width="210" height="40" as="geometry" />
+          <mxGeometry x="-166" y="867" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-31" value="单个通道的数据长度（单位：点）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-46" y="1051" width="200" height="30" as="geometry" />
+          <mxGeometry x="-46" y="1045" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.535;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-7" target="KoJfMZJi_zzmortOxPM7-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-33" value="数据通道（代表后面长度为Len的block所属），&lt;div style=&quot;font-size: 10px;&quot;&gt;（对于ECG，目前只有单通道，&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;这里会是0x10，表示心电通道0）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="64" y="826" width="230" height="50" as="geometry" />
+          <mxGeometry x="64" y="820" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-4" value="&lt;span style=&quot;text-wrap: wrap; font-size: 11px;&quot;&gt;DataID1对应的数据块，&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Len&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;个&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;int&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;16&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;数字，&lt;/span&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;text-indent: 24.1pt; background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;两个&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Byte&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;为一个&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-indent: 24.1pt; background-color: initial; font-size: 11px;&quot;&gt;16&lt;/span&gt;&lt;span style=&quot;text-indent: 24.1pt; background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;位&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;int&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;数据，先低&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;8&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;位，后高&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;8&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;位&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;.&lt;/font&gt;&lt;/span&gt;&lt;p style=&quot;text-indent: 24.1pt; line-height: 114%; font-size: 11px;&quot; class=&quot;15&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="179" y="1081" width="260" height="50" as="geometry" />
+          <mxGeometry x="179" y="1075" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;数据类型为&amp;nbsp;&lt;/span&gt;IMU&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="351.5" y="873" width="95" height="40" as="geometry" />
+          <mxGeometry x="351.5" y="867" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-7" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;通道数量，至少有Acc的3个通道，&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Gyro和Euler不一定有，对不同通道的定义见右侧ID部分说明&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="359" y="788" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.524;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="758.9600000000005" y="837.0000000000002" as="targetPoint" />
+            <mxPoint x="758.9600000000005" y="831.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-14" value="......" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1254" y="951" width="120" height="80" as="geometry" />
+          <mxGeometry x="1254" y="945" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-15" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-481" y="1303" width="120" height="60" as="geometry" />
@@ -295,16 +295,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;labelBackgroundColor=#fff2cc;textShadow=1;strokeWidth=5;strokeColor=#fff2cc;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="49" y="829" width="30" height="600" as="geometry" />
+          <mxGeometry x="49" y="823" width="30" height="600" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-108" value="ecg&lt;span style=&quot;&quot;&gt;相关数据长度（字节数）：1+1+1+(Len*2+1)*Ndata1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#fff2cc;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-106" y="1149" width="320" height="30" as="geometry" />
+          <mxGeometry x="-106" y="1143" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-111" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;labelBackgroundColor=#fff2cc;textShadow=1;strokeWidth=5;strokeColor=#d5e8d4;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="855" y="628" width="30" height="1002" as="geometry" />
+          <mxGeometry x="855" y="622" width="30" height="1002" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-112" value="&lt;span style=&quot;&quot;&gt;IMU&lt;/span&gt;相关数据长度（字节数）：1+1+1+(Len2*2+1)*Ndata2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#d5e8d4;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="714" y="1149" width="330" height="30" as="geometry" />
+          <mxGeometry x="714" y="1143" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-113" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-365" y="2045" width="120" height="60" as="geometry" />
@@ -376,10 +376,10 @@
           <mxGeometry x="110" y="160" width="575.75" height="520" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-5" value="接下来一段数据是ECG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-271" y="1029" width="150" height="30" as="geometry" />
+          <mxGeometry x="-271" y="1023" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Acc、Gyro等不同轴通道的定义&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="685" y="811" width="170" height="40" as="geometry" />
+          <mxGeometry x="685" y="805" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-7" value="个性化模型参数，一共8个浮点数，前4个是跑步的，后四个是走路的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-548" y="3180" width="380" height="30" as="geometry" />
