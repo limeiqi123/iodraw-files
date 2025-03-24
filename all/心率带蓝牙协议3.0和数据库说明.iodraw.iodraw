@@ -261,8 +261,8 @@
         <mxCell id="GeErBc8DgyWqIXQP_eBg-53" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-806" y="3230" width="1527" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=17;fontStyle=1;fontColor=#1212FF;" parent="GeErBc8DgyWqIXQP_eBg-53" vertex="1">
-          <mxGeometry width="770" height="77" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E(考虑到法律风险，后面需要自定义一个无人使用的UUID)&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=17;fontStyle=1;fontColor=#1212FF;" parent="GeErBc8DgyWqIXQP_eBg-53" vertex="1">
+          <mxGeometry width="1470" height="77" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-1" value="数据头0xBF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontColor=default;" parent="GeErBc8DgyWqIXQP_eBg-53" vertex="1">
           <mxGeometry x="327" y="130" width="120" height="60" as="geometry" />
