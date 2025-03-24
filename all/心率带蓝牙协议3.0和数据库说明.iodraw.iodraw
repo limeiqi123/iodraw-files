@@ -75,7 +75,7 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-19" value="用于区分帧的类型&lt;div style=&quot;font-size: 10px;&quot;&gt;0xAF 实时数据帧&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;0xCF&amp;nbsp; 同步数据帧&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-535" y="760" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;心率带系统蓝牙协议3.0说明&lt;/h1&gt;&lt;p&gt;在心率带与App交互过程中，涉及大量的蓝牙交互通信过程，这里主要定义每次通信的数据类型及具体协议&lt;/p&gt;&lt;p&gt;1. app与心率带设备初次连接的ble服务，App可以获取mcu的 Name、信号强度&lt;/p&gt;&lt;p&gt;2. app与心率带设备连接上之后，进行一系列的数据交互通信，包含：电量、设备地址、已连接设备名称......&lt;/p&gt;&lt;p&gt;3. 实时模式下，在实时监测页面，mcu向app发送的ECGIMU实时帧、HR实时帧、RUNPARA实时帧&lt;/p&gt;&lt;p&gt;4. 存储模式下，在实时显示页面，mcu想app发送的HR实时帧&lt;/p&gt;&lt;p&gt;5. 存储模式下，数据同步页面，mcu向app发出的同步指令、文件名称帧&lt;/p&gt;&lt;p&gt;6. 存储模式下，数据同步页面，mcu向app发送的ECG同步帧、HR同步帧、RUNPARA同步帧&lt;/p&gt;&lt;p&gt;7. 存储数据管理下，存储数据页面，mcu向app发送的待同步文件列表帧&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KoJfMZJi_zzmortOxPM7-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;心率带系统蓝牙协议3.0说明&lt;/h1&gt;&lt;p&gt;在心率带与App交互过程中，涉及大量的蓝牙交互通信过程，这里主要定义每次通信的数据类型及具体协议&lt;/p&gt;&lt;p&gt;1. app与心率带设备初次连接的ble服务，App可以获取mcu的 Name、信号强度&lt;/p&gt;&lt;p&gt;2. app与心率带设备连接上之后，进行一系列的数据交互通信，包含：电量、设备地址、已连接设备名称......&lt;/p&gt;&lt;p&gt;3. 实时模式下，在实时监测页面，mcu向app发送的ECGIMU实时帧、HR实时帧、RUN实时帧&lt;/p&gt;&lt;p&gt;4. 存储模式下，在实时显示页面，mcu想app发送的HR实时帧&lt;/p&gt;&lt;p&gt;5. 存储模式下，数据同步页面，mcu向app发出的同步指令、文件名称帧&lt;/p&gt;&lt;p&gt;6. 存储模式下，数据同步页面，mcu向app发送的ECG同步帧、HR同步帧、RUN同步帧&lt;/p&gt;&lt;p&gt;7. 存储数据管理下，存储数据页面，mcu向app发送的待同步文件列表帧&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-805" y="130" width="885" height="310" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-22" value="用于定义帧序号，该序号为硬件序号&lt;div style=&quot;font-size: 10px;&quot;&gt;取值范围1~2047循环重置&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;先低8位后高8位&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
@@ -174,8 +174,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-40" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-530" y="1264" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-41" value="RUNPARA实时帧（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="1282" width="260" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-41" value="RUN实时帧（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="1282" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-43" target="PwnZsV8JZDB9xa-zJPwu-56">
           <mxGeometry relative="1" as="geometry" />
