@@ -240,7 +240,7 @@
         <mxCell id="GeErBc8DgyWqIXQP_eBg-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Acc、Gyro等不同轴通道的定义&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="GeErBc8DgyWqIXQP_eBg-52" vertex="1">
           <mxGeometry x="1502" y="77" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e1CjrkJQ4_gOpJPhgHam-1" value="Bus 0x06&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
+        <mxCell id="e1CjrkJQ4_gOpJPhgHam-1" value="Bus 0x08&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
           <mxGeometry x="1056" y="575" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-2" value="WearFlag&lt;div&gt;&lt;div&gt;unit8&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
