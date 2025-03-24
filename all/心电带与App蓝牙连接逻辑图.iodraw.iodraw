@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1674" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="心率带1号 佩戴检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="143.04" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="130.04" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="203.04" y="630" />
-              <mxPoint x="313.04" y="630" />
+              <mxPoint x="190.04" y="490" />
+              <mxPoint x="300.04" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -37,15 +37,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;连续3s佩戴?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="153.04" y="520" width="100" height="80" as="geometry" />
+          <mxGeometry x="140.04" y="380" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="_1KWG_5H9zGKl4j-NjRT-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="313.04" y="810" as="targetPoint" />
+            <mxPoint x="300.04" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="App设备连接页面，显示2个心率带设备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="203.04" y="690" width="220" height="40" as="geometry" />
+          <mxGeometry x="190.04" y="550" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;一、App与心率带蓝牙连接&lt;/h1&gt;&lt;p&gt;心率带首先通过硬件佩戴检测确定是否能够进入到广播状态，在进入到广播状态后，可以被App检索到，检索之后的设备显示、自动连接、多Shokz App连接的逻辑稍微复杂，这里给出详细的逻辑说明：&lt;/p&gt;&lt;p&gt;① 心率带进行mcu端佩戴检测，累记超过3s检测到了佩戴，硬件系统“开机”，发出可以被连接的通知；&lt;/p&gt;&lt;p&gt;② App通过ble接收到有心率带设备可被连接的通知及设备信息后，&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: center; text-wrap: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;通过名称“CoachHR（后期可能会更改）”进行字符匹配筛选，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;在设备连接页面显示设备列表；&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;③ 如果列表中&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;有上一次连接过的可用的心率带设备，就自动连接并显示在第一行，如果没有，就按照信号强度排序&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;④ 如果心率带之前已经连接了一个shokz app，那么提示用户断连旧的才能使用当前的&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="50" width="690" height="210" as="geometry" />
@@ -54,13 +54,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-8" value="心率带2号 佩戴检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="374.04" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="361.04" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-12" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="434.04" y="630" />
-              <mxPoint x="313.04" y="630" />
+              <mxPoint x="421.04" y="490" />
+              <mxPoint x="300.04" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,8 +77,8 @@
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-12" target="_1KWG_5H9zGKl4j-NjRT-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="514.04" y="560" />
-              <mxPoint x="514.04" y="450" />
+              <mxPoint x="501.03999999999996" y="420" />
+              <mxPoint x="501.03999999999996" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-12" value="&lt;div&gt;连续3s佩戴?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="384.04" y="520" width="100" height="80" as="geometry" />
+          <mxGeometry x="371.04" y="380" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-17" target="_1KWG_5H9zGKl4j-NjRT-20">
           <mxGeometry relative="1" as="geometry" />
@@ -107,35 +107,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-17" value="&lt;div&gt;有上一次连接过的可用的心率带设备（eg, CoachHR_v1）?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="132.04" y="765" width="360" height="60" as="geometry" />
+          <mxGeometry x="119.03999999999999" y="625" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_1KWG_5H9zGKl4j-NjRT-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="452.04" y="950" as="sourcePoint" />
+            <mxPoint x="439.04" y="810" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-20" target="_1KWG_5H9zGKl4j-NjRT-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="312.04" y="950" />
-              <mxPoint x="452.04" y="950" />
+              <mxPoint x="299.04" y="810" />
+              <mxPoint x="439.04" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-20" value="自动连接CoachHR_v1，且显示在第一行，显示的内容包含：电量、信号强度、连接状态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="186.54" y="855" width="251" height="60" as="geometry" />
+          <mxGeometry x="173.54" y="715" width="251" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-26" target="_1KWG_5H9zGKl4j-NjRT-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453.0399999999998" y="950" as="targetPoint" />
+            <mxPoint x="440.0399999999998" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="579.0400000000001" y="950" />
-              <mxPoint x="452.04" y="950" />
+              <mxPoint x="566.0400000000001" y="810" />
+              <mxPoint x="439.04" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-26" value="按照信号强度，从上到下排列设备；等待用户手动进行蓝牙连接" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="453.04" y="855" width="251" height="60" as="geometry" />
+          <mxGeometry x="440.04" y="715" width="251" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-29" target="_1KWG_5H9zGKl4j-NjRT-37">
           <mxGeometry relative="1" as="geometry" />
@@ -146,13 +146,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CoachHR_v1&lt;/span&gt;是否在连接当前shokz App之前已经连上其他shokz App？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="272.04" y="976" width="360" height="54" as="geometry" />
+          <mxGeometry x="259.04" y="836" width="360" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-36" value="mcu与app通信校验当前app连接的类型、连接时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="293.04" y="920" width="290" height="30" as="geometry" />
+          <mxGeometry x="280.04" y="780" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-37" value="提示断连之前的shokz App才能继续使用" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="357.04" y="1080" width="190" height="60" as="geometry" />
+          <mxGeometry x="344.04" y="940" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
