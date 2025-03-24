@@ -414,6 +414,9 @@
         <mxCell id="GeErBc8DgyWqIXQP_eBg-17" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;通知蓝牙停止同步&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-730" y="2710" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-18" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;黑体&#39;;color:rgb(70,114,196);&quot;&gt;接收到一帧数据后的返回帧&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2790" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
