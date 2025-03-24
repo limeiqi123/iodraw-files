@@ -379,7 +379,7 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F01ovwvcipL4kE9i2m9c-6" source="F01ovwvcipL4kE9i2m9c-1" target="F01ovwvcipL4kE9i2m9c-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-1" value="BufferLen&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F01ovwvcipL4kE9i2m9c-6">
+        <mxCell id="F01ovwvcipL4kE9i2m9c-1" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F01ovwvcipL4kE9i2m9c-6">
           <mxGeometry x="455" y="217" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-2" value="BufferLen&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F01ovwvcipL4kE9i2m9c-6">
