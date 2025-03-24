@@ -339,7 +339,7 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-132" value="Sync info 蓝牙字段内容和含义 字段的UUID：6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&#xa;发送方向：手机向外设传输，使用 write with response" style="text;whiteSpace=wrap;fontStyle=1;fontSize=17;fontColor=#1212FF;" parent="1" vertex="1">
           <mxGeometry x="-790" y="2380" width="1050" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-133" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;黑体&#39;;color:rgb(70,114,196);&quot;&gt;通知外设开始进行数据同步&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-133" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: 黑体;&quot;&gt;通知外设开始进行数据同步&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-741" y="2491" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-134" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
@@ -411,8 +411,8 @@
         <mxCell id="GeErBc8DgyWqIXQP_eBg-16" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="598" y="3070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-17" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: 黑体;&quot;&gt;通知蓝牙停止同步&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="2710" width="120" height="40" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-17" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;通知蓝牙停止同步&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="2710" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
