@@ -579,8 +579,8 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-17" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="-371" y="3350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;结束同步帧（通知蓝牙停止同步）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-773" y="3061" width="270" height="40" as="geometry" />
+        <mxCell id="F01ovwvcipL4kE9i2m9c-18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;Runfit帧（通知蓝牙停止同步）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-796" y="3360" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
