@@ -358,10 +358,10 @@
           <mxGeometry x="-120" y="2717" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-139" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-488" y="3023" width="120" height="60" as="geometry" />
+          <mxGeometry x="-488" y="3024" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-140" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Mode&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Stop-0x03&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-368" y="3023" width="120" height="60" as="geometry" />
+          <mxGeometry x="-368" y="3024" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  6E 40 00 07 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=17;fontStyle=1;fontColor=#1212FF;" parent="1" vertex="1">
           <mxGeometry x="-806" y="3410" width="770" height="77" as="geometry" />
@@ -412,7 +412,7 @@
           <mxGeometry x="601" y="3540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-17" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;结束同步帧（通知蓝牙停止同步）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-794" y="3033" width="270" height="40" as="geometry" />
+          <mxGeometry x="-794" y="3034" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;正在同步帧（接收到一帧数据后的返回帧）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-811" y="2920" width="330" height="40" as="geometry" />
