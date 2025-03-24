@@ -171,8 +171,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.387;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-35" target="PwnZsV8JZDB9xa-zJPwu-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-38" value="佩戴检测结果数据类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1095" width="140" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-38" value="心率 数据类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1080" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
