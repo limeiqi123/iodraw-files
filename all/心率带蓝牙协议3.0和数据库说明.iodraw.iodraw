@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="f9484XqTDgppL5q58fDV">
-    <mxGraphModel dx="3434" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,7 +192,7 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-47" value="Timestamp&lt;div style=&quot;font-size: 13px;&quot;&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" parent="GeErBc8DgyWqIXQP_eBg-52" vertex="1">
           <mxGeometry x="453" y="824" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-52" value="用于定义帧序号&lt;div&gt;与ECGIMU实时帧中是一个，这里每次增加5&lt;/div&gt;&lt;div&gt;（0.2s ECGIMU帧，1sRUNPARA帧）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GeErBc8DgyWqIXQP_eBg-52" vertex="1">
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-52" value="用于定义帧序号&lt;div&gt;与ECGIMU实时帧中是一个，这里每次增加5&lt;/div&gt;&lt;div&gt;（0.2s ECGIMU帧，1sRUN帧）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GeErBc8DgyWqIXQP_eBg-52" vertex="1">
           <mxGeometry x="383" y="729" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-56" value="跑步参数 数据类型&lt;div&gt;目前有9种，后续可能会增加，可以在末尾继续add&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GeErBc8DgyWqIXQP_eBg-52" vertex="1">
