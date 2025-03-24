@@ -279,7 +279,7 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳和结束的时间戳（与上面相同），&lt;div&gt;2个时间戳方便动态调整一帧能够存储的时间段&lt;/div&gt;&lt;div&gt;T =&amp;nbsp;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_end-&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_start&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-445" y="1460" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-102" value="在实时模式中ecg采样率是300Hz（1帧60个点），&lt;div&gt;在存储模式中ecg采样率是30Hz（1帧6个点），&lt;/div&gt;&lt;div&gt;Len1= T*6&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-102" value="在实时模式中ecg采样率是300Hz（1帧60个点），&lt;div&gt;在存储模式中ecg采样率是30Hz（1帧6个点），&lt;/div&gt;&lt;div&gt;Len1= T*6（点数）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-30" y="1460" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.565;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-76" target="PwnZsV8JZDB9xa-zJPwu-102">
