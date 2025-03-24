@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="f9484XqTDgppL5q58fDV">
-    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,52 +535,55 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-15" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="F01ovwvcipL4kE9i2m9c-16">
           <mxGeometry x="454" y="434" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E(考虑到法律风险，后面需要自定义一个无人使用的UUID)&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=17;fontStyle=1;fontColor=#1212FF;" parent="1" vertex="1">
-          <mxGeometry x="-806" y="3230" width="1470" height="77" as="geometry" />
+        <mxCell id="F01ovwvcipL4kE9i2m9c-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-806" y="3230" width="1626" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-1" value="数据头0xBF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E(考虑到法律风险，后面需要自定义一个无人使用的UUID)&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=17;fontStyle=1;fontColor=#1212FF;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry width="1470" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Bus=0x07&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-1" value="数据头0xBF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="326" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-7" value="个性化模型参数，一共8个浮点数，前4个是跑步的，后四个是走路的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-396" y="3450" width="380" height="30" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Bus=0x07&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="546" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GeErBc8DgyWqIXQP_eBg-2" edge="1">
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-7" value="个性化模型参数，一共8个浮点数，前4个是跑步的，后四个是走路的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="410" y="220" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="F01ovwvcipL4kE9i2m9c-19" source="GeErBc8DgyWqIXQP_eBg-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-200.05999999999995" y="3452.49" as="targetPoint" />
+            <mxPoint x="605.94" y="222.48999999999978" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Float&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Float&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="666" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-10" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-10" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="786" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-11" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="100" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-11" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="906" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-12" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="220" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-12" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="1026" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-13" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="340" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-13" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="1146" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-14" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="460" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-14" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="1266" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-15" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="580" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-15" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="1386" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-16" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="700" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-16" value="&lt;span style=&quot;font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontColor=default;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
+          <mxGeometry x="1506" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-17" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="-371" y="3350" width="120" height="60" as="geometry" />
+        <mxCell id="F01ovwvcipL4kE9i2m9c-17" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="F01ovwvcipL4kE9i2m9c-19">
+          <mxGeometry x="435" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;Runfit帧（个性化模型参数）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-796" y="3360" width="270" height="40" as="geometry" />
+        <mxCell id="F01ovwvcipL4kE9i2m9c-18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;Runfit帧（个性化模型参数）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=17;" vertex="1" parent="F01ovwvcipL4kE9i2m9c-19">
+          <mxGeometry x="10" y="130" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
