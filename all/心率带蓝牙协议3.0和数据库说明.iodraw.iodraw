@@ -88,8 +88,8 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.535;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-7" target="KoJfMZJi_zzmortOxPM7-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-33" value="数据通道，&lt;div&gt;（对于ECG，目前只有单通道，这里会是0x10，表示心电通道0）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="425" width="370" height="40" as="geometry" />
+        <mxCell id="KoJfMZJi_zzmortOxPM7-33" value="数据通道（代表后面长度为Len的block），&lt;div&gt;（对于ECG，目前只有单通道，&lt;/div&gt;&lt;div&gt;这里会是0x10，表示心电通道0）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="30" y="415" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
