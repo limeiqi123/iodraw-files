@@ -421,10 +421,10 @@
           <mxGeometry x="685" y="2460" width="730" height="270" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-20" value="FILENAME存储数据帧&lt;div&gt;（存储数据页的数据列表）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;手机询问当前未同步文件，mcu给出响应&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-799" y="2355" width="330" height="100" as="geometry" />
+          <mxGeometry x="-817" y="2355" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-21" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-482" y="2380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-481" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
