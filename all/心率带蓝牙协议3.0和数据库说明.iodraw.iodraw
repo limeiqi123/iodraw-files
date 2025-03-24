@@ -278,8 +278,10 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳和结束的时间戳&lt;div&gt;方便动态调整一帧的长度&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1470" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.53;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-93" target="PwnZsV8JZDB9xa-zJPwu-97">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="1530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
