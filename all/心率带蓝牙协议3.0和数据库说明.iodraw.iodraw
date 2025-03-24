@@ -448,10 +448,10 @@
           <mxGeometry x="121.5" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-27" value="mcu本地总的文件个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-372" y="2468" width="140" height="30" as="geometry" />
+          <mxGeometry x="-377" y="2468" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-28" value="当前文件的ID序号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-238.5" y="2468" width="120" height="30" as="geometry" />
+          <mxGeometry x="-237.5" y="2468" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GeErBc8DgyWqIXQP_eBg-24" target="GeErBc8DgyWqIXQP_eBg-28">
           <mxGeometry relative="1" as="geometry" />
