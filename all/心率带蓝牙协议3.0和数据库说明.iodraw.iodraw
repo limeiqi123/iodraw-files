@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="f9484XqTDgppL5q58fDV">
-    <mxGraphModel dx="3434" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,7 +364,7 @@
           <mxGeometry x="-415" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  6E 40 00 07 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=17;fontStyle=1;fontColor=#1212FF;" parent="1" vertex="1">
-          <mxGeometry x="-810" y="2910" width="770" height="130" as="geometry" />
+          <mxGeometry x="-809" y="2940" width="770" height="77" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-1" value="数据头0xBF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-533" y="3080" width="120" height="60" as="geometry" />
