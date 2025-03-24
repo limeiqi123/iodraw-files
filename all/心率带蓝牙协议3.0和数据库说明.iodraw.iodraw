@@ -401,7 +401,13 @@
           <mxGeometry x="185" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-14" value="&lt;span style=&quot;color: rgb(254, 255, 255); font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="195" y="3060" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="3050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-15" value="&lt;span style=&quot;color: rgb(254, 255, 255); font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="425" y="3050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-16" value="&lt;span style=&quot;color: rgb(254, 255, 255); font-family: Calibri; font-size: 10.72px;&quot;&gt;Float&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="545" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
