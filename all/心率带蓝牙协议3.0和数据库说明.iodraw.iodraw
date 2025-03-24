@@ -87,8 +87,8 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-2" target="KoJfMZJi_zzmortOxPM7-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-25" value="用于区分接下来一段数据的类型&lt;div&gt;0x02 ECG&lt;/div&gt;&lt;div&gt;0x03 跑步参数&lt;/div&gt;&lt;div&gt;0x04 心率&lt;/div&gt;&lt;div&gt;0X05 IMU&lt;/div&gt;&lt;div&gt;0x06&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;佩戴结果&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="735" width="190" height="100" as="geometry" />
+        <mxCell id="KoJfMZJi_zzmortOxPM7-25" value="用于区分接下来一段数据的类型&lt;div style=&quot;font-size: 10px;&quot;&gt;0x02 ECG&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;0x03 跑步参数&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;0x04 心率&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;0X05 IMU&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;0x06&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;佩戴结果&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="-315" y="740" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KoJfMZJi_zzmortOxPM7-5" target="KoJfMZJi_zzmortOxPM7-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
