@@ -114,6 +114,14 @@
             <mxPoint x="559" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-20" target="_1KWG_5H9zGKl4j-NjRT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-35" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;mcu与app通信校验当前app连接的类型、连接时间&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_1KWG_5H9zGKl4j-NjRT-34">
+          <mxGeometry x="-0.4212" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-20" value="自动连接CoachHR_v1，且显示在第一行，显示的内容包含：电量、信号强度、连接状态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293.5" y="615" width="251" height="60" as="geometry" />
         </mxCell>
@@ -131,16 +139,6 @@
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CoachHR_v1&lt;/span&gt;是否已经连上其他App？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379" y="736" width="360" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="419" y="675" as="sourcePoint" />
-            <mxPoint x="419" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="419" y="710" />
-              <mxPoint x="559" y="710" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
