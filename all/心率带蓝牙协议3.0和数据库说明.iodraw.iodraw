@@ -126,6 +126,60 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-14" value="......" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1200" y="670" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-15" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-16" value="ECGIMU实时帧（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="698" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-17" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-19" target="PwnZsV8JZDB9xa-zJPwu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-19" value="Ndata1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-20" value="Len1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-21" value="Timestamp&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="680" as="sourcePoint" />
+            <mxPoint x="135" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-23" value="用于区分帧的类型&lt;div&gt;0xAF 实时数据帧&lt;br&gt;&lt;/div&gt;&lt;div&gt;0xCF&amp;nbsp; 同步数据帧&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-535" y="765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-24" value="用于定义帧序号，该序号为硬件序号&lt;div&gt;取值范围1~2047循环重置&lt;/div&gt;&lt;div&gt;先低8位后高8位&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="595" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.452;entryY=0.959;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-21" target="PwnZsV8JZDB9xa-zJPwu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-15" target="PwnZsV8JZDB9xa-zJPwu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-27" value="用于区分接下来一段数据的类型&lt;div&gt;0x02 ECG&lt;/div&gt;&lt;div&gt;0x03 跑步参数&lt;/div&gt;&lt;div&gt;0x04 心率和佩戴&lt;/div&gt;&lt;div&gt;0X05 IMU&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="750" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-17" target="PwnZsV8JZDB9xa-zJPwu-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-29" value="该类型数据对应的通道数，即DataID的数量&lt;div&gt;（对于ECG，目前只有单通道）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="602" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-30" value="单个通道的数据长度（单位：点）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="780" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.535;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-20" target="PwnZsV8JZDB9xa-zJPwu-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
