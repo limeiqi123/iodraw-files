@@ -258,8 +258,8 @@
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-8" value="&lt;div&gt;RData&lt;/div&gt;Size=Len*Uint16" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
           <mxGeometry x="1296" y="575" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e1CjrkJQ4_gOpJPhgHam-9" value="R peak位置（相对的）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
-          <mxGeometry x="1285" y="670" width="150" height="30" as="geometry" />
+        <mxCell id="e1CjrkJQ4_gOpJPhgHam-9" value="R peak位置（全局的Uint16够吗？）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-52">
+          <mxGeometry x="1250" y="670" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;entryX=0.542;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GeErBc8DgyWqIXQP_eBg-52" source="e1CjrkJQ4_gOpJPhgHam-8" target="e1CjrkJQ4_gOpJPhgHam-9">
           <mxGeometry relative="1" as="geometry" />
@@ -482,6 +482,9 @@
         </mxCell>
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-14" value="R peak点个数，该字段不能少，应为R的长度是不固定的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GeErBc8DgyWqIXQP_eBg-54">
           <mxGeometry x="1120" y="380" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e1CjrkJQ4_gOpJPhgHam-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.499;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GeErBc8DgyWqIXQP_eBg-54" source="e1CjrkJQ4_gOpJPhgHam-12" target="e1CjrkJQ4_gOpJPhgHam-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-55" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-811" y="2607" width="1876" height="494" as="geometry" />
