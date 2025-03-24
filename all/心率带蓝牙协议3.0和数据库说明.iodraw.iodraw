@@ -486,7 +486,7 @@
         <mxCell id="GeErBc8DgyWqIXQP_eBg-46" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-480.5" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-47" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Mode&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Start-0x01&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-47" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Mode&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Return-0x02&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-360.5" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
