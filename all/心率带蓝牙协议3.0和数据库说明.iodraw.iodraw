@@ -275,11 +275,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-93" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-290" y="1553" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="1490" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-98" value="该帧数据开始的时间戳" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1498" width="140" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳和结束的时间戳&lt;div&gt;方便动态调整一帧的长度&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="1485" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
