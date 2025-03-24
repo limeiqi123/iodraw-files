@@ -265,17 +265,17 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-79" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="310" y="1841" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-81" value="HR同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="2018" width="220" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-81" value="HR同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="2060" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-82" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="2018" width="120" height="60" as="geometry" />
+          <mxGeometry x="-470" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-89" value="Bus 0x04&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-175" y="2018" width="120" height="60" as="geometry" />
+          <mxGeometry x="-115" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-91" value="Bus 0x06&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="40" y="2018" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="PwnZsV8JZDB9xa-zJPwu-93" target="PwnZsV8JZDB9xa-zJPwu-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -305,16 +305,16 @@
           <mxGeometry x="660" y="1156" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-113" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-413" y="2018" width="120" height="60" as="geometry" />
+          <mxGeometry x="-353" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-114" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-293" y="2018" width="120" height="60" as="geometry" />
+          <mxGeometry x="-233" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-115" value="&lt;div&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;HeartRate&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="2018" width="120" height="80" as="geometry" />
+          <mxGeometry y="2060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-116" value="&lt;div&gt;&lt;font face=&quot;Calibri&quot;&gt;WearFlag&lt;/font&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="160" y="2018" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="2060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-117" value="RUN同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-780" y="2225" width="320" height="30" as="geometry" />
