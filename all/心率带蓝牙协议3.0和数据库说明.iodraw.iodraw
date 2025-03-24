@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-29" value="传感器对应的通道数&lt;div&gt;（目前ECG只有单通道，这里会是固定值1）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-234" y="425" width="260" height="40" as="geometry" />
+          <mxGeometry x="-235" y="422" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
