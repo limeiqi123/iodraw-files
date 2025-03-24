@@ -16,9 +16,9 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iYTq0eNwBcd8pMFfd4BL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="-sUsxJEOQxW6ila3a135-1" edge="1">
+        <mxCell id="iYTq0eNwBcd8pMFfd4BL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1163.5" y="185" as="targetPoint" />
+            <mxPoint x="1259" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iYTq0eNwBcd8pMFfd4BL-3" value="App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iYTq0eNwBcd8pMFfd4BL-2" vertex="1" connectable="0">
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-21" value="心率带&lt;div&gt;内部算法计算hr、跑步参数等&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="315" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="315" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-22" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="725" width="160" height="80" as="geometry" />
@@ -340,9 +340,6 @@
         </mxCell>
         <mxCell id="FHs8Cgwomu3kawwBKDpe-7" value="暂停时长&amp;lt;30min？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1098.5" y="700" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-sUsxJEOQxW6ila3a135-1" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1249" y="155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
