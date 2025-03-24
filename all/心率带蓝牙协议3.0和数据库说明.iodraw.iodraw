@@ -297,7 +297,7 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-115" value="&lt;div&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;HeartRate&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e3c800;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-116" value="&lt;div&gt;&lt;font face=&quot;Calibri&quot;&gt;WearFlag&lt;/font&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e3c800;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-116" value="&lt;div&gt;&lt;font face=&quot;Calibri&quot;&gt;WearFlag&lt;/font&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="1730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
