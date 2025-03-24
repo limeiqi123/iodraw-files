@@ -337,7 +337,7 @@
           <mxGeometry x="-2" y="2210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-132" value="Sync info 蓝牙字段内容和含义 字段的UUID：6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&#xa;发送方向：手机向外设传输，使用 write with response" style="text;whiteSpace=wrap;fontStyle=1;fontSize=17;fontColor=#1212FF;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="2607" width="1050" height="100" as="geometry" />
+          <mxGeometry x="-806" y="2607" width="1050" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-133" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-family: 黑体; text-align: center; background-color: initial;&quot;&gt;开始同步帧（&lt;/span&gt;&lt;span style=&quot;font-family: 黑体; background-color: initial;&quot;&gt;通知外设开始进行数据同步&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 黑体; text-align: center;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontColor=default;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-810" y="2718" width="340" height="40" as="geometry" />
