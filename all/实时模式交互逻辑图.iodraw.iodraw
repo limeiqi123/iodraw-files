@@ -341,6 +341,9 @@
         <mxCell id="FHs8Cgwomu3kawwBKDpe-7" value="暂停时长&amp;lt;30min？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1098.5" y="700" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-sUsxJEOQxW6ila3a135-1" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
