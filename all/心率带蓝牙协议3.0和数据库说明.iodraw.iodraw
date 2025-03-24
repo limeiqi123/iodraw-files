@@ -276,7 +276,7 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-93" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-290" y="1553" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳和结束的时间戳（与上面相同），&lt;div&gt;方便动态调整一帧能够存储的时间段&lt;/div&gt;&lt;div&gt;T =&amp;nbsp;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_end-&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_start&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳和结束的时间戳（与上面相同），&lt;div&gt;2个时间戳方便动态调整一帧能够存储的时间段&lt;/div&gt;&lt;div&gt;T =&amp;nbsp;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_end-&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_start&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-445" y="1460" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-102" value="在实时中ecg采样率是300Hz&lt;div&gt;在存储模式下，ecg采样率是30Hz&lt;/div&gt;&lt;div&gt;T*&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
