@@ -297,6 +297,12 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-112" value="&lt;span style=&quot;&quot;&gt;IMU&lt;/span&gt;相关数据长度（字节数）：1+1+1+(Len2*2+1)*Ndata2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#d5e8d4;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="868" width="330" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-113" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1563" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-114" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1563" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
