@@ -99,8 +99,8 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-33" value="数据通道（代表后面长度为Len的block所属），&lt;div&gt;（对于ECG，目前只有单通道，&lt;/div&gt;&lt;div&gt;这里会是0x10，表示心电通道0）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-5" y="370" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="618" width="50" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-4" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;DataID1对应的数据块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
