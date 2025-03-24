@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KoJfMZJi_zzmortOxPM7-17" value="&lt;div&gt;Data2ID2&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KoJfMZJi_zzmortOxPM7-17" value="&lt;div&gt;Data2ID2&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="875" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-18" value="Data2-2&lt;div&gt;Size = Len2*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
+        <mxCell id="KoJfMZJi_zzmortOxPM7-18" value="Data2-2&lt;div&gt;Size = Len2*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="995" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KoJfMZJi_zzmortOxPM7-12" target="PwnZsV8JZDB9xa-zJPwu-5">
@@ -34,7 +34,7 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-1" value="&lt;div&gt;UartSig 蓝牙字段数据帧内容 characteristic UUID 6E 40 00 03 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-130" y="80" width="570" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-2" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KoJfMZJi_zzmortOxPM7-2" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-525" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-3" value="ECGIMU实时帧（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
