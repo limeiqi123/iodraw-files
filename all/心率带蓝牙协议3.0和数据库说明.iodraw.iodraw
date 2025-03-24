@@ -135,9 +135,6 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-17" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-295" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-19" target="PwnZsV8JZDB9xa-zJPwu-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-19" value="Ndata1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-175" y="985" width="120" height="60" as="geometry" />
         </mxCell>
@@ -147,20 +144,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-21" value="Timestamp&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-415" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125" y="985" as="sourcePoint" />
-            <mxPoint x="125" y="915" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-23" value="用于区分帧的类型&lt;div&gt;0xAF 实时数据帧&lt;br&gt;&lt;/div&gt;&lt;div&gt;0xCF&amp;nbsp; 同步数据帧&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-545" y="1070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-24" value="用于定义帧序号，该序号为硬件序号&lt;div&gt;取值范围1~2047循环重置&lt;/div&gt;&lt;div&gt;先低8位后高8位&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="900" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.452;entryY=0.959;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-21" target="PwnZsV8JZDB9xa-zJPwu-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-15" target="PwnZsV8JZDB9xa-zJPwu-23">
           <mxGeometry relative="1" as="geometry" />
@@ -170,9 +155,6 @@
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-17" target="PwnZsV8JZDB9xa-zJPwu-27">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-29" value="该类型数据对应的通道数，即DataID的数量&lt;div&gt;（对于ECG，目前只有单通道）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="907" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-30" value="单个通道的数据长度（单位：点）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-100" y="1085" width="200" height="30" as="geometry" />
