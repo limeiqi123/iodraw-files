@@ -56,15 +56,18 @@
           <mxGeometry x="195" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-19" value="用于区分帧的类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="578" width="120" height="30" as="geometry" />
+          <mxGeometry x="-533" y="585" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;心率带系统蓝牙协议3.0说明&lt;/h1&gt;&lt;p&gt;在心率带与App交互过程中，涉及大量的蓝牙交互通信过程，这里主要定义每次通信的数据类型及具体协议&lt;/p&gt;&lt;p&gt;1. app与心率带设备初次连接的ble服务，App可以获取mcu的 Name、信号强度&lt;/p&gt;&lt;p&gt;2. app与心率带设备连接上之后，进行一系列的数据交互通信，包含：电量、设备地址、已连接设备名称......&lt;/p&gt;&lt;p&gt;3. 实时模式下，在实时监测页面，mcu向app发送的ECGIMU实时帧、HR实时帧、RUNPARA实时帧&lt;/p&gt;&lt;p&gt;4. 存储模式下，在实时显示页面，mcu想app发送的HR实时帧&lt;/p&gt;&lt;p&gt;5. 存储模式下，数据同步页面，mcu向app发出的同步指令、文件名称帧&lt;/p&gt;&lt;p&gt;6. 存储模式下，数据同步页面，mcu向app发送的ECG同步帧、HR同步帧、RUNPARA同步帧&lt;/p&gt;&lt;p&gt;7. 存储数据管理下，存储数据页面，mcu向app发送的待同步文件列表帧&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-805" y="130" width="885" height="310" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-22" value="用于定义帧序号，该序号为硬件序号，从1~65535循环重置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="430" width="330" height="30" as="geometry" />
+          <mxGeometry x="-495" y="430" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.452;entryY=0.959;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KoJfMZJi_zzmortOxPM7-8" target="KoJfMZJi_zzmortOxPM7-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoJfMZJi_zzmortOxPM7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KoJfMZJi_zzmortOxPM7-2" target="KoJfMZJi_zzmortOxPM7-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
