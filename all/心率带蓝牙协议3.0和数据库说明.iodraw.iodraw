@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="f9484XqTDgppL5q58fDV">
-    <mxGraphModel dx="2022" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,8 +123,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.524;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KoJfMZJi_zzmortOxPM7-15" target="PwnZsV8JZDB9xa-zJPwu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-14" value="Data2-2&lt;div&gt;Size = Len2*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="510" width="120" height="80" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-14" value="......" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="500" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
