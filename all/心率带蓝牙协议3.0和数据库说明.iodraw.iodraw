@@ -1,29 +1,29 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="f9484XqTDgppL5q58fDV">
-    <mxGraphModel dx="2501" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3218" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KoJfMZJi_zzmortOxPM7-17" value="&lt;div&gt;DataID2&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="875" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-18" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="995" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-12" value="Bus 0x05&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-13" value="Ndata2&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-14" value="Len2&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="535" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-15" value="&lt;div&gt;DataID1&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-16" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="775" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9lCgYHCCG70mawcoOUn9-1" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(70,114,196);&quot;&gt;UART Over Ble &lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;黑体&#39;;color:rgb(70,114,196);&quot;&gt;蓝牙服务&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(70,114,196);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;黑体&#39;;color:rgb(70,114,196);&quot;&gt;服务&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:8.04pt;font-family:&#39;Calibri&#39;;color:rgb(70,114,196);&quot;&gt;UUID 6E 40 00 01 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-90" y="38" width="390" height="30" as="geometry" />
@@ -32,31 +32,31 @@
           <mxGeometry x="-130" y="80" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-2" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-525" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-3" value="ECGIMU实时数据（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="188" width="260" height="30" as="geometry" />
+          <mxGeometry x="-805" y="518" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-5" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-285" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-6" value="Ndata&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-165" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-7" value="Len&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-45" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-8" value="Timestamp&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-405" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-9" value="&lt;div&gt;DataID1&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-11" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="195" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-19" value="用于区分帧的类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="248" width="120" height="30" as="geometry" />
+          <mxGeometry x="-535" y="578" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
