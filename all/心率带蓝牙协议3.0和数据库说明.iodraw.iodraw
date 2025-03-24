@@ -10,6 +10,9 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-18" value="Data2-2&lt;div&gt;Size = Len2*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="995" y="500" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KoJfMZJi_zzmortOxPM7-12" target="PwnZsV8JZDB9xa-zJPwu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-12" value="Bus 0x05&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="500" width="120" height="60" as="geometry" />
         </mxCell>
@@ -103,7 +106,7 @@
           <mxGeometry x="-35" y="630" width="600" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span&gt;数据类型为&amp;nbsp;&lt;/span&gt;IMU&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="430" width="60" height="40" as="geometry" />
+          <mxGeometry x="307.5" y="400" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
