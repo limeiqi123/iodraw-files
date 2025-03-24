@@ -115,7 +115,7 @@
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-26" value="按照信号强度，从上到下排列设备；等待用户手动进行蓝牙连接" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="615" width="251" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-29" value="&lt;div&gt;心率带设备是否已经连上其他App&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CoachHR_v1&lt;/span&gt;是否已经连上其他App&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="710" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
