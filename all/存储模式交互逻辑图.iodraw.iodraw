@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gLuG_DrRuibf9vWmuTQR">
-    <mxGraphModel dx="1674" dy="-1494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="-1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,7 +109,7 @@
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-23" value="弹出数据同步浮窗&lt;div&gt;通过同步蓝牙帧，将数据从mcu传到app上&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1463.5" y="3231.25" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FoqwPx5EqOw4-RM_lVA4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-24" target="FoqwPx5EqOw4-RM_lVA4-5">
+        <mxCell id="FoqwPx5EqOw4-RM_lVA4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-24" target="FoqwPx5EqOw4-RM_lVA4-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-24" value="app中调用跑步参数曲线平滑算法、ecg插值算法（从30Hz插值到300Hz）&lt;div&gt;保存当次运动记录数据（上传到云端，存储的数据字段及格式见《&lt;span style=&quot;text-align: left;&quot;&gt;运动心率带3.0蓝牙协议及&lt;/span&gt;数据库说明》）&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -153,7 +153,7 @@
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-38" target="hdzeUjcCGxVkYUa7Ub5_-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FoqwPx5EqOw4-RM_lVA4-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdzeUjcCGxVkYUa7Ub5_-36">
+        <mxCell id="FoqwPx5EqOw4-RM_lVA4-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hdzeUjcCGxVkYUa7Ub5_-36" vertex="1" connectable="0">
           <mxGeometry x="-0.2776" y="2" relative="1" as="geometry">
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
@@ -344,7 +344,7 @@
             <mxPoint x="-37" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FoqwPx5EqOw4-RM_lVA4-4" value="mcu向App发送数据列表信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdzeUjcCGxVkYUa7Ub5_-85">
+        <mxCell id="FoqwPx5EqOw4-RM_lVA4-4" value="mcu向App发送数据列表信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hdzeUjcCGxVkYUa7Ub5_-85" vertex="1" connectable="0">
           <mxGeometry x="0.0201" y="2" relative="1" as="geometry">
             <mxPoint x="23" as="offset" />
           </mxGeometry>
@@ -363,7 +363,7 @@
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-90" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（die手机进程）、&lt;/div&gt;蓝牙断连（心率带设备没电）、&lt;div&gt;蓝牙断连（4时未佩戴）、&lt;/div&gt;&lt;div&gt;蓝牙断连（心率带设备充电）&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
           <mxGeometry x="140" y="3490" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FoqwPx5EqOw4-RM_lVA4-5" value="用户点击当条运动记录查看数据详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
+        <mxCell id="FoqwPx5EqOw4-RM_lVA4-5" value="用户点击当条运动记录查看数据详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="1533.97" y="3439.005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
