@@ -154,7 +154,7 @@
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-37" value="提示断连之前的shokz App才能继续使用&lt;div&gt;断连之前的App&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="940" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-44" value="按照信号强度，从上到下排列设备；等待用户手动进行蓝牙连接" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-44" value="后续功能正常使用" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="424.54" y="1030" width="251" height="60" as="geometry" />
         </mxCell>
       </root>
