@@ -285,10 +285,10 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.565;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-76" target="PwnZsV8JZDB9xa-zJPwu-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;fontColor=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry y="553" width="20" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-108" value="ecg&lt;span style=&quot;background-color: initial;&quot;&gt;相关数据长度（字节数）：1+1+1+1+Len*2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-108" value="ecg&lt;span style=&quot;&quot;&gt;相关数据长度（字节数）：1+1+1+1+Len*2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-135" y="868" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
