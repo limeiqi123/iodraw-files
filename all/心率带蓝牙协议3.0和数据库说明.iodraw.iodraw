@@ -16,7 +16,7 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-3" value="ECGIMU实时数据（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-400" y="188" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-5" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KoJfMZJi_zzmortOxPM7-5" value="Bus 0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
