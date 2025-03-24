@@ -300,8 +300,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-114" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-293" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-115" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1563" width="120" height="80" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-115" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e3c800;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
