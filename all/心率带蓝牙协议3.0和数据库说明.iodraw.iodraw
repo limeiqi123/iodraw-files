@@ -513,6 +513,12 @@
         <mxCell id="GeErBc8DgyWqIXQP_eBg-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.491;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="GeErBc8DgyWqIXQP_eBg-55" source="GeErBc8DgyWqIXQP_eBg-49" target="GeErBc8DgyWqIXQP_eBg-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e1CjrkJQ4_gOpJPhgHam-1" value="Bus 0x06&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1313" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e1CjrkJQ4_gOpJPhgHam-2" value="WearFlag&lt;div&gt;&lt;div&gt;unit8&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1313" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
