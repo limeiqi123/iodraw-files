@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-32" value="mcu与app通信校验当前app连接的类型、连接时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="689" width="290" height="30" as="geometry" />
+          <mxGeometry x="413" y="671" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
