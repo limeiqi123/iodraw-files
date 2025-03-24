@@ -156,7 +156,7 @@
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-36" value="mcu与app通信校验当前app连接的类型、连接时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280.04" y="780" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-49" target="_1KWG_5H9zGKl4j-NjRT-44">
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.558;exitY=0.99;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-49" target="_1KWG_5H9zGKl4j-NjRT-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="1000" as="sourcePoint" />
           </mxGeometry>
