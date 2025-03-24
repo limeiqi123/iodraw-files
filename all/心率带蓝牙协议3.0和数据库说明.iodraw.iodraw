@@ -129,8 +129,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-15" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-535" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-16" value="HR实时帧（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-795" y="1003" width="220" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-16" value="HR实时帧（实时模式下的实时数据、&lt;div&gt;存储模式下的实时数据）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="998" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-17" target="PwnZsV8JZDB9xa-zJPwu-38">
           <mxGeometry relative="1" as="geometry" />
