@@ -288,8 +288,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;labelBackgroundColor=#fff2cc;textShadow=1;strokeWidth=5;strokeColor=#fff2cc;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-5" y="548" width="30" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-108" value="ecg&lt;span style=&quot;&quot;&gt;相关数据长度（字节数）：1+1+1+1+Len*2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#fff2cc;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="868" width="270" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-108" value="ecg&lt;span style=&quot;&quot;&gt;相关数据长度（字节数）：1+1+1+(Len*2+1)*Ndata1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#fff2cc;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="868" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-111" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;labelBackgroundColor=#fff2cc;textShadow=1;strokeWidth=5;strokeColor=#fff2cc;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="801" y="347" width="30" height="1002" as="geometry" />
