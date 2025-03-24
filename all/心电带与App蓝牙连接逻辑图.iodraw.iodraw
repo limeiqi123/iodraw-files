@@ -50,9 +50,6 @@
         <mxCell id="EsyDy2RAEM6CwkYFkrmJ-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;一、App与心率带蓝牙连接&lt;/h1&gt;&lt;p&gt;心率带进行佩戴检测，累记超过3s检测到了佩戴，硬件系统“开机”，发出可以被连接的通知，App接收到有心率带设备可被连接的通知后，在设备连接页面显示该设备，等待用户手动进行连接。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="50" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tPt6kjmwFI2hEgzp8p8G-13" value="用户手动进行蓝牙连接" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="750" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-8" target="_1KWG_5H9zGKl4j-NjRT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -117,6 +114,9 @@
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-26" value="按照信号强度，从上到下排列设备；等待用户手动进行蓝牙连接" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="615" width="251" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-29" value="&lt;div&gt;有上一次连接过的可用的心率带设备（eg, CoachHR_v1）?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="249" y="535" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
