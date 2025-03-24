@@ -276,7 +276,10 @@
           <mxGeometry x="-290" y="1553" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="1498" width="140" height="30" as="geometry" />
+          <mxGeometry x="-425" y="1490" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-98" value="该帧数据开始的时间戳" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1498" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
