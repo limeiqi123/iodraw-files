@@ -8,7 +8,7 @@
           <mxGeometry x="-90" y="38" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-1" value="&lt;div&gt;UartSig 蓝牙字段数据帧内容 characteristic UUID 6E 40 00 03 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="80" width="570" height="40" as="geometry" />
+          <mxGeometry x="-130" y="80" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-2" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="170" width="120" height="60" as="geometry" />
@@ -17,16 +17,16 @@
           <mxGeometry x="-400" y="188" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-5" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-6" value="Ndata&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-7" value="Len&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-8" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
