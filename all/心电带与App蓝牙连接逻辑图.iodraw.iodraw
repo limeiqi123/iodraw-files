@@ -115,7 +115,7 @@
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-20" value="自动连接CoachHR_v1，且显示在第一行，显示的内容包含：电量、信号强度、连接状态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293.5" y="615" width="251" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-26">
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-26" target="_1KWG_5H9zGKl4j-NjRT-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="559.9999999999998" y="710" as="targetPoint" />
           </mxGeometry>
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-32" value="mcu与app通信校验当前app连接的类型、连接时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="675" width="290" height="30" as="geometry" />
+          <mxGeometry x="414" y="660" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
