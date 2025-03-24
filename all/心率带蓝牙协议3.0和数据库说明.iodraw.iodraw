@@ -82,8 +82,8 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-29" value="传感器对应的通道数&lt;div&gt;（目前ECG只有单通道，这里会是固定值1）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-235" y="422" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-31" value="用于区分传感器的类型&lt;div&gt;0x02 ECG传感器&lt;/div&gt;&lt;div&gt;0X05 IMU传感器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="585" width="140" height="60" as="geometry" />
+        <mxCell id="KoJfMZJi_zzmortOxPM7-31" value="单个通道的数据长度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="600" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
