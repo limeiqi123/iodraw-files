@@ -165,8 +165,11 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-35" value="Bus 0x06&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="65" y="985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-36" value="佩戴检测结果数据类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1085" width="140" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-36" value="0/1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1070" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.387;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-35" target="PwnZsV8JZDB9xa-zJPwu-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
