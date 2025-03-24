@@ -124,7 +124,7 @@
           <mxGeometry x="560" y="615" width="251" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CoachHR_v1&lt;/span&gt;是否已经连上其他App？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="731" width="360" height="60" as="geometry" />
+          <mxGeometry x="379" y="736" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-20" target="_1KWG_5H9zGKl4j-NjRT-32">
           <mxGeometry relative="1" as="geometry">
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-32" value="mcu与app通信校验当前app连接的类型、连接时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="672" width="290" height="30" as="geometry" />
+          <mxGeometry x="414" y="689" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
