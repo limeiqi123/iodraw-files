@@ -300,8 +300,8 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-116" value="&lt;div&gt;&lt;font face=&quot;Calibri&quot;&gt;WearFlag&lt;/font&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="160" y="1730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-117" value="RUN实时帧（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-785" y="1292" width="230" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-117" value="RUN同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="1900" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
