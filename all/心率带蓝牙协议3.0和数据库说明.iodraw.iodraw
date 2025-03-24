@@ -262,7 +262,7 @@
           <mxGeometry x="-55" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-91" value="Bus 0x06&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1730" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-92" value="WearFlag&lt;div&gt;&lt;div&gt;unit8&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="185" y="1730" width="120" height="60" as="geometry" />
@@ -300,7 +300,7 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-114" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-293" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-115" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e3c800;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-115" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;HeartRate&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;uint8&lt;/span&gt;&lt;/div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e3c800;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
