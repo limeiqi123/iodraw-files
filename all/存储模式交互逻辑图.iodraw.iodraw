@@ -361,7 +361,15 @@
         <mxCell id="FoqwPx5EqOw4-RM_lVA4-5" value="用户点击当条运动记录查看数据详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="1533.97" y="3439.005" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eLUttRpkz1xTj7OD2dom-1" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="eLUttRpkz1xTj7OD2dom-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLUttRpkz1xTj7OD2dom-1" target="hdzeUjcCGxVkYUa7Ub5_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eLUttRpkz1xTj7OD2dom-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eLUttRpkz1xTj7OD2dom-2">
+          <mxGeometry x="-0.4923" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eLUttRpkz1xTj7OD2dom-1" value="室内跑运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1523" y="2640" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
