@@ -223,28 +223,28 @@
           <mxGeometry x="789" y="1264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-65" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1274" width="120" height="60" as="geometry" />
+          <mxGeometry x="-530" y="1535" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-66" value="RUN实时帧（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-785" y="1292" width="230" height="30" as="geometry" />
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-66" value="ECG同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="1553" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-68" target="PwnZsV8JZDB9xa-zJPwu-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-68" value="Bus 0x03&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1274" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="1535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PwnZsV8JZDB9xa-zJPwu-70" target="PwnZsV8JZDB9xa-zJPwu-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-70" value="Timestamp&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="1274" width="120" height="60" as="geometry" />
+          <mxGeometry x="-410" y="1535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-71" value="用于定义帧序号&lt;div&gt;与ECGIMU实时帧中是一个，这里每次增加5&lt;/div&gt;&lt;div&gt;（0.2s ECGIMU帧，1sRUNPARA帧）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="1179" width="260" height="60" as="geometry" />
+          <mxGeometry x="-480" y="1440" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-72" value="跑步参数 数据类型&lt;div&gt;目前有9种，后续可能会增加，可以在末尾继续add&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-365" y="1364" width="290" height="40" as="geometry" />
+          <mxGeometry x="-375" y="1625" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
