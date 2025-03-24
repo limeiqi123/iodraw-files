@@ -10,7 +10,7 @@
         <mxCell id="KoJfMZJi_zzmortOxPM7-1" value="&lt;div&gt;UartSig 蓝牙字段数据帧内容 characteristic UUID 6E 40 00 03 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-140" y="80" width="570" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KoJfMZJi_zzmortOxPM7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KoJfMZJi_zzmortOxPM7-2" value="数据头0xAF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoJfMZJi_zzmortOxPM7-3" value="ECGIMU实时数据（实时模式下的实时数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
