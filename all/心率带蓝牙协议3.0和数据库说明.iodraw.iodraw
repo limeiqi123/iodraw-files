@@ -67,7 +67,7 @@
           <mxGeometry x="10" y="130" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XFBrE9hehF9N-FaRhU8_-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-790.5" y="2010" width="1997" height="494" as="geometry" />
+          <mxGeometry x="-807.5" y="2010" width="1997" height="494" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-132" value="Sync info 蓝牙字段内容和含义 字段的UUID：6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E(考虑到法律风险，后面需要自定义一个无人使用的UUID)&#xa;发送方向：手机向外设传输，使用 write with response" style="text;whiteSpace=wrap;fontStyle=1;fontSize=17;fontColor=#1212FF;horizontal=1;" parent="XFBrE9hehF9N-FaRhU8_-2" vertex="1">
           <mxGeometry x="5" width="1205" height="100" as="geometry" />
@@ -463,7 +463,7 @@
           <mxGeometry x="394.25" y="1754" width="793.25" height="152" as="geometry" />
         </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-10" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-413" y="1766" width="120" height="60" as="geometry" />
+          <mxGeometry x="-413" y="1770" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-131" value="&lt;div&gt;Stancetime balance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="929" y="3290" width="125" height="80" as="geometry" />
