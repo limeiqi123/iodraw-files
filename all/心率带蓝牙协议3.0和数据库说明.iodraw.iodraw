@@ -535,7 +535,7 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-15" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="F01ovwvcipL4kE9i2m9c-16">
           <mxGeometry x="454" y="434" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-19" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="F01ovwvcipL4kE9i2m9c-19" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-806" y="3230" width="1626" height="250" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-141" value="RunfitPara 蓝牙字段内容和含义  6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E(考虑到法律风险，后面需要自定义一个无人使用的UUID)&#xa;发送方向：手机向外设传输，使用 write with reponse&#xa;总长度：34字节" style="text;whiteSpace=wrap;fontSize=17;fontStyle=1;fontColor=#1212FF;" parent="F01ovwvcipL4kE9i2m9c-19" vertex="1">
