@@ -67,7 +67,7 @@
           <mxGeometry x="10" y="130" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XFBrE9hehF9N-FaRhU8_-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-807.5" y="2010" width="1997" height="494" as="geometry" />
+          <mxGeometry x="-850" y="3540" width="1997" height="494" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-132" value="Sync info 蓝牙字段内容和含义 字段的UUID：6E 40 00 05 B5 A3 F3 93 E0 A9 E5 0E 24 DC CA 9E(考虑到法律风险，后面需要自定义一个无人使用的UUID)&#xa;发送方向：手机向外设传输，使用 write with response" style="text;whiteSpace=wrap;fontStyle=1;fontSize=17;fontColor=#1212FF;horizontal=1;" parent="XFBrE9hehF9N-FaRhU8_-2" vertex="1">
           <mxGeometry x="5" width="1205" height="100" as="geometry" />
