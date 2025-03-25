@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="f9484XqTDgppL5q58fDV">
-    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,9 +282,6 @@
         </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-4" value="当前帧有多少个字节&lt;div&gt;避免粘包异常时数据解析有问题，下同&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="F01ovwvcipL4kE9i2m9c-6" vertex="1">
           <mxGeometry x="400" y="307" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-16" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-811" y="2607" width="1997" height="494" as="geometry" />
         </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-19" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-806" y="3230" width="1626" height="250" as="geometry" />
