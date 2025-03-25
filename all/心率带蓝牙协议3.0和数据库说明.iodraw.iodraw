@@ -252,60 +252,6 @@
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-123" value="&lt;div&gt;State&lt;/div&gt;&lt;div&gt;Size = T*Uint8&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
           <mxGeometry x="912" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-20" value="待同步文件列表帧&lt;div&gt;（存储数据页的数据列表）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="25" y="620" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-21" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="313" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-22" value="&lt;div&gt;FileNums&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="553.5" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="XFBrE9hehF9N-FaRhU8_-3" source="GeErBc8DgyWqIXQP_eBg-23" target="GeErBc8DgyWqIXQP_eBg-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;ExcesiseMode&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Uint8&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="795.5" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-24" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;FileID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Uint32&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="674.5" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="XFBrE9hehF9N-FaRhU8_-3" source="GeErBc8DgyWqIXQP_eBg-25" target="GeErBc8DgyWqIXQP_eBg-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;StartTime&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;String&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="915.5" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="XFBrE9hehF9N-FaRhU8_-3" source="GeErBc8DgyWqIXQP_eBg-26" target="GeErBc8DgyWqIXQP_eBg-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-26" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1035.5" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-27" value="mcu本地总的文件个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="537" y="708" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-28" value="当前文件的ID序号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="676.5" y="708" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" parent="XFBrE9hehF9N-FaRhU8_-3" source="GeErBc8DgyWqIXQP_eBg-24" target="GeErBc8DgyWqIXQP_eBg-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.549;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="XFBrE9hehF9N-FaRhU8_-3" source="GeErBc8DgyWqIXQP_eBg-22" target="GeErBc8DgyWqIXQP_eBg-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;运动模式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;0-跑步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1-自由训练&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="800" y="703" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;运动开始时间&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="910.5" y="708" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-35" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#171A1D&amp;quot;},&amp;quot;最大timestamp&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最大timestamp，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;APP可以计算出运动时长，也能用其判断当前文件是否传输完成&lt;/span&gt;&lt;br&gt;&lt;/article&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1035.5" y="698" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GeErBc8DgyWqIXQP_eBg-41" value="&lt;div&gt;&lt;font face=&quot;黑体&quot; color=&quot;#4672c4&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;一次运动记录，在mcu端会生成如下4个.txt文件&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(70, 114, 196); font-family: 黑体; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2025_0324_1536_ECG.txt&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot; color=&quot;#4672c4&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;2025_0324_1536_Hr.txt&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(70, 114, 196); font-family: 黑体; font-size: 18px; text-wrap: nowrap;&quot;&gt;2025_0324_1536_Run.txt(如果是跑步模式)&lt;/span&gt;&lt;font face=&quot;黑体&quot; color=&quot;#4672c4&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(70, 114, 196); font-family: 黑体; font-size: 18px; text-wrap: nowrap;&quot;&gt;2025_0324_1536_Info.txt（运动模式、运动时长等基本信息）&lt;/span&gt;&lt;span style=&quot;color: rgb(70, 114, 196); font-family: 黑体; font-size: 18px; text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot; color=&quot;#4672c4&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;注意：这四个文件共享一个FileID，需要都同步成功才算成功，有任意一个没有成功，都需要重传&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1240.75" y="598" width="793.25" height="152" as="geometry" />
-        </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-7" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
           <mxGeometry x="434" y="98" width="120" height="60" as="geometry" />
         </mxCell>
@@ -314,9 +260,6 @@
         </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-9" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
           <mxGeometry x="433" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-10" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="433.5" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-13" value="&lt;div&gt;......&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1253" y="945" width="120" height="60" as="geometry" />
@@ -584,6 +527,63 @@
         </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-4" value="当前帧有多少个字节&lt;div&gt;避免粘包异常时数据解析有问题，下同&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-417" y="1035" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-20" value="待同步文件列表帧&lt;div&gt;（存储数据页的数据列表）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="1902" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-21" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-532" y="1892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-22" value="&lt;div&gt;FileNums&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-291.5" y="1892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GeErBc8DgyWqIXQP_eBg-23" target="GeErBc8DgyWqIXQP_eBg-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;ExcesiseMode&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Uint8&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-49.5" y="1892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-24" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;FileID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Uint32&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-170.5" y="1892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GeErBc8DgyWqIXQP_eBg-25" target="GeErBc8DgyWqIXQP_eBg-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;StartTime&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;String&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="70.5" y="1892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GeErBc8DgyWqIXQP_eBg-26" target="GeErBc8DgyWqIXQP_eBg-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-26" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="190.5" y="1892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-27" value="mcu本地总的文件个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-308" y="1990" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-28" value="当前文件的ID序号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-168.5" y="1990" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GeErBc8DgyWqIXQP_eBg-24" target="GeErBc8DgyWqIXQP_eBg-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.549;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GeErBc8DgyWqIXQP_eBg-22" target="GeErBc8DgyWqIXQP_eBg-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;运动模式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;0-跑步&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1-自由训练&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="1985" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;运动开始时间&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="65.5" y="1990" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-35" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#171A1D&amp;quot;},&amp;quot;最大timestamp&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最大timestamp，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;APP可以计算出运动时长，也能用其判断当前文件是否传输完成&lt;/span&gt;&lt;br&gt;&lt;/article&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190.5" y="1980" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GeErBc8DgyWqIXQP_eBg-41" value="&lt;div&gt;&lt;font face=&quot;黑体&quot; color=&quot;#4672c4&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;一次运动记录，在mcu端会生成如下4个.txt文件&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(70, 114, 196); font-family: 黑体; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2025_0324_1536_ECG.txt&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot; color=&quot;#4672c4&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;2025_0324_1536_Hr.txt&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(70, 114, 196); font-family: 黑体; font-size: 18px; text-wrap: nowrap;&quot;&gt;2025_0324_1536_Run.txt(如果是跑步模式)&lt;/span&gt;&lt;font face=&quot;黑体&quot; color=&quot;#4672c4&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(70, 114, 196); font-family: 黑体; font-size: 18px; text-wrap: nowrap;&quot;&gt;2025_0324_1536_Info.txt（运动模式、运动时长等基本信息）&lt;/span&gt;&lt;span style=&quot;color: rgb(70, 114, 196); font-family: 黑体; font-size: 18px; text-wrap: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot; color=&quot;#4672c4&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;注意：这四个文件共享一个FileID，需要都同步成功才算成功，有任意一个没有成功，都需要重传&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395.75" y="1880" width="793.25" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="F01ovwvcipL4kE9i2m9c-10" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-411.5" y="1892" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
