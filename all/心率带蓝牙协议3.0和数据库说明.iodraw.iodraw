@@ -468,8 +468,8 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-10" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-4" vertex="1">
           <mxGeometry x="473.5" y="12" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFBrE9hehF9N-FaRhU8_-8" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-781" y="2840" width="1955" height="530" as="geometry" />
+        <mxCell id="XFBrE9hehF9N-FaRhU8_-8" value="发送方向：外设向手机发送，使用notify without response" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-797" y="2590" width="1955" height="530" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-131" value="&lt;div&gt;Stancetime balance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-8" vertex="1">
           <mxGeometry x="1830" y="450" width="125" height="80" as="geometry" />
