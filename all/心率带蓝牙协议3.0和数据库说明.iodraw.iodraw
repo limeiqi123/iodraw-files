@@ -141,126 +141,6 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-15" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-2" vertex="1">
           <mxGeometry x="454" y="434" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFBrE9hehF9N-FaRhU8_-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-794" y="2360" width="2034" height="750" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-131" value="&lt;div&gt;Stancetime balance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1710" y="450" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-130" value="&lt;div&gt;Stancetime&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1610" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-129" value="&lt;div&gt;Verticalamp&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1512" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-128" value="&lt;div&gt;Distance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1412" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-127" value="&lt;div&gt;Steplen&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1313" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-126" value="&lt;div&gt;Pace&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1213" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-125" value="&lt;div&gt;Stepnumber&lt;/div&gt;&lt;div&gt;Size = T*Uint32&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1112" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-124" value="&lt;div&gt;Cadence&lt;/div&gt;&lt;div&gt;Size = T*Uint8&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1012" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-66" value="ECG同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="3.5" y="98" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-73" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="313.5" y="98" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-74" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="795.5" y="98" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-75" value="Ndata1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="915.5" y="98" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-76" value="Len1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1035.5" y="98" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="XFBrE9hehF9N-FaRhU8_-3" source="PwnZsV8JZDB9xa-zJPwu-77" target="PwnZsV8JZDB9xa-zJPwu-97" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-77" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="555.5" y="98" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-78" value="&lt;div&gt;Data1ID1&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1155.5" y="98" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-79" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1275.5" y="98" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-81" value="HR同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="10" y="285" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-82" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="310" y="285" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-89" value="Bus 0x04&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="787" y="285" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-91" value="Bus 0x06&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1002" y="285" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="XFBrE9hehF9N-FaRhU8_-3" source="PwnZsV8JZDB9xa-zJPwu-93" target="PwnZsV8JZDB9xa-zJPwu-97" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-93" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="675.5" y="98" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳和结束的时间戳（与上面相同），&lt;div&gt;2个时间戳方便动态调整一帧能够存储的时间段&lt;/div&gt;&lt;div&gt;T =&amp;nbsp;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_end-&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_start+1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="520.5" y="5" width="320" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-102" value="在实时模式中ecg采样率是300Hz（1帧60个点），&lt;div&gt;在存储模式中ecg采样率是30Hz（1帧6个点），&lt;/div&gt;&lt;div&gt;Len1= T*6（点数）&lt;/div&gt;&lt;div&gt;这个字段不可少，用来解析fs（后期30Hz可能会改）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="930.5" width="300" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.565;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="XFBrE9hehF9N-FaRhU8_-3" source="PwnZsV8JZDB9xa-zJPwu-76" target="PwnZsV8JZDB9xa-zJPwu-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-113" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="549" y="285" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-114" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="669" y="285" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-115" value="&lt;div&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;HeartRate&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="902" y="285" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-116" value="&lt;div&gt;&lt;font face=&quot;Calibri&quot;&gt;WearFlag&lt;/font&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="1122" y="285" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-117" value="RUN同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry y="465" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-118" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="313" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-119" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="552" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-120" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="672" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-121" value="Bus 0x03&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="792" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PwnZsV8JZDB9xa-zJPwu-123" value="&lt;div&gt;State&lt;/div&gt;&lt;div&gt;Size = T*Uint8&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="912" y="450" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-7" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="434" y="98" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-8" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="429" y="285" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F01ovwvcipL4kE9i2m9c-9" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-3" vertex="1">
-          <mxGeometry x="433" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-13" value="&lt;div&gt;......&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1253" y="945" width="120" height="60" as="geometry" />
         </mxCell>
@@ -584,6 +464,123 @@
         </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-10" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="-413" y="1766" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-131" value="&lt;div&gt;Stancetime balance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="916" y="2810" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-130" value="&lt;div&gt;Stancetime&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="816" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-129" value="&lt;div&gt;Verticalamp&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="718" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-128" value="&lt;div&gt;Distance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="618" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-127" value="&lt;div&gt;Steplen&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="519" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-126" value="&lt;div&gt;Pace&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="419" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-125" value="&lt;div&gt;Stepnumber&lt;/div&gt;&lt;div&gt;Size = T*Uint32&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="318" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-124" value="&lt;div&gt;Cadence&lt;/div&gt;&lt;div&gt;Size = T*Uint8&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="218" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-66" value="ECG同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="-790.5" y="2458" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-73" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-480.5" y="2458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-74" value="Bus 0x02&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1.5" y="2458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-75" value="Ndata1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="121.5" y="2458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-76" value="Len1&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="241.5" y="2458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="PwnZsV8JZDB9xa-zJPwu-77" target="PwnZsV8JZDB9xa-zJPwu-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-77" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-238.5" y="2458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-78" value="&lt;div&gt;Data1ID1&lt;/div&gt;&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="361.5" y="2458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-79" value="Data1&lt;div&gt;Size = Len*int16&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="481.5" y="2458" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-81" value="HR同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="-784" y="2645" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-82" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-484" y="2645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-89" value="Bus 0x04&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-7" y="2645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-91" value="Bus 0x06&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="208" y="2645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="PwnZsV8JZDB9xa-zJPwu-93" target="PwnZsV8JZDB9xa-zJPwu-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-93" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-118.5" y="2458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-97" value="该帧数据开始的时间戳和结束的时间戳（与上面相同），&lt;div&gt;2个时间戳方便动态调整一帧能够存储的时间段&lt;/div&gt;&lt;div&gt;T =&amp;nbsp;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_end-&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap; background-color: initial;&quot;&gt;Timestamp_start+1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-273.5" y="2365" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-102" value="在实时模式中ecg采样率是300Hz（1帧60个点），&lt;div&gt;在存储模式中ecg采样率是30Hz（1帧6个点），&lt;/div&gt;&lt;div&gt;Len1= T*6（点数）&lt;/div&gt;&lt;div&gt;这个字段不可少，用来解析fs（后期30Hz可能会改）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="136.5" y="2360" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.565;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PwnZsV8JZDB9xa-zJPwu-76" target="PwnZsV8JZDB9xa-zJPwu-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-113" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-245" y="2645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-114" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-125" y="2645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-115" value="&lt;div&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;HeartRate&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="108" y="2645" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-116" value="&lt;div&gt;&lt;font face=&quot;Calibri&quot;&gt;WearFlag&lt;/font&gt;&lt;/div&gt;Size = T*uint8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="328" y="2645" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-117" value="RUN同步帧（存储模式下的同步数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="-794" y="2825" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-118" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-481" y="2810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-119" value="Timestamp_start&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-242" y="2810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-120" value="Timestamp_end&lt;div&gt;unit32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-122" y="2810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-121" value="Bus 0x03&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2" y="2810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PwnZsV8JZDB9xa-zJPwu-123" value="&lt;div&gt;State&lt;/div&gt;&lt;div&gt;Size = T*Uint8&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="118" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F01ovwvcipL4kE9i2m9c-7" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="2458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F01ovwvcipL4kE9i2m9c-8" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-365" y="2645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F01ovwvcipL4kE9i2m9c-9" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="-361" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
