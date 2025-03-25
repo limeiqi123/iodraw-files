@@ -551,13 +551,13 @@
           <mxGeometry x="4.5" y="2120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-139" value="数据头0xCF&lt;div&gt;unit8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-473.5" y="2444" width="120" height="60" as="geometry" />
+          <mxGeometry x="-478.5" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-140" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Mode&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.04pt; font-family: Calibri;&quot;&gt;Stop-0x03&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-232.5" y="2444" width="120" height="60" as="geometry" />
+          <mxGeometry x="-237.5" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-17" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;结束同步帧（通知蓝牙停止所有同步）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-797.5" y="2454" width="300" height="40" as="geometry" />
+          <mxGeometry x="-802.5" y="2550" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; font-family: 黑体;&quot;&gt;正在同步帧（接收到一帧数据后的返回帧）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-807.5" y="2323" width="330" height="40" as="geometry" />
@@ -599,7 +599,7 @@
           <mxGeometry x="-357.5" y="2313" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-15" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="-353.5" y="2444" width="120" height="60" as="geometry" />
+          <mxGeometry x="-358.5" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
