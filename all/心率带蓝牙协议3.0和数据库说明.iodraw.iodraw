@@ -525,7 +525,7 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-9" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="-348" y="3290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFBrE9hehF9N-FaRhU8_-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="XFBrE9hehF9N-FaRhU8_-4" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-836.5" y="1774" width="2074" height="170" as="geometry" />
         </mxCell>
         <mxCell id="GeErBc8DgyWqIXQP_eBg-20" value="待同步文件列表帧&lt;div&gt;（存储数据页的数据列表，一个文件名一帧）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" parent="XFBrE9hehF9N-FaRhU8_-4" vertex="1">
