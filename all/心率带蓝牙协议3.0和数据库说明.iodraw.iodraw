@@ -468,9 +468,6 @@
         <mxCell id="F01ovwvcipL4kE9i2m9c-10" value="BufferLen&lt;div&gt;unit16&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="XFBrE9hehF9N-FaRhU8_-4" vertex="1">
           <mxGeometry x="473.5" y="12" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFBrE9hehF9N-FaRhU8_-8" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-797" y="2590" width="1955" height="530" as="geometry" />
-        </mxCell>
         <mxCell id="PwnZsV8JZDB9xa-zJPwu-131" value="&lt;div&gt;Stancetime balance&lt;/div&gt;&lt;div&gt;Size = T*float&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1033" y="3040" width="125" height="80" as="geometry" />
         </mxCell>
@@ -602,7 +599,7 @@
           <mxGeometry x="-243" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XFBrE9hehF9N-FaRhU8_-9" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 255); font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: 黑体;&quot;&gt;发送方向：外设向手机发送，使用&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 255); font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Calibri;&quot;&gt;notify without response&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="3210" width="460" height="40" as="geometry" />
+          <mxGeometry x="-787" y="2550" width="460" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
