@@ -13,6 +13,9 @@
         <mxCell id="e1CjrkJQ4_gOpJPhgHam-16" value="设备地址蓝牙协议，待定义" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=23;fontColor=#1212FF;" parent="1" vertex="1">
           <mxGeometry x="-811" y="605" width="300" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F01ovwvcipL4kE9i2m9c-6" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-817" y="728" width="2310" height="954" as="geometry" />
+        </mxCell>
         <mxCell id="F01ovwvcipL4kE9i2m9c-19" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-800" y="3770" width="1626" height="250" as="geometry" />
         </mxCell>
