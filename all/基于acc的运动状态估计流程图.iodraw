@@ -38,17 +38,20 @@
         <mxCell id="oZlPkiqQO6d_MBvU8jox-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oZlPkiqQO6d_MBvU8jox-3" target="oZlPkiqQO6d_MBvU8jox-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oZlPkiqQO6d_MBvU8jox-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oZlPkiqQO6d_MBvU8jox-3" target="oZlPkiqQO6d_MBvU8jox-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oZlPkiqQO6d_MBvU8jox-3" value="min(accyf)&amp;gt;-9.5?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="450" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZlPkiqQO6d_MBvU8jox-5" value="静止" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="377.5" width="60" height="35" as="geometry" />
+          <mxGeometry x="640" y="557.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="oZlPkiqQO6d_MBvU8jox-9" value="走路" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oZlPkiqQO6d_MBvU8jox-11" value="跑步" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
