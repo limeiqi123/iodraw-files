@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e2Akm9-zg_sDYK4ba6GK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2Akm9-zg_sDYK4ba6GK-1" target="e2Akm9-zg_sDYK4ba6GK-6">
+        <mxCell id="e2Akm9-zg_sDYK4ba6GK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e2Akm9-zg_sDYK4ba6GK-1" target="e2Akm9-zg_sDYK4ba6GK-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2Akm9-zg_sDYK4ba6GK-1" value="1s的accy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e2Akm9-zg_sDYK4ba6GK-1" value="1s的accy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e2Akm9-zg_sDYK4ba6GK-6" value="0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="oZlPkiqQO6d_MBvU8jox-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2Akm9-zg_sDYK4ba6GK-6" target="oZlPkiqQO6d_MBvU8jox-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2Akm9-zg_sDYK4ba6GK-6" value="0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oZlPkiqQO6d_MBvU8jox-1" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
