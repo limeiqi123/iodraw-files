@@ -30,7 +30,7 @@
         <mxCell id="itouCG6nFYMFoXsp7pC_-2" value="0.7Hz高通得到vf" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="itouCG6nFYMFoXsp7pC_-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="itouCG6nFYMFoXsp7pC_-4" value="vf积分得到s" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
