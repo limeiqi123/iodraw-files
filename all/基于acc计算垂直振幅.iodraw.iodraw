@@ -4,18 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dC6GiSElBwpLPvtUfThN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="dC6GiSElBwpLPvtUfThN-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="120" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dC6GiSElBwpLPvtUfThN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dC6GiSElBwpLPvtUfThN-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dC6GiSElBwpLPvtUfThN-4" value="accy经过0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="150" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="itouCG6nFYMFoXsp7pC_-1" target="itouCG6nFYMFoXsp7pC_-2">
           <mxGeometry relative="1" as="geometry" />
