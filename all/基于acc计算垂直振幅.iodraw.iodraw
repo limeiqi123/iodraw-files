@@ -18,13 +18,7 @@
         <mxCell id="dC6GiSElBwpLPvtUfThN-4" value="0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="270" as="sourcePoint" />
-            <mxPoint x="390" y="313" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="itouCG6nFYMFoXsp7pC_-1" value="0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="itouCG6nFYMFoXsp7pC_-1" value="accyf积分得到v" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
