@@ -66,6 +66,9 @@
         <mxCell id="dC6GiSElBwpLPvtUfThN-17" value="跑步" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="423" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="itouCG6nFYMFoXsp7pC_-1" value="0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
