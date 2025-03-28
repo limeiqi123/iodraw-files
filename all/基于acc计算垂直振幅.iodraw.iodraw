@@ -33,8 +33,8 @@
         <mxCell id="itouCG6nFYMFoXsp7pC_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="itouCG6nFYMFoXsp7pC_-6" target="itouCG6nFYMFoXsp7pC_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="itouCG6nFYMFoXsp7pC_-6" value="s经过0.7-15Hz得到sf" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="itouCG6nFYMFoXsp7pC_-6" value="s经过0.7-15Hz带通得到sf" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-8" value="根据sf的单周期内极大值-极小值获得垂直振幅" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="530" width="260" height="50" as="geometry" />
