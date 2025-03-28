@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dC6GiSElBwpLPvtUfThN-4" value="accy经过0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="140" width="180" height="50" as="geometry" />
+          <mxGeometry x="290" y="140" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="itouCG6nFYMFoXsp7pC_-1" target="itouCG6nFYMFoXsp7pC_-2">
           <mxGeometry relative="1" as="geometry" />
@@ -36,7 +36,7 @@
         <mxCell id="itouCG6nFYMFoXsp7pC_-6" value="s经过0.7-15Hz带通得到sf" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="450" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="itouCG6nFYMFoXsp7pC_-8" value="根据sf的单周期内极大值-极小值获得垂直振幅" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="itouCG6nFYMFoXsp7pC_-8" value="根据sf单周期内极大值-极小值获得垂直振幅" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="530" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
