@@ -18,56 +18,14 @@
         <mxCell id="dC6GiSElBwpLPvtUfThN-4" value="0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="dC6GiSElBwpLPvtUfThN-14" edge="1">
+        <mxCell id="dC6GiSElBwpLPvtUfThN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="313" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-6" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dC6GiSElBwpLPvtUfThN-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.7141" relative="1" as="geometry">
-            <mxPoint y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="dC6GiSElBwpLPvtUfThN-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="245" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dC6GiSElBwpLPvtUfThN-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.0929" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dC6GiSElBwpLPvtUfThN-14" target="dC6GiSElBwpLPvtUfThN-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dC6GiSElBwpLPvtUfThN-10" vertex="1" connectable="0">
-          <mxGeometry x="-0.0971" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dC6GiSElBwpLPvtUfThN-14" target="dC6GiSElBwpLPvtUfThN-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dC6GiSElBwpLPvtUfThN-12" vertex="1" connectable="0">
-          <mxGeometry x="0.1273" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-14" value="min(accyf)&amp;gt;accminth?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="313" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-15" value="静止" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="420.5" width="60" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-16" value="走路" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="423" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dC6GiSElBwpLPvtUfThN-17" value="跑步" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="423" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-1" value="0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
