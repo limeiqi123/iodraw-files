@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-8" value="sy信号质量低？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300.33" y="767" width="200" height="80" as="geometry" />
+          <mxGeometry x="300.33" y="764" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-10" target="hM5Bo5m3-S3KYsvlN9sy-12">
           <mxGeometry relative="1" as="geometry" />
