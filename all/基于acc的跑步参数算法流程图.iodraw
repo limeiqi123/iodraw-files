@@ -180,6 +180,11 @@
             <mxPoint x="392.9999999999998" y="1900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hM5Bo5m3-S3KYsvlN9sy-53">
+          <mxGeometry x="-0.0933" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-54" value="走路？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="1730" width="80" height="80" as="geometry" />
         </mxCell>
