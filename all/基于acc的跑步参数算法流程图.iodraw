@@ -1,28 +1,28 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="IppOR5ep2iuYmwJPSQC3">
-    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dC6GiSElBwpLPvtUfThN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dC6GiSElBwpLPvtUfThN-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="386" y="288" as="targetPoint" />
+            <mxPoint x="388" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dC6GiSElBwpLPvtUfThN-4" value="一帧原始acc（10个点）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="286" y="208" width="200" height="50" as="geometry" />
+          <mxGeometry x="288" y="208" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="itouCG6nFYMFoXsp7pC_-1" target="itouCG6nFYMFoXsp7pC_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-1" value="二次积分得到v、s" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="326" y="288" width="120" height="40" as="geometry" />
+          <mxGeometry x="328" y="288" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="itouCG6nFYMFoXsp7pC_-2" target="hM5Bo5m3-S3KYsvlN9sy-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-2" value="更新accbuffer、vbuffer、sbuffer" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="276" y="358" width="220" height="40" as="geometry" />
+          <mxGeometry x="278" y="358" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-1" target="hM5Bo5m3-S3KYsvlN9sy-3">
           <mxGeometry relative="1" as="geometry" />
@@ -41,13 +41,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-1" value="buffer总长度&amp;gt;3s,更新步长＞1s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="266" y="430" width="240" height="80" as="geometry" />
+          <mxGeometry x="268" y="430" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-3" target="hM5Bo5m3-S3KYsvlN9sy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-3" value="评估sy的信号质量&lt;div&gt;（根据默认阈值参数，对sy找谷值，根据谷值std阈值判断信号质量）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="553" width="320" height="60" as="geometry" />
+          <mxGeometry x="228" y="553" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-8" target="hM5Bo5m3-S3KYsvlN9sy-10">
           <mxGeometry relative="1" as="geometry" />
@@ -67,13 +67,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-8" value="sy信号质量低？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="640" width="200" height="80" as="geometry" />
+          <mxGeometry x="288" y="640" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-10" target="hM5Bo5m3-S3KYsvlN9sy-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-10" value="调整阈值参数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="328" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-12" target="hM5Bo5m3-S3KYsvlN9sy-17">
           <mxGeometry relative="1" as="geometry" />
