@@ -184,7 +184,7 @@
           <mxGeometry x="361" y="1730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-55" value="当前1s，输出的跑步参数为：触地时间--，触地时间平衡--" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="1900" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1900" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
