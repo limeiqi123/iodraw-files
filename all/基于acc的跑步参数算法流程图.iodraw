@@ -139,6 +139,9 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-28" value="峰峰间隔buffer对应的时间长度＞7s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280.33" y="1517" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-33" target="hM5Bo5m3-S3KYsvlN9sy-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-33" value="对各参数buffer，计算去野点后的均值，作为当前1s的输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280.33" y="1637" width="240" height="60" as="geometry" />
         </mxCell>
@@ -174,14 +177,14 @@
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-54" target="hM5Bo5m3-S3KYsvlN9sy-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="921.9999999999998" y="780" as="targetPoint" />
+            <mxPoint x="392.9999999999998" y="1900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-54" value="走路？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="361" y="1730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-55" value="当前1s，输出的跑步参数为：触地时间--，触地时间平衡--" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="341" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
