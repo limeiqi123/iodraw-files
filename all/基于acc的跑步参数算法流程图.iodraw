@@ -134,8 +134,8 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-28" value="峰峰间隔buffer对应的时间长度＞7s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1390" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-33" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1560" width="120" height="60" as="geometry" />
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-33" value="对各参数buffer计算参数均值，作为当前1s的输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
