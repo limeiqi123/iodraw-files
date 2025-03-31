@@ -24,8 +24,14 @@
         <mxCell id="itouCG6nFYMFoXsp7pC_-2" value="更新accbuffer、vbuffer、sbuffer" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-1" target="hM5Bo5m3-S3KYsvlN9sy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-1" value="buffer总长度&amp;gt;3s,更新步长＞1s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="273" y="390" width="240" height="80" as="geometry" />
+          <mxGeometry x="270" y="390" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-3" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
