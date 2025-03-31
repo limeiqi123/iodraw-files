@@ -55,7 +55,7 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-8" value="信号质量低？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="690" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-10" value="调整阈值参数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
