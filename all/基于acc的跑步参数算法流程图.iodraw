@@ -141,11 +141,6 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-33" value="对各参数buffer，计算去野点后的均值，作为当前1s的输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="273.65999999999997" y="1907" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-36" target="hM5Bo5m3-S3KYsvlN9sy-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -155,6 +150,11 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-46" target="hM5Bo5m3-S3KYsvlN9sy-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-48" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hM5Bo5m3-S3KYsvlN9sy-40">
+          <mxGeometry x="-0.525" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="hM5Bo5m3-S3KYsvlN9sy-41">
@@ -175,6 +175,9 @@
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-43" value="当前1s，输出的跑步参数为：触地时间--，触地时间平衡--" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-46" target="hM5Bo5m3-S3KYsvlN9sy-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-46" value="静止？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="80" height="80" as="geometry" />
