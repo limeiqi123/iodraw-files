@@ -43,8 +43,8 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-1" value="buffer总长度&amp;gt;3s,更新步长＞1s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="390" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-3" value="对s找峰值max、谷值min" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="560" width="160" height="60" as="geometry" />
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-3" value="评估s的信号质量&lt;div&gt;（根据默认阈值参数，对s找谷值，根据谷值std阈值判断信号质量）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
