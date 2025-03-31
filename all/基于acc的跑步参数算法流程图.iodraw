@@ -27,6 +27,14 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-1" target="hM5Bo5m3-S3KYsvlN9sy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hM5Bo5m3-S3KYsvlN9sy-4">
+          <mxGeometry x="-0.1778" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-1" target="dC6GiSElBwpLPvtUfThN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-1" value="buffer总长度&amp;gt;3s,更新步长＞1s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="390" width="240" height="80" as="geometry" />
         </mxCell>
