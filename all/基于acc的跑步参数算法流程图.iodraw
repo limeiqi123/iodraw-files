@@ -163,7 +163,7 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-41" value="走路？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-43" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-43" value="当前1s，输出的跑步参数为：触地时间--，触地时间平衡--" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
