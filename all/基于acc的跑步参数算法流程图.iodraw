@@ -84,13 +84,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-12" value="寻找sy的谷值symin、峰值symax（包含幅值及时刻）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="890" width="320" height="60" as="geometry" />
+          <mxGeometry x="240" y="890" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-17" target="hM5Bo5m3-S3KYsvlN9sy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-17" value="结合symin、symax确定触地时间、离地时间时刻，进而确定触地时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="990" width="320" height="60" as="geometry" />
+          <mxGeometry x="240" y="990" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-19" target="hM5Bo5m3-S3KYsvlN9sy-21">
           <mxGeometry relative="1" as="geometry" />
