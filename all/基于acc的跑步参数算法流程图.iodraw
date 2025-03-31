@@ -78,13 +78,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-10" value="调整阈值参数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-12" target="hM5Bo5m3-S3KYsvlN9sy-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-12" value="寻找sy的谷值symin、峰值symax（包含幅值及时刻）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="890" width="310" height="60" as="geometry" />
+          <mxGeometry x="240" y="890" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-17" target="hM5Bo5m3-S3KYsvlN9sy-19">
           <mxGeometry relative="1" as="geometry" />
