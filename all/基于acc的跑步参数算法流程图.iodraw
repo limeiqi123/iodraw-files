@@ -96,10 +96,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-19" value="根据symin时刻对应的sx符号，确定触地方向" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1080" width="320" height="60" as="geometry" />
+          <mxGeometry x="240" y="1080" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-21" value="更新峰值、谷值、触地时间、左右方向信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="1220" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
