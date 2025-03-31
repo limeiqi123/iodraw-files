@@ -18,27 +18,8 @@
         <mxCell id="itouCG6nFYMFoXsp7pC_-1" value="二次积分得到v、s" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="itouCG6nFYMFoXsp7pC_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="itouCG6nFYMFoXsp7pC_-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-2" value="更新accbuffer、vbuffer、sbuffer" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="itouCG6nFYMFoXsp7pC_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="410" as="sourcePoint" />
-            <mxPoint x="390" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="itouCG6nFYMFoXsp7pC_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="itouCG6nFYMFoXsp7pC_-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="490" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="itouCG6nFYMFoXsp7pC_-8" value="根据sf单周期内极大值-极小值获得垂直振幅" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="530" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
