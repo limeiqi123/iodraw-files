@@ -72,10 +72,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-8" value="sy信号质量低？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="140" height="80" as="geometry" />
+          <mxGeometry x="310" y="640" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-10" target="hM5Bo5m3-S3KYsvlN9sy-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="850" />
+              <mxPoint x="390" y="850" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-10" value="调整阈值参数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="120" height="60" as="geometry" />
