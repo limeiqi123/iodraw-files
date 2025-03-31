@@ -110,8 +110,8 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-26" value="将当前1s的信息，更新到个参数的总buffer中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1290" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-28" value="间隔buffer对应的时间长度＞7s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1420" width="80" height="80" as="geometry" />
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-28" value="峰峰间隔buffer对应的时间长度＞7s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1420" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
