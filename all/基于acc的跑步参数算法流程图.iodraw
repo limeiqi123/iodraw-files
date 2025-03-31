@@ -101,7 +101,7 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-21" target="hM5Bo5m3-S3KYsvlN9sy-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-21" value="更新当前1s，峰值、谷值、触地时间、左右方向信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-21" value="更新当前1s，峰值、峰峰间隔、谷值、触地时间、左右方向信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1191" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-26" value="将当前1s的信息，更新到个参数的总buffer中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
