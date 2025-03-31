@@ -66,6 +66,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hM5Bo5m3-S3KYsvlN9sy-23">
+          <mxGeometry x="-0.8106" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-8" value="sy信号质量低？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="301" y="640" width="200" height="80" as="geometry" />
         </mxCell>
@@ -94,7 +99,7 @@
           <mxGeometry x="240" y="1080" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-21" value="更新峰值、谷值、触地时间、左右方向信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1220" width="320" height="60" as="geometry" />
+          <mxGeometry x="240" y="1219" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
