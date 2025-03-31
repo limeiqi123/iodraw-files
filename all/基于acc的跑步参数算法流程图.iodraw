@@ -197,7 +197,7 @@
           <mxGeometry x="361" y="1730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-55" value="根据步频计算配速、步幅、距离参数；&lt;div&gt;将&lt;span style=&quot;background-color: initial;&quot;&gt;触地时间、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;触地时间平衡&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;两个参数置为空；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;输出全部参数&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="1860" width="240" height="60" as="geometry" />
+          <mxGeometry x="281" y="1860" width="249" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-58" value="根据步频计算配速、步幅、距离参数；&lt;div&gt;输出全部参数&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1860" width="240" height="60" as="geometry" />
@@ -207,6 +207,9 @@
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-63" value="跑步模型参数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1790" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.851;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-62" target="hM5Bo5m3-S3KYsvlN9sy-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
