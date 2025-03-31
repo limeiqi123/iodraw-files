@@ -66,12 +66,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hM5Bo5m3-S3KYsvlN9sy-14">
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hM5Bo5m3-S3KYsvlN9sy-14">
           <mxGeometry x="-0.9509" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-8" value="信号质量低？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-8" value="s信号质量低？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-10" target="hM5Bo5m3-S3KYsvlN9sy-12">
