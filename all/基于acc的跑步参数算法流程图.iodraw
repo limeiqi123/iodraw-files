@@ -85,7 +85,7 @@
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-12" target="hM5Bo5m3-S3KYsvlN9sy-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-12" value="寻找sy的谷值symin、峰值symax（包含幅值及时刻）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hM5Bo5m3-S3KYsvlN9sy-12" value="寻找sy的谷值symin、峰值symax（包含幅值及时刻信息）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="240.33000000000004" y="1017" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-17" target="hM5Bo5m3-S3KYsvlN9sy-19">
