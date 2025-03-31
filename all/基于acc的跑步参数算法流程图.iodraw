@@ -137,13 +137,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-28" value="峰峰间隔buffer对应的时间长度＞7s？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="270.33" y="1424" width="240" height="80" as="geometry" />
+          <mxGeometry x="270.33" y="1415" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-33" target="hM5Bo5m3-S3KYsvlN9sy-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-33" value="对各参数buffer，计算去野点后的均值，作为当前1s的输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="270.33" y="1544" width="240" height="60" as="geometry" />
+          <mxGeometry x="270.33" y="1535" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-36" target="hM5Bo5m3-S3KYsvlN9sy-46">
           <mxGeometry relative="1" as="geometry" />
@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-39" value="当前1s，输出的跑步参数为：步频0，步幅0，配速0，垂直振幅0，触地时间--，触地时间平衡--" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1767" width="220" height="60" as="geometry" />
+          <mxGeometry x="550" y="1758" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-46" target="hM5Bo5m3-S3KYsvlN9sy-3">
           <mxGeometry relative="1" as="geometry" />
@@ -177,7 +177,7 @@
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-54" target="hM5Bo5m3-S3KYsvlN9sy-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="382.9999999999998" y="1807" as="targetPoint" />
+            <mxPoint x="382.9999999999998" y="1798" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hM5Bo5m3-S3KYsvlN9sy-53">
@@ -194,28 +194,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-54" value="走路？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="351" y="1637" width="80" height="80" as="geometry" />
+          <mxGeometry x="351" y="1628" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-55" value="根据步频计算配速、步幅、距离参数；&lt;div&gt;将&lt;span style=&quot;background-color: initial;&quot;&gt;触地时间、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;触地时间平衡&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;两个参数置为空；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;输出全部参数&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="265.5" y="1767" width="249" height="60" as="geometry" />
+          <mxGeometry x="265.5" y="1758" width="249" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-58" value="根据步频计算配速、步幅、距离参数；&lt;div&gt;输出全部参数&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry y="1767" width="240" height="60" as="geometry" />
+          <mxGeometry y="1758" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-62" value="走路模型参数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="1697" width="100" height="40" as="geometry" />
+          <mxGeometry x="431" y="1688" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-63" target="hM5Bo5m3-S3KYsvlN9sy-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-63" value="跑步模型参数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry y="1697" width="100" height="40" as="geometry" />
+          <mxGeometry y="1688" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hM5Bo5m3-S3KYsvlN9sy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hM5Bo5m3-S3KYsvlN9sy-62" target="hM5Bo5m3-S3KYsvlN9sy-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="481" y="1757" />
-              <mxPoint x="390" y="1757" />
+              <mxPoint x="481" y="1748" />
+              <mxPoint x="390" y="1748" />
             </Array>
           </mxGeometry>
         </mxCell>
