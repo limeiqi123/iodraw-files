@@ -6,38 +6,38 @@
         <mxCell id="1" parent="0" />
         <mxCell id="dC6GiSElBwpLPvtUfThN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dC6GiSElBwpLPvtUfThN-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="220" as="targetPoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dC6GiSElBwpLPvtUfThN-4" value="accy经过0.7Hz高通得到accyf" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="140" width="200" height="50" as="geometry" />
+          <mxGeometry x="270" y="280" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="itouCG6nFYMFoXsp7pC_-1" target="itouCG6nFYMFoXsp7pC_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-1" value="accyf积分得到v" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="itouCG6nFYMFoXsp7pC_-2" target="itouCG6nFYMFoXsp7pC_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-2" value="v经过0.7Hz高通得到vf" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="290" width="160" height="40" as="geometry" />
+          <mxGeometry x="290" y="430" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="itouCG6nFYMFoXsp7pC_-4" target="itouCG6nFYMFoXsp7pC_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-4" value="vf积分得到s" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="itouCG6nFYMFoXsp7pC_-6" target="itouCG6nFYMFoXsp7pC_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-6" value="s经过0.7-15Hz带通得到sf" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="450" width="160" height="40" as="geometry" />
+          <mxGeometry x="290" y="590" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="itouCG6nFYMFoXsp7pC_-8" value="根据sf单周期内极大值-极小值获得垂直振幅" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="530" width="260" height="50" as="geometry" />
+          <mxGeometry x="240" y="670" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q5MZPfN1C3Gy68glxKps-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;C++项目文件读取逻辑&lt;/h1&gt;&lt;p&gt;原始ecg的采样率是300&lt;/p&gt;&lt;p&gt;imu的采样率有300,100,50的&lt;/p&gt;&lt;p&gt;算法目标ecg的采样率是300&lt;/p&gt;&lt;p&gt;算法目标acc的采样率可能是100,50&lt;/p&gt;&lt;p&gt;为了满足算法在不同情况下的测试需求，需要写一个ok的文件读取逻辑，模拟mcu实时给app发送数据（一次一帧）&lt;/p&gt;&lt;p&gt;还需要尽可能减少实际在mcu中集成的代码的内存。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="270" height="250" as="geometry" />
