@@ -21,7 +21,7 @@
             <mxPoint y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5MZPfN1C3Gy68glxKps-2" value="imutxtfs==300？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="q5MZPfN1C3Gy68glxKps-2" value="counter_ecg % ((ecgtxtfs / imutxtfs))" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="298" y="397" width="145" height="55" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q5MZPfN1C3Gy68glxKps-2" target="VWtQNHjfNHOpm0yDABT6-4">
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-8" value="解析一行ecg数据，写入到ecg数组中（假定目标ecg的采样率ECGFS就是300Hz，和ecgtxtfs一致）&lt;div&gt;counter2_ecg++&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="851" width="283" height="72.5" as="geometry" />
+          <mxGeometry x="220" y="851" width="300" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-10" target="VWtQNHjfNHOpm0yDABT6-12">
           <mxGeometry relative="1" as="geometry" />
