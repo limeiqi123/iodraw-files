@@ -67,7 +67,7 @@
           <mxGeometry x="150.5" y="500" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-22" value="跳过ecgtxtfs / imutxtfs行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="160.5" y="510" width="160" height="60" as="geometry" />
+          <mxGeometry x="150.5" y="1036.25" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
