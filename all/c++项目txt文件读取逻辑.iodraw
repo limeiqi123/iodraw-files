@@ -56,8 +56,14 @@
         <mxCell id="VWtQNHjfNHOpm0yDABT6-8" value="解析一行ecg数据，放到ecg数组中（假定目标ecg的采样率ECGFS就是300Hz，和ecgtxtfs一致）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="807.5" width="265" height="72.5" as="geometry" />
         </mxCell>
+        <mxCell id="VWtQNHjfNHOpm0yDABT6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-10" target="VWtQNHjfNHOpm0yDABT6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-10" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330.5" y="956.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VWtQNHjfNHOpm0yDABT6-12" value="解析一行acc数据，放到acc数组中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310.5" y="1126.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
