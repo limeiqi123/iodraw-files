@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-36" value="执行R点检测算法、跑步参数算法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="1620" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="1620" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-38" target="VWtQNHjfNHOpm0yDABT6-40">
           <mxGeometry relative="1" as="geometry" />
@@ -129,7 +129,7 @@
           <mxGeometry x="201" y="1730" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-40" value="App端输出心率值、跑步参数值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1890" width="171" height="60" as="geometry" />
+          <mxGeometry x="256" y="1890" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
