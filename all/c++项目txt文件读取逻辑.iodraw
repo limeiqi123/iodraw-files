@@ -110,22 +110,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-34" value="&lt;div&gt;写够了一帧数据？&lt;/div&gt;counter2_ecg % frame_size == 0？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="251" y="1350" width="240" height="101.5" as="geometry" />
+          <mxGeometry x="251" y="1320" width="240" height="101.5" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-36" target="VWtQNHjfNHOpm0yDABT6-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-36" value="执行R点检测算法、跑步参数算法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1491.5" width="280" height="60" as="geometry" />
+          <mxGeometry x="231" y="1461.5" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-38" target="VWtQNHjfNHOpm0yDABT6-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-38" value="写够了足够长度时间？&lt;div&gt;counter2_ecg &amp;gt;= HR_WIN &amp;amp;&amp;amp; counter2_ecg % STEP == 0&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="1601.5" width="340" height="100" as="geometry" />
+          <mxGeometry x="201" y="1571.5" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-40" value="App端输出心率值、跑步参数值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="256" y="1761.5" width="230" height="60" as="geometry" />
+          <mxGeometry x="256" y="1731.5" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
