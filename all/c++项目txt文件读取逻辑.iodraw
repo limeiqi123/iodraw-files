@@ -13,8 +13,14 @@
         <mxCell id="q5MZPfN1C3Gy68glxKps-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;C++项目文件读取逻辑&lt;/h1&gt;&lt;p&gt;原始ecg的采样率是300&lt;/p&gt;&lt;p&gt;imu的采样率有300,100,50的&lt;/p&gt;&lt;p&gt;算法目标ecg的采样率是300&lt;/p&gt;&lt;p&gt;算法目标acc的采样率可能是100,50&lt;/p&gt;&lt;p&gt;为了满足算法在不同情况下的测试需求，需要写一个ok的文件读取逻辑，模拟mcu实时给app发送数据（一次一帧）&lt;/p&gt;&lt;p&gt;还需要尽可能减少实际在mcu中集成的代码的内存。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="30" width="330" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="VWtQNHjfNHOpm0yDABT6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5MZPfN1C3Gy68glxKps-2" target="VWtQNHjfNHOpm0yDABT6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q5MZPfN1C3Gy68glxKps-2" value="imutxtfs==300？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="298" y="395" width="145" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VWtQNHjfNHOpm0yDABT6-1" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310.5" y="527.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
