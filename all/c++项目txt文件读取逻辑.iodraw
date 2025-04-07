@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q5MZPfN1C3Gy68glxKps-2" value="counter_ecg % ((ecgtxtfs / imutxtfs))" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="298" y="397" width="145" height="55" as="geometry" />
+          <mxGeometry x="260" y="397" width="230" height="63" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q5MZPfN1C3Gy68glxKps-2" target="VWtQNHjfNHOpm0yDABT6-4">
           <mxGeometry relative="1" as="geometry">
