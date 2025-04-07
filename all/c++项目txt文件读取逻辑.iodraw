@@ -34,9 +34,6 @@
             <mxPoint x="-4" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWtQNHjfNHOpm0yDABT6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-4" target="VWtQNHjfNHOpm0yDABT6-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-4" value="读取一行acc数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310.5" y="611.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -79,6 +76,9 @@
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-22" value="跳过（imutxtfs&amp;nbsp;/ ACCFS）-1行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="138.5" y="1107.5" width="172" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="VWtQNHjfNHOpm0yDABT6-26" value="&amp;nbsp;imutxtfs和ACCFS一致吗？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="720" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
