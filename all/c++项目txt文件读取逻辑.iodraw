@@ -74,9 +74,6 @@
         <mxCell id="VWtQNHjfNHOpm0yDABT6-16" value="&lt;div&gt;不读取acctxt&lt;/div&gt;（会跳过（ecgtxtfs / imutxtfs）-1行）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1" y="337" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWtQNHjfNHOpm0yDABT6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-22" target="VWtQNHjfNHOpm0yDABT6-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-22" value="&lt;div&gt;不写入acc&lt;br&gt;&lt;/div&gt;（会跳过（imutxtfs&amp;nbsp;/ ACCFS）-1行）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="977.5" width="250.5" height="69" as="geometry" />
         </mxCell>
