@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-19" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWtQNHjfNHOpm0yDABT6-17">
           <mxGeometry x="0.1647" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q5MZPfN1C3Gy68glxKps-2" value="imutxtfs==300？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VWtQNHjfNHOpm0yDABT6-5">
           <mxGeometry x="-0.1816" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-69" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-4" target="VWtQNHjfNHOpm0yDABT6-8">
