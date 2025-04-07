@@ -51,7 +51,7 @@
           <mxGeometry x="310.5" y="667.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-8" value="解析一行ecg数据，放到ecg数值中（假定目标ecg的采样率ECGFS就是300Hz，和ecgtxtfs一致）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="807.5" width="250" height="72.5" as="geometry" />
+          <mxGeometry x="238" y="807.5" width="265" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
