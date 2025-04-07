@@ -119,7 +119,7 @@
         <mxCell id="VWtQNHjfNHOpm0yDABT6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-36" target="VWtQNHjfNHOpm0yDABT6-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VWtQNHjfNHOpm0yDABT6-36" value="执行R点检测算法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="VWtQNHjfNHOpm0yDABT6-36" value="执行R点检测算法、跑步参数算法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VWtQNHjfNHOpm0yDABT6-38" target="VWtQNHjfNHOpm0yDABT6-40">
