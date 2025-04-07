@@ -126,10 +126,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-38" value="写够了足够长度时间？&lt;div&gt;counter2_ecg &amp;gt;= HR_WIN &amp;amp;&amp;amp; counter2_ecg % STEP == 0&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="1750" width="340" height="80" as="geometry" />
+          <mxGeometry x="201" y="1730" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VWtQNHjfNHOpm0yDABT6-40" value="App端输出心率值、跑步参数值" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="1890" width="171" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
