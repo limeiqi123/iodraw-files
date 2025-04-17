@@ -377,7 +377,7 @@
           <mxGeometry x="2079" y="578" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-30" value="hr曲线根据 佩戴检测flag决定是否置为灰色&lt;div&gt;flag==0，灰色&lt;/div&gt;&lt;div&gt;flag==1，亮色&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 155, 97);&quot;&gt;这个是去掉了吗？记不清了&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="985" y="1038" width="250" height="90" as="geometry" />
+          <mxGeometry x="940" y="1010" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
