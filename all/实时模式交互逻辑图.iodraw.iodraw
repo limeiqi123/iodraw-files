@@ -31,7 +31,7 @@
             <mxPoint x="107" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;&lt;i&gt;用户点击开始运动&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;用户点击开始运动&lt;/div&gt;&lt;div&gt;即使异常没有被解决&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1085" y="792" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" target="vhma3fg5Y648AO8j-QCg-13" edge="1">
