@@ -16,8 +16,15 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HxGd7Q-0biXSv-6X_yPY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HxGd7Q-0biXSv-6X_yPY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vhma3fg5Y648AO8j-QCg-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HxGd7Q-0biXSv-6X_yPY-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HxGd7Q-0biXSv-6X_yPY-5">
+          <mxGeometry x="-0.2974" y="5" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;&lt;i&gt;用户点击开始运动&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="512" width="230" height="60" as="geometry" />
