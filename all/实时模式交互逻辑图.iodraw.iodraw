@@ -355,6 +355,9 @@
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-7" value="App端根据运动模式的不同，显示不同的Icon，包括：实时心率检测、实时GPS检测（只有户外跑模式有）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="430" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HxGd7Q-0biXSv-6X_yPY-8" value="心率带&lt;div&gt;内部算法计算hr、跑步参数等&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="657" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
