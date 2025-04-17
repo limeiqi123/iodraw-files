@@ -16,10 +16,11 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iYTq0eNwBcd8pMFfd4BL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-21" edge="1">
+        <mxCell id="iYTq0eNwBcd8pMFfd4BL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HxGd7Q-0biXSv-6X_yPY-1" target="vhma3fg5Y648AO8j-QCg-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1259" y="517" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="805" y="442" />
               <mxPoint x="805" y="440" />
               <mxPoint x="1200" y="440" />
             </Array>
