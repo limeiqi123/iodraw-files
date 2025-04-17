@@ -341,6 +341,9 @@
         <mxCell id="FHs8Cgwomu3kawwBKDpe-7" value="暂停时长&amp;lt;30min？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1098.5" y="700" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HxGd7Q-0biXSv-6X_yPY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HxGd7Q-0biXSv-6X_yPY-1" target="vhma3fg5Y648AO8j-QCg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-1" value="&lt;div&gt;&lt;i&gt;运动页面&lt;/i&gt;&lt;/div&gt;App端用户选择实时监测模式（“户外跑”、“跑步机跑”、“自由训练”）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="691" y="80" width="230" height="60" as="geometry" />
         </mxCell>
