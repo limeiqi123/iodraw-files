@@ -384,8 +384,11 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-20" value="用户点击我知道了&lt;span style=&quot;background-color: rgb(255, 116, 82);&quot;&gt;（在这里需要给用户点直接开始的选项吗？应该不需要？有直接开始的按钮）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
           <mxGeometry x="1745" y="666" width="275" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YHusyejt_DKvxTFTPySN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-22" target="HxGd7Q-0biXSv-6X_yPY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-22" value="心率带通过佩戴检测开机" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="430" width="275" height="70" as="geometry" />
+          <mxGeometry x="1719.5" y="470" width="275" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
