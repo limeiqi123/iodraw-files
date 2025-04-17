@@ -389,7 +389,7 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-11" target="YHusyejt_DKvxTFTPySN-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-11" value="&lt;div&gt;显示佩戴提示&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="YHusyejt_DKvxTFTPySN-11" value="&lt;div&gt;显示佩戴提示&lt;/div&gt;&lt;div&gt;显示GPS异常提示（根据异常的多长，显示其中的某一个或者两个）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1377" y="660" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-13" value="用户点击我知道了" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
