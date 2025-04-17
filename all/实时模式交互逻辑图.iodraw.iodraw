@@ -17,8 +17,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="870" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1360" y="870" />
-              <mxPoint x="1360" y="800" />
+              <mxPoint x="1200" y="800" />
               <mxPoint x="1850" y="800" />
             </Array>
           </mxGeometry>
@@ -26,6 +25,11 @@
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-6" value="App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HxGd7Q-0biXSv-6X_yPY-5" vertex="1" connectable="0">
           <mxGeometry x="-0.2974" y="5" relative="1" as="geometry">
             <mxPoint x="205" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHusyejt_DKvxTFTPySN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;用户点击开始运动&lt;/div&gt;&lt;div&gt;（&lt;span style=&quot;background-color: rgb(255, 120, 105);&quot;&gt;即使异常没有被解决&lt;/span&gt;）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
