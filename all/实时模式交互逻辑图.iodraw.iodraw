@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-3" value="&lt;i&gt;设备连接页面&lt;/i&gt;&lt;div&gt;App连接到了心率带&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="183" width="120" height="40" as="geometry" />
+          <mxGeometry x="1127" y="183" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-13">
           <mxGeometry relative="1" as="geometry">
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;用户点击开始运动&lt;/div&gt;&lt;div&gt;（&lt;span style=&quot;background-color: rgb(255, 120, 105);&quot;&gt;即使异常没有被解决&lt;/span&gt;）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1073" y="753" width="230" height="60" as="geometry" />
+          <mxGeometry x="1072" y="753" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-13" target="vhma3fg5Y648AO8j-QCg-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -41,7 +41,7 @@
           <mxGeometry x="1004" y="1180" width="363" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-15" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;以0.2s的固定间隔给app发送蓝牙帧 “ECGACC实时数据”&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); text-align: left; text-wrap: wrap;&quot;&gt;以1s的固定间隔给app发送蓝牙帧 “Hr实时数据”（&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left; text-wrap: wrap;&quot;&gt;包含hr、&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap; background-color: rgb(255, 171, 107);&quot;&gt;hr质量&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left; text-wrap: wrap;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left; text-wrap: wrap;&quot;&gt;佩戴检测flag、R peak点位置&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); text-wrap: wrap; text-align: left;&quot;&gt;）、“&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: wrap; text-align: left;&quot;&gt;Run实时数据&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); text-wrap: wrap; text-align: left;&quot;&gt;”（包含跑步参数&lt;/span&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); text-wrap: wrap; text-align: left;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1303.5" y="920" width="360" height="50" as="geometry" />
+          <mxGeometry x="1302.5" y="920" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-22" target="vhma3fg5Y648AO8j-QCg-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -68,14 +68,14 @@
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1204.5" y="973" as="targetPoint" />
+            <mxPoint x="1203.5" y="973" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1834.5" y="973" />
+              <mxPoint x="1833.5" y="973" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-21" value="心率带&lt;div&gt;内部算法计算hr、跑步参数等&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1744.5" y="853" width="180" height="60" as="geometry" />
+          <mxGeometry x="1743.5" y="853" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-22" value="结束运动？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1105" y="1337" width="160" height="80" as="geometry" />
@@ -312,17 +312,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-1" value="&lt;div&gt;&lt;i&gt;运动页面（点击底端的运动栏目进入到这个页面）&lt;/i&gt;&lt;/div&gt;App端用户选择实时监测模式下的任意一种运动类型（“户外跑”、“跑步机跑”、“自由训练”）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1048" y="263" width="280" height="60" as="geometry" />
+          <mxGeometry x="1047" y="263" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HxGd7Q-0biXSv-6X_yPY-7" target="YHusyejt_DKvxTFTPySN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-7" value="App端根据运动类型的不同，显示不同的Icon，包括：实时心率检测、实时GPS检测（GPS只有户外跑模式有）；&lt;div&gt;心率未检测ok时，显示为闪烁爱心，ok时，显示为具体数值；&lt;br&gt;&lt;div&gt;GPS未检测ok时灰色闪烁，检测ok时常亮色；&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1018" y="354" width="340" height="99" as="geometry" />
+          <mxGeometry x="1017" y="354" width="340" height="99" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HxGd7Q-0biXSv-6X_yPY-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1188" y="538" as="targetPoint" />
+            <mxPoint x="1187" y="538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-2" value="hr为0时，实时心率检测Icon显示闪烁的爱心；为数值时，显示具体心率数值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YHusyejt_DKvxTFTPySN-1">
@@ -331,13 +331,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-8" value="心率带&lt;div&gt;内部算法计算hr、&lt;span style=&quot;background-color: rgb(255, 152, 92);&quot;&gt;hr质量&lt;/span&gt;、安静心率检测flag&lt;/div&gt;&lt;div&gt;（&lt;span style=&quot;background-color: rgb(255, 122, 82);&quot;&gt;5s以上未佩戴时，算法停止，此时无输出心率，由嵌入式端控制此时继续输出hr为0给app，直到算法端给出具体的数值&lt;/span&gt;）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1642" y="493" width="406" height="90" as="geometry" />
+          <mxGeometry x="1641" y="493" width="406" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="HxGd7Q-0biXSv-6X_yPY-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="653" />
-              <mxPoint x="998" y="404" />
+              <mxPoint x="997" y="653" />
+              <mxPoint x="997" y="404" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -353,28 +353,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;不到8s用户点击开始运动？ or&lt;/div&gt;超过8s未检测到ok的安静心率flag&lt;span style=&quot;background-color: initial;&quot;&gt;/未检测到ok的GPS？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="603" width="220" height="100" as="geometry" />
+          <mxGeometry x="1077" y="603" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-11" target="YHusyejt_DKvxTFTPySN-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-11" value="&lt;div&gt;显示佩戴提示/&lt;span style=&quot;background-color: initial;&quot;&gt;显示GPS异常提示&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;根据异常的类型，显示其中的某一个或者两个。注意告诉用户解决异常方法及不解决异常的后果&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1368" y="623" width="230" height="60" as="geometry" />
+          <mxGeometry x="1367" y="623" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-15" value="App端不断&lt;div&gt;调用GPS接&lt;span style=&quot;background-color: initial;&quot;&gt;口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取gps质量&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1093" y="493" width="100" height="60" as="geometry" />
+          <mxGeometry x="1092" y="493" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-20" value="用户点击我知道了&lt;span style=&quot;background-color: rgb(255, 116, 82);&quot;&gt;（在这里需要给用户点直接开始的选项吗？应该不需要？有直接开始的按钮）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
-          <mxGeometry x="1733" y="619" width="275" height="70" as="geometry" />
+          <mxGeometry x="1732" y="619" width="275" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-22" target="HxGd7Q-0biXSv-6X_yPY-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-22" value="心率带通过佩戴检测开机" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
-          <mxGeometry x="1707.5" y="423" width="275" height="40" as="geometry" />
+          <mxGeometry x="1706.5" y="423" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-29" value="&lt;span style=&quot;background-color: rgb(255, 201, 25);&quot;&gt;注：hr质量建议正常发，app中暂时可以不用，因为蓝牙协议已经定好了，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 201, 25);&quot;&gt;且后续评估质量风险不大的话，可以用这个作为曲线是否变灰的控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="513" width="410" height="40" as="geometry" />
+          <mxGeometry x="2079" y="513" width="410" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
