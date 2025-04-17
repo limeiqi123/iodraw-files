@@ -373,7 +373,7 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-22" value="心率带通过佩戴检测开机" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
           <mxGeometry x="1707.5" y="423" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-29" value="&lt;span style=&quot;background-color: rgb(255, 201, 25);&quot;&gt;注：hr质量建议正常发，可以不用，因为蓝牙协议已经定好了，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 201, 25);&quot;&gt;且后续评估质量风险不大的话，可以用这个作为曲线是否变灰的控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="YHusyejt_DKvxTFTPySN-29" value="&lt;span style=&quot;background-color: rgb(255, 201, 25);&quot;&gt;注：hr质量建议正常发，app中暂时可以不用，因为蓝牙协议已经定好了，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 201, 25);&quot;&gt;且后续评估质量风险不大的话，可以用这个作为曲线是否变灰的控制逻辑&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2080" y="513" width="410" height="40" as="geometry" />
         </mxCell>
       </root>
