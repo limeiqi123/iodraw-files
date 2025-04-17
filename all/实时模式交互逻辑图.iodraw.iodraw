@@ -13,16 +13,13 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-3" value="&lt;i&gt;设备连接页面&lt;/i&gt;&lt;div&gt;App连接到了心率带&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1142" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1185" y="899" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="vhma3fg5Y648AO8j-QCg-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="870" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1200" y="800" />
+              <mxPoint x="1360" y="870" />
+              <mxPoint x="1360" y="800" />
+              <mxPoint x="1850" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
