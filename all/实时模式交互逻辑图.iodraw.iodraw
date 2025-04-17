@@ -10,7 +10,7 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-3" target="vhma3fg5Y648AO8j-QCg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-3" value="App连接到了心率带" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="vhma3fg5Y648AO8j-QCg-3" value="设备连接页面&lt;div&gt;App连接到了心率带&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="746" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-7" edge="1">
