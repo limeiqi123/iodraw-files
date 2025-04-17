@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-3" value="&lt;i&gt;设备连接页面&lt;/i&gt;&lt;div&gt;App连接到了心率带&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="745" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="1126" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -351,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-1" value="&lt;div&gt;&lt;i&gt;运动页面&lt;/i&gt;&lt;/div&gt;App端用户选择实时监测模式（“户外跑”、“跑步机跑”、“自由训练”）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="320" width="230" height="60" as="geometry" />
+          <mxGeometry x="1071" y="590" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-7" value="App端根据运动模式的不同，显示不同的Icon，包括：实时心率检测、实时GPS检测（只有户外跑模式有）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="710" width="230" height="60" as="geometry" />
