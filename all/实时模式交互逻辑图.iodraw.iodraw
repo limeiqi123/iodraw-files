@@ -97,6 +97,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HxGd7Q-0biXSv-6X_yPY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-21" value="心率带&lt;div&gt;内部算法计算hr、跑步参数等&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="647" width="180" height="60" as="geometry" />
         </mxCell>
@@ -336,12 +341,6 @@
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-1" value="&lt;div&gt;&lt;i&gt;运动页面&lt;/i&gt;&lt;/div&gt;App端用户选择实时监测模式（“户外跑”、“跑步机跑”、“自由训练”）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="691" y="412" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HxGd7Q-0biXSv-6X_yPY-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="590" as="sourcePoint" />
-            <mxPoint x="940" y="550" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
