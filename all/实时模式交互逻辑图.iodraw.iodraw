@@ -13,20 +13,6 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-3" value="&lt;i&gt;设备连接页面&lt;/i&gt;&lt;div&gt;App连接到了心率带&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1128" y="183" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HxGd7Q-0biXSv-6X_yPY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="vhma3fg5Y648AO8j-QCg-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1194.5" y="893" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1194.5" y="883" />
-              <mxPoint x="1834.5" y="883" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HxGd7Q-0biXSv-6X_yPY-6" value="App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HxGd7Q-0biXSv-6X_yPY-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.2974" y="5" relative="1" as="geometry">
-            <mxPoint x="137" y="-95" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="vhma3fg5Y648AO8j-QCg-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="1040" as="targetPoint" />
