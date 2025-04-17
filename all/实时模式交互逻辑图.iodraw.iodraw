@@ -370,7 +370,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-4" value="超过8s未检测到ok的安静心率flag？&lt;div&gt;或未检测到好的GPS？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="650" width="220" height="80" as="geometry" />
+          <mxGeometry x="1090" y="650" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-11" target="YHusyejt_DKvxTFTPySN-13">
           <mxGeometry relative="1" as="geometry" />
@@ -382,7 +382,7 @@
           <mxGeometry x="1762" y="650" width="128" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-15" value="App端不断&lt;div&gt;调用GPS接&lt;span style=&quot;background-color: initial;&quot;&gt;口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取其质量&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="533" width="100" height="60" as="geometry" />
+          <mxGeometry x="1105" y="570" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
