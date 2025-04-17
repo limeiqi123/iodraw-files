@@ -328,7 +328,7 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HxGd7Q-0biXSv-6X_yPY-1" target="HxGd7Q-0biXSv-6X_yPY-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HxGd7Q-0biXSv-6X_yPY-1" value="&lt;div&gt;&lt;i&gt;运动页面（底端的栏目）&lt;/i&gt;&lt;/div&gt;App端用户选择实时监测模式下的任意一种运动类型（“户外跑”、“跑步机跑”、“自由训练”）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="HxGd7Q-0biXSv-6X_yPY-1" value="&lt;div&gt;&lt;i&gt;运动页面（点击底端的运动栏目进入到这里）&lt;/i&gt;&lt;/div&gt;App端用户选择实时监测模式下的任意一种运动类型（“户外跑”、“跑步机跑”、“自由训练”）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="310" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HxGd7Q-0biXSv-6X_yPY-7" target="YHusyejt_DKvxTFTPySN-4">
