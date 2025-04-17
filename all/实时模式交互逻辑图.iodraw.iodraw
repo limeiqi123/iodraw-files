@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;&lt;i&gt;用户点击开始运动&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="792" width="230" height="60" as="geometry" />
+          <mxGeometry x="1085" y="792" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" target="vhma3fg5Y648AO8j-QCg-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -347,7 +347,7 @@
             <mxPoint x="93" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HxGd7Q-0biXSv-6X_yPY-8" value="心率带&lt;div&gt;内部算法计算hr、安静心率检测flag&lt;/div&gt;&lt;div&gt;（5s以上未佩戴时，算法停止，此时无输出心率）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="HxGd7Q-0biXSv-6X_yPY-8" value="心率带&lt;div&gt;内部算法计算hr、安静心率检测flag&lt;/div&gt;&lt;div&gt;（5s以上未佩戴时，算法停止，此时无输出心率，由嵌入式端控制此时继续输出hr为0给app，直到算法端给出具体的数值）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1654" y="555" width="281.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="HxGd7Q-0biXSv-6X_yPY-7">
