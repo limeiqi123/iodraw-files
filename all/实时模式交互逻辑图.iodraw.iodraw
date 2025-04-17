@@ -381,8 +381,8 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-13" value="用户点击我知道了" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
           <mxGeometry x="1762" y="650" width="128" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="548" width="50" height="30" as="geometry" />
+        <mxCell id="YHusyejt_DKvxTFTPySN-15" value="App端不断&lt;div&gt;调用GPS接&lt;span style=&quot;background-color: initial;&quot;&gt;口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取其质量&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="533" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
