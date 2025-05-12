@@ -289,7 +289,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HxGd7Q-0biXSv-6X_yPY-7" value="①App端根据运动类型的不同，显示不同的Icon，包括：实时心率检测、实时GPS检测（GPS只有户外跑模式有）；&lt;div&gt;心率未检测ok（hr=0）时，显示为闪烁爱心，ok（hr≠0）时，显示为具体数值；&lt;br&gt;&lt;div&gt;GPS未检测ok时灰色闪烁，检测ok时常亮色；&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;②App端根据心率带当前运动状态的不同，显示不同的“&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;开始运动”按钮颜色；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;心率带的当前运动状态为“未运动”时，显示为亮色，否则显示为灰色；&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HxGd7Q-0biXSv-6X_yPY-7" value="①App端根据运动类型的不同，显示不同的Icon，包括：实时心率检测、实时GPS检测（GPS只有户外跑模式有）；&lt;div&gt;心率未检测ok（hr=0）时，显示为闪烁爱心，ok（hr≠0）时，显示为具体数值；&lt;br&gt;&lt;div&gt;GPS未检测ok时灰色闪烁，检测ok时常亮色；&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;②App端根据心率带当前运动状态的不同（心率带的运动状态通知&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;Tag1 0x1020&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;），显示不同的“&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;开始运动”按钮颜色；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;心率带的当前运动状态为“未运动”时，显示为亮色，否则显示为灰色；&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="836" width="630" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HxGd7Q-0biXSv-6X_yPY-8" edge="1">
