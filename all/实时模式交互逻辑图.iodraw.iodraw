@@ -301,8 +301,10 @@
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-8" value="心率带上算法运行&lt;div&gt;mcu端给出 hr+佩戴检测flag、信号质量检测结果&lt;/div&gt;&lt;div&gt;（5s以上未佩戴时，算法停止，此时无输出心率，由嵌入式端控制此时继续输出hr为0给app，直到算法端给出具体的数值）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1183" y="626" width="406" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="YHusyejt_DKvxTFTPySN-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YHusyejt_DKvxTFTPySN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YHusyejt_DKvxTFTPySN-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915" y="1048.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="HxGd7Q-0biXSv-6X_yPY-7">
           <mxGeometry relative="1" as="geometry" />
@@ -315,17 +317,8 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户点击“开始运动”按钮时，心率带状态不是“未运动”？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（用户点击了灰色的“开始运动”按钮？）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577" y="1007" width="310" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YHusyejt_DKvxTFTPySN-11" target="YHusyejt_DKvxTFTPySN-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-11" value="&lt;div&gt;显示佩戴提示&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（注意告诉用户解决异常方法及不解决异常的后果）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="915" y="1018.5" width="230" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-15" value="App端不断&lt;div&gt;调用GPS接&lt;span style=&quot;background-color: initial;&quot;&gt;口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取gps质量（户外跑时）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="766" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-20" value="用户点击我知道了" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="1278.5" y="1013.5" width="275" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YHusyejt_DKvxTFTPySN-22" target="HxGd7Q-0biXSv-6X_yPY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -382,6 +375,15 @@
         </mxCell>
         <mxCell id="R1lHBK2HXy8WGfGtHM48-2" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当前设备的运动状态为“未运动”？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610.5" y="1250" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oBLnD4j1K2vvLx6aPAaI-4" target="oBLnD4j1K2vvLx6aPAaI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-4" value="&lt;div&gt;显示佩戴提示&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（注意告诉用户解决异常方法及不解决异常的后果）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="1018.5" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-5" value="用户点击我知道了" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="1278.5" y="1013.5" width="275" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
