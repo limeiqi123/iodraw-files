@@ -380,7 +380,7 @@
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-5" value="用户点击我知道了" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
           <mxGeometry x="1763.5" y="1020" width="275" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oBLnD4j1K2vvLx6aPAaI-6" value="&lt;div&gt;显示佩戴提示&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（注意告诉用户解决异常方法及不解决异常的后果）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-6" value="&lt;div&gt;需要给用户反馈吗？&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1013.5" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
