@@ -109,7 +109,7 @@
             <mxPoint x="8" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（die手机进程）、&lt;/div&gt;蓝牙断连（心率带设备低电）、&lt;div&gt;蓝牙断连（心率带设备充电）&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
+        <mxCell id="vhma3fg5Y648AO8j-QCg-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
           <mxGeometry x="2080" y="1995" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-29" target="vhma3fg5Y648AO8j-QCg-32" edge="1">
