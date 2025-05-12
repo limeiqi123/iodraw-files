@@ -404,7 +404,7 @@
           <mxGeometry x="974" y="1018.5" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-17" value="进入到实时显示页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1318" width="230" height="60" as="geometry" />
+          <mxGeometry x="616" y="1300" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
