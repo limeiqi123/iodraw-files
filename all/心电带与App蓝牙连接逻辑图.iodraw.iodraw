@@ -149,8 +149,7 @@
         <mxCell id="RC3qmG1ghpbk4XnJq1J9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-29" target="RC3qmG1ghpbk4XnJq1J9-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="1016" />
-              <mxPoint x="650" y="1016" />
+              <mxPoint x="650" y="960" />
               <mxPoint x="650" y="1166" />
               <mxPoint x="440" y="1166" />
             </Array>
@@ -209,8 +208,11 @@
         <mxCell id="RC3qmG1ghpbk4XnJq1J9-9" value="提示断连之前的sports App 2才能继续使用，&lt;div&gt;用户断连之前的App&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sports App 2&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="1296" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WO43KKcxDO_ozy_Udc6k-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WO43KKcxDO_ozy_Udc6k-1" target="RC3qmG1ghpbk4XnJq1J9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WO43KKcxDO_ozy_Udc6k-1" value="用户退出存储模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320.04" y="1070" width="240" height="40" as="geometry" />
+          <mxGeometry x="320" y="1080" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
