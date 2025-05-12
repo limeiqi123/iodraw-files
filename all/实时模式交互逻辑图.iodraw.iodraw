@@ -124,32 +124,8 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-32" value="蓝牙断开（die手机进程）？&lt;div&gt;（用户手动清理app后台，退出app）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="242.5" y="1905" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-50" target="vhma3fg5Y648AO8j-QCg-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-50" value="&lt;div&gt;保存当次运动记录数据（上传到云端，存储的数据字段及格式见《&lt;span style=&quot;text-align: left;&quot;&gt;运动心率带3.0蓝牙协议及&lt;/span&gt;数据库说明》）&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1895" width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-56" target="vhma3fg5Y648AO8j-QCg-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1201" y="1945" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-56" value="进入到设备连接页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1915" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1392" y="1945" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-63" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vhma3fg5Y648AO8j-QCg-62" vertex="1" connectable="0">
-          <mxGeometry x="-0.2679" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-64" value="检测到心率带蓝牙?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1202.5" y="1905" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-65" value="&lt;div&gt;蓝牙断开（关闭系统蓝牙）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;蓝牙断开（忽略已连接蓝牙）、&lt;br&gt;&lt;/div&gt;蓝牙断连（设备超距）、&lt;div&gt;蓝牙断连（30s未佩戴）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;fontColor=#FF1E05;" parent="1" vertex="1">
           <mxGeometry x="2099.83" y="1628.75" width="410" height="30" as="geometry" />
