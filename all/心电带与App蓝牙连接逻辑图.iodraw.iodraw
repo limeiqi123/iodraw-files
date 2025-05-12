@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-49" value="①提示通过sports App 2退出存储模式才能开始运动&lt;div&gt;②开始运动页面的“开始运动”按钮为灰色&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="1030" width="240" height="40" as="geometry" />
+          <mxGeometry x="240" y="1030" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RC3qmG1ghpbk4XnJq1J9-2" value="后续功能正常使用" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="1396" width="200" height="60" as="geometry" />
