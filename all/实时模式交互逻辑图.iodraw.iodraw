@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-27" value="App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;&lt;div&gt;App给MCU发送开始实时运动指令（Tag1 0x0001），该指令指示 需要再补充发送“ECG实时数据”、“ACC实时数据”等&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YHusyejt_DKvxTFTPySN-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1203" y="1" relative="1" as="geometry">
-            <mxPoint x="80" y="-29" as="offset" />
+            <mxPoint x="99" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;用户点击“直接开始”运动&lt;/div&gt;&lt;div&gt;（即使佩戴异常没有被解决）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -377,6 +377,14 @@
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oBLnD4j1K2vvLx6aPAaI-11">
           <mxGeometry x="-0.2846" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R1lHBK2HXy8WGfGtHM48-2" target="oBLnD4j1K2vvLx6aPAaI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oBLnD4j1K2vvLx6aPAaI-20">
+          <mxGeometry x="-0.1369" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
