@@ -386,7 +386,7 @@
         <mxCell id="pQgSAZWccSKd0lJqHwSU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R1lHBK2HXy8WGfGtHM48-2" target="vhma3fg5Y648AO8j-QCg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pQgSAZWccSKd0lJqHwSU-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pQgSAZWccSKd0lJqHwSU-1">
+        <mxCell id="pQgSAZWccSKd0lJqHwSU-2" value="是，“开始运动”按钮" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pQgSAZWccSKd0lJqHwSU-1">
           <mxGeometry x="-0.0898" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-17" as="offset" />
           </mxGeometry>
