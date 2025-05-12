@@ -68,9 +68,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPcAaudElCX2ebDDalHc-2" value="&lt;p&gt;是&lt;/p&gt;&lt;p&gt;App给MCU发送开始实时运动指令（Tag1 0x0001）&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vhma3fg5Y648AO8j-QCg-18" vertex="1" connectable="0">
+        <mxCell id="IPcAaudElCX2ebDDalHc-2" value="&lt;p&gt;是&lt;/p&gt;&lt;p&gt;App给MCU发送开始实时运动指令（Tag1 0x0001）&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=none;" parent="vhma3fg5Y648AO8j-QCg-18" vertex="1" connectable="0">
           <mxGeometry x="0.0622" y="1" relative="1" as="geometry">
-            <mxPoint x="20" y="-36" as="offset" />
+            <mxPoint x="25" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-19" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#171A1D&amp;quot;},&amp;quot;，App给MCU发送开始实时运动指令&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/article&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="vhma3fg5Y648AO8j-QCg-18" vertex="1" connectable="0">
