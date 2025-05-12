@@ -366,7 +366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NN-2ISehvnmji4_QbpQm-6" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2014.33" y="1911.5" width="80" height="60" as="geometry" />
+          <mxGeometry x="2090" y="1911.5" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NN-2ISehvnmji4_QbpQm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NN-2ISehvnmji4_QbpQm-10" target="vhma3fg5Y648AO8j-QCg-72">
           <mxGeometry relative="1" as="geometry">
@@ -385,7 +385,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NN-2ISehvnmji4_QbpQm-13" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2011" y="2050" width="80" height="60" as="geometry" />
+          <mxGeometry x="2091" y="2050" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
