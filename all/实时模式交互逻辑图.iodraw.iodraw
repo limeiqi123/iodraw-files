@@ -23,7 +23,7 @@
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-27" value="App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;&lt;div&gt;App给MCU发送开始实时运动指令（Tag1 0x0001）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YHusyejt_DKvxTFTPySN-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1203" y="1" relative="1" as="geometry">
-            <mxPoint x="6" y="-14" as="offset" />
+            <mxPoint x="6" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;用户点击“直接开始”运动&lt;/div&gt;&lt;div&gt;（即使异常没有被解决）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
