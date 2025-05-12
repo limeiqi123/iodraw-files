@@ -383,7 +383,7 @@
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R1lHBK2HXy8WGfGtHM48-2" target="vhma3fg5Y648AO8j-QCg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oBLnD4j1K2vvLx6aPAaI-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oBLnD4j1K2vvLx6aPAaI-14">
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oBLnD4j1K2vvLx6aPAaI-14">
           <mxGeometry x="-0.6437" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -402,6 +402,9 @@
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-6" value="&lt;div&gt;需要给用户什么反馈吗？&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="974" y="1018.5" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-17" value="&lt;div&gt;用户点击“直接开始”运动&lt;/div&gt;&lt;div&gt;（即使佩戴异常没有被解决）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1347.5" y="1220" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
