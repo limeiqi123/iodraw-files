@@ -323,7 +323,7 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="vhma3fg5Y648AO8j-QCg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户点击开始运动时状态不是“未运动”？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户点击“开始运动”按钮时，心率带状态不是“未运动”？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622" y="1007" width="220" height="117" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YHusyejt_DKvxTFTPySN-11" target="YHusyejt_DKvxTFTPySN-20" edge="1">
