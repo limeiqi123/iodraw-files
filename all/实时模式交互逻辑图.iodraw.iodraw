@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;用户点击“直接开始”运动&lt;/div&gt;&lt;div&gt;（即使佩戴异常没有被解决）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="616" y="1320" width="230" height="60" as="geometry" />
+          <mxGeometry x="619" y="1320" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="vhma3fg5Y648AO8j-QCg-13" target="vhma3fg5Y648AO8j-QCg-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -392,6 +392,9 @@
           <mxGeometry x="580" y="1130" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBLnD4j1K2vvLx6aPAaI-4" target="oBLnD4j1K2vvLx6aPAaI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBLnD4j1K2vvLx6aPAaI-4" target="vhma3fg5Y648AO8j-QCg-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-4" value="&lt;div&gt;显示佩戴提示&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（注意告诉用户解决异常方法及不解决异常的后果）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
