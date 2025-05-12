@@ -350,7 +350,7 @@
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-2" value="每1s发送“心率实时数据”、“信号质量检测结果通知（预留接口）”" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YHusyejt_DKvxTFTPySN-1" vertex="1" connectable="0">
           <mxGeometry x="0.45" relative="1" as="geometry">
-            <mxPoint x="93" y="-20" as="offset" />
+            <mxPoint x="132" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-8" value="心率带上算法运行&lt;div&gt;mcu端给出 hr+佩戴检测flag、信号质量检测结果&lt;/div&gt;&lt;div&gt;（5s以上未佩戴时，算法停止，此时无输出心率，由嵌入式端控制此时继续输出hr为0给app，直到算法端给出具体的数值）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -375,7 +375,7 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="vhma3fg5Y648AO8j-QCg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;or&lt;span style=&quot;background-color: initial;&quot;&gt;超过8s未检测到ok的hr值？or&lt;/span&gt;&lt;/div&gt;&lt;div&gt;用户点击开始运动时hr=0？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;超过8s未检测到ok的hr值？or&lt;/span&gt;&lt;/div&gt;&lt;div&gt;用户点击开始运动时hr=0？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="707" y="1035" width="220" height="117" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YHusyejt_DKvxTFTPySN-11" target="YHusyejt_DKvxTFTPySN-20" edge="1">
