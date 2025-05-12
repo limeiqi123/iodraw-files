@@ -364,6 +364,11 @@
         <mxCell id="NN-2ISehvnmji4_QbpQm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NN-2ISehvnmji4_QbpQm-13" target="NN-2ISehvnmji4_QbpQm-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NN-2ISehvnmji4_QbpQm-17" value="notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NN-2ISehvnmji4_QbpQm-16">
+          <mxGeometry x="0.1475" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NN-2ISehvnmji4_QbpQm-13" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2028" y="2215" width="80" height="60" as="geometry" />
         </mxCell>
