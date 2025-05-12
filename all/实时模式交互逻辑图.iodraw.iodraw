@@ -344,6 +344,9 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-22" value="心率带通过佩戴检测开机" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="1336.5" y="560" width="275" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NN-2ISehvnmji4_QbpQm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NN-2ISehvnmji4_QbpQm-3" target="vhma3fg5Y648AO8j-QCg-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NN-2ISehvnmji4_QbpQm-3" value="&lt;div&gt;蓝牙断连（设备没电）？&lt;/div&gt;（手机蓝牙还开着，但是由于心率带设备电量不足（即将关机），与app断连）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1703.47" y="1895" width="214.5" height="93" as="geometry" />
         </mxCell>
@@ -357,6 +360,11 @@
         </mxCell>
         <mxCell id="NN-2ISehvnmji4_QbpQm-6" value="心率带" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2014.33" y="1911.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NN-2ISehvnmji4_QbpQm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NN-2ISehvnmji4_QbpQm-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1670" y="2090" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NN-2ISehvnmji4_QbpQm-10" value="蓝牙断连（设备充电）？&lt;div&gt;（手机蓝牙还开着，但是心率带设备充电，与app断连）&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1697" y="2030" width="220" height="100" as="geometry" />
