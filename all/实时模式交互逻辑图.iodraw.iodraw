@@ -375,11 +375,6 @@
         <mxCell id="pQgSAZWccSKd0lJqHwSU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R1lHBK2HXy8WGfGtHM48-2" target="vhma3fg5Y648AO8j-QCg-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pQgSAZWccSKd0lJqHwSU-2" value="是，“开始运动”按钮" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pQgSAZWccSKd0lJqHwSU-1" vertex="1" connectable="0">
-          <mxGeometry x="-0.0898" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-17" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R1lHBK2HXy8WGfGtHM48-2" target="oBLnD4j1K2vvLx6aPAaI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -395,10 +390,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-4" value="&lt;div&gt;显示佩戴提示&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（注意告诉用户解决异常方法及不解决异常的后果）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="953" y="1140" width="230" height="60" as="geometry" />
+          <mxGeometry x="953" y="1125" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-5" value="用户点击我知道了" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
-          <mxGeometry x="1316.5" y="1135" width="275" height="70" as="geometry" />
+          <mxGeometry x="1316.5" y="1120" width="275" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-6" value="&lt;div&gt;需要给用户什么反馈吗？&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="953" y="1018.5" width="230" height="60" as="geometry" />
