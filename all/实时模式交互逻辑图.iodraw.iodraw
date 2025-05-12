@@ -304,13 +304,17 @@
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-8" value="心率带上算法运行&lt;div&gt;mcu端给出 hr+佩戴检测flag、信号质量检测结果&lt;/div&gt;&lt;div&gt;（5s以上未佩戴时，算法停止，此时无输出心率，由嵌入式端控制此时继续输出hr为0给app，直到算法端给出具体的数值）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1186" y="602" width="406" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="HxGd7Q-0biXSv-6X_yPY-7" edge="1">
+        <mxCell id="YHusyejt_DKvxTFTPySN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="577" y="1050" />
-              <mxPoint x="370" y="1050" />
-              <mxPoint x="370" y="816" />
+              <mxPoint x="576" y="1050" />
+              <mxPoint x="369" y="1050" />
+              <mxPoint x="369" y="816" />
+              <mxPoint x="430" y="816" />
+              <mxPoint x="430" y="820" />
             </Array>
+            <mxPoint x="575.5" y="1048.5" as="sourcePoint" />
+            <mxPoint x="415.5" y="819.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YHusyejt_DKvxTFTPySN-7" vertex="1" connectable="0">
