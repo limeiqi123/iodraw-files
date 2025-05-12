@@ -256,7 +256,7 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-103" target="vhma3fg5Y648AO8j-QCg-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-102" value="notify给手机系统，&lt;div&gt;手机系统告知App&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vhma3fg5Y648AO8j-QCg-101" vertex="1" connectable="0">
+        <mxCell id="vhma3fg5Y648AO8j-QCg-102" value="notify给手机系统，&lt;div&gt;手机系统告知App&lt;/div&gt;&lt;div&gt;（通过0x13这个断连错误码）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vhma3fg5Y648AO8j-QCg-101" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
