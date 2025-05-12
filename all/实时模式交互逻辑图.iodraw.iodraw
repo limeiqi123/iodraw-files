@@ -340,10 +340,11 @@
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-7" value="App端根据运动类型的不同，显示不同的Icon，包括：实时心率检测、实时GPS检测（GPS只有户外跑模式有）；&lt;div&gt;心率未检测ok（hr=0）时，显示为闪烁爱心，ok（hr≠0）时，显示为具体数值；&lt;br&gt;&lt;div&gt;GPS未检测ok时灰色闪烁，检测ok时常亮色；&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="647" y="794" width="340" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxGd7Q-0biXSv-6X_yPY-8" edge="1">
+        <mxCell id="YHusyejt_DKvxTFTPySN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HxGd7Q-0biXSv-6X_yPY-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="680" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1474" y="595" />
               <mxPoint x="1474" y="680" />
             </Array>
           </mxGeometry>
@@ -354,7 +355,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-8" value="心率带上算法运行&lt;div&gt;mcu端给出 hr+佩戴检测flag、信号质量检测结果&lt;/div&gt;&lt;div&gt;（5s以上未佩戴时，算法停止，此时无输出心率，由嵌入式端控制此时继续输出hr为0给app，直到算法端给出具体的数值）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1271" y="703" width="406" height="90" as="geometry" />
+          <mxGeometry x="1271" y="550" width="406" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="HxGd7Q-0biXSv-6X_yPY-7" edge="1">
           <mxGeometry relative="1" as="geometry">
