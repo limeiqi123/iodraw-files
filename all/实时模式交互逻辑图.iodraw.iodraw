@@ -361,7 +361,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;不到8s用户点击开始运动？ or&lt;/div&gt;超过8s未检测到ok的hr值？or用户点击开始运动时hr=0？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="707" y="1043" width="220" height="117" as="geometry" />
+          <mxGeometry x="707" y="1035" width="220" height="117" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YHusyejt_DKvxTFTPySN-11" target="YHusyejt_DKvxTFTPySN-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -373,7 +373,7 @@
           <mxGeometry x="722" y="933" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-20" value="用户点击我知道了" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="1362" y="1059" width="275" height="70" as="geometry" />
+          <mxGeometry x="1362" y="1058" width="275" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YHusyejt_DKvxTFTPySN-22" target="HxGd7Q-0biXSv-6X_yPY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
