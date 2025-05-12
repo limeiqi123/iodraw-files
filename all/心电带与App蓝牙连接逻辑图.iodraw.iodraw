@@ -173,7 +173,7 @@
           <mxGeometry x="240" y="1030" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RC3qmG1ghpbk4XnJq1J9-2" value="后续功能正常使用" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="1396" width="200" height="60" as="geometry" />
+          <mxGeometry x="340" y="1560" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RC3qmG1ghpbk4XnJq1J9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC3qmG1ghpbk4XnJq1J9-3" target="RC3qmG1ghpbk4XnJq1J9-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -206,7 +206,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RC3qmG1ghpbk4XnJq1J9-9" value="①提示断连之前的sports App 2才能开始运动，&lt;div&gt;②开始运动页面的“开始运动”按钮为灰色&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="1296" width="400" height="60" as="geometry" />
+          <mxGeometry x="240" y="1296" width="400" height="44" as="geometry" />
         </mxCell>
         <mxCell id="WO43KKcxDO_ozy_Udc6k-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WO43KKcxDO_ozy_Udc6k-1" target="RC3qmG1ghpbk4XnJq1J9-3">
           <mxGeometry relative="1" as="geometry" />
