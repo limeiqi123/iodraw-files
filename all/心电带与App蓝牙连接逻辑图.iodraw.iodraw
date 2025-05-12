@@ -174,7 +174,7 @@
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-44" value="后续功能正常使用" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="1137" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-49" value="提示断连之前的shokz App才能继续使用 or 提示退出存储模式，&lt;div&gt;断连之前的App&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-49" value="提示断连之前的shokz App才能继续使用 or 提示退出存储模式，&lt;div&gt;断连之前的App or 退出存储模式&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="1017" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
