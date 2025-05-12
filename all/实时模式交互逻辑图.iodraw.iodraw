@@ -286,7 +286,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HxGd7Q-0biXSv-6X_yPY-7" value="App端根据运动类型的不同，显示不同的Icon，包括：实时心率检测、实时GPS检测（GPS只有户外跑模式有）；&lt;div&gt;心率未检测ok（hr=0）时，显示为闪烁爱心，ok（hr≠0）时，显示为具体数值；&lt;br&gt;&lt;div&gt;GPS未检测ok时灰色闪烁，检测ok时常亮色；&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;心率带的当前运动状态为“未运动”时，显示为亮色，否则显示为灰色&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="766" width="630" height="99" as="geometry" />
+          <mxGeometry x="417" y="770" width="630" height="99" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HxGd7Q-0biXSv-6X_yPY-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -308,8 +308,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="577" y="1050" />
-              <mxPoint x="490" y="1050" />
-              <mxPoint x="490" y="816" />
+              <mxPoint x="370" y="1050" />
+              <mxPoint x="370" y="816" />
             </Array>
           </mxGeometry>
         </mxCell>
