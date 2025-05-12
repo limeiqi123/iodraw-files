@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPcAaudElCX2ebDDalHc-2" value="&lt;p&gt;是&lt;/p&gt;&lt;p&gt;App给MCU发送开始实时运动指令（Tag1 0x0001）&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=none;" parent="vhma3fg5Y648AO8j-QCg-18" vertex="1" connectable="0">
+        <mxCell id="IPcAaudElCX2ebDDalHc-2" value="&lt;p&gt;&lt;b&gt;是&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;App给MCU发送开始实时运动指令（Tag1 0x0001）&lt;/b&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=none;" parent="vhma3fg5Y648AO8j-QCg-18" vertex="1" connectable="0">
           <mxGeometry x="0.0622" y="1" relative="1" as="geometry">
             <mxPoint x="25" y="-39" as="offset" />
           </mxGeometry>
@@ -415,7 +415,7 @@
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-17" value="进入到实时显示页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="1460" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oBLnD4j1K2vvLx6aPAaI-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;单次执行，&lt;/span&gt;心率带向所有App发送运动状态“未运动”&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;单次执行，&lt;/span&gt;心率带向所有App发送运动状态“未运动”&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="2155" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
