@@ -1,0 +1,228 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1674" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="心率带1号 佩戴检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130.04" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190.04" y="530" />
+              <mxPoint x="300.04" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-3" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;心率带发出可以被连接的通知信号&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;ble信号包含 强度、名称&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.1471" y="-1" relative="1" as="geometry">
+            <mxPoint x="56" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.7717" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-5" vertex="1" connectable="0">
+          <mxGeometry x="0.0897" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;连续2s佩戴?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140.04" y="420" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="_1KWG_5H9zGKl4j-NjRT-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.04" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="App设备连接页面，显示2个心率带设备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190.04" y="590" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EsyDy2RAEM6CwkYFkrmJ-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;一、App与心率带蓝牙连接&lt;/h1&gt;&lt;p&gt;心率带首先通过硬件佩戴检测确定是否能够进入到广播状态，在进入到广播状态后，可以被App检索到，检索之后的设备显示、自动连接、多设备连接（一条心率带被多个sports app连接上）的逻辑稍微复杂，这里给出详细的逻辑说明：&lt;/p&gt;&lt;p&gt;① 心率带进行mcu端佩戴检测，累记超过2s检测到了佩戴，硬件系统“开机”，发出可以被连接的通知；&lt;/p&gt;&lt;p&gt;② App通过ble接收到有心率带设备可被连接的通知及设备信息后，&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: center; text-wrap: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;通过名称“CoachHR（后期可能会更改）”进行字符匹配筛选，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;在设备连接页面显示设备列表；&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;③ 如果列表中&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;有上一次连接过的可用的心率带设备，就自动连接并显示在第一行，如果没有，就按照信号名称排序&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;④&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;如果心率带已经在之前的操作下进入存储模式，那么提示用户退出之前的存储模式&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;⑤ 如果心率带之前已经连接了一个shokz app，那么提示用户断连旧的才能使用当前的&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="50" width="690" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-8" target="_1KWG_5H9zGKl4j-NjRT-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-8" value="心率带2号 佩戴检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="361.04" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-12" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421.04" y="530" />
+              <mxPoint x="300.04" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-16" value="sports app 1 通过名称“CoachHR（后期可能会更改）”进行字符匹配筛选" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-13" vertex="1" connectable="0">
+          <mxGeometry x="0.6036" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-19" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Yes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.849" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-12" target="_1KWG_5H9zGKl4j-NjRT-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="501.03999999999996" y="460" />
+              <mxPoint x="501.03999999999996" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-15" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-14" vertex="1" connectable="0">
+          <mxGeometry x="0.0983" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-12" value="&lt;div&gt;连续2s佩戴?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="371.04" y="420" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-17" target="_1KWG_5H9zGKl4j-NjRT-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-23" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.0509" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-17" target="_1KWG_5H9zGKl4j-NjRT-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-28" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-27" vertex="1" connectable="0">
+          <mxGeometry x="0.5701" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-17" value="&lt;div&gt;有上一次连接过的可用的心率带设备（eg, CoachHR_v1）?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="119.03999999999999" y="665" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-20" target="_1KWG_5H9zGKl4j-NjRT-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="900" />
+              <mxPoint x="440" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDeRiqOkABDMOrtG0vkj-0" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;mcu与app通信校验当前心率带&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;CoachHR_v1&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;的运动状态&lt;/span&gt;&lt;div style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;（Tag1 0x0007）&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-34" vertex="1" connectable="0">
+          <mxGeometry x="0.0748" relative="1" as="geometry">
+            <mxPoint x="78" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-20" value="自动连接CoachHR_v1，且显示在第一行，显示的内容包含：电量、信号强度、连接状态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="173.54" y="755" width="251" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDeRiqOkABDMOrtG0vkj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-26" target="_1KWG_5H9zGKl4j-NjRT-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="900" />
+              <mxPoint x="440" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-26" value="按照信号名称，从上到下排列设备；等待用户手动进行蓝牙连接；&lt;div&gt;用户手动连接一个设备（&lt;span style=&quot;background-color: initial;&quot;&gt;eg, CoachHR_v1）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440.04" y="755" width="251" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-29" target="_1KWG_5H9zGKl4j-NjRT-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.02857142857147" y="1017" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_1KWG_5H9zGKl4j-NjRT-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.0179" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-29" target="RC3qmG1ghpbk4XnJq1J9-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="960" />
+              <mxPoint x="650" y="1166" />
+              <mxPoint x="440" y="1166" />
+            </Array>
+            <mxPoint x="630.04" y="1016" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RC3qmG1ghpbk4XnJq1J9-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.5758" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CoachHR_v1是否已通过另一个sports App 2 进入存储模式？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250.04" y="930" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-49" target="WO43KKcxDO_ozy_Udc6k-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-49" value="①提示通过sports App 2退出存储模式才能开始运动&lt;div&gt;②开始运动页面的“开始运动”按钮为灰色&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1030" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-2" value="后续功能正常使用" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340.04" y="1460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC3qmG1ghpbk4XnJq1J9-3" target="RC3qmG1ghpbk4XnJq1J9-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RC3qmG1ghpbk4XnJq1J9-8" vertex="1" connectable="0">
+          <mxGeometry x="0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC3qmG1ghpbk4XnJq1J9-3" target="RC3qmG1ghpbk4XnJq1J9-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1226" />
+              <mxPoint x="680" y="1450" />
+              <mxPoint x="440" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RC3qmG1ghpbk4XnJq1J9-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.4977" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CoachHR_v1&lt;/span&gt;是否&lt;span style=&quot;background-color: initial;&quot;&gt;已通过另一个sports App 2 进入实时运动模式？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="1196" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC3qmG1ghpbk4XnJq1J9-9" target="WO43KKcxDO_ozy_Udc6k-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-9" value="&lt;div&gt;①提示通过sports App 2退出实时运动模式才能开始运动&lt;/div&gt;&lt;div&gt;②开始运动页面的“开始运动”按钮为灰色&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1296" width="400" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="WO43KKcxDO_ozy_Udc6k-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WO43KKcxDO_ozy_Udc6k-1" target="RC3qmG1ghpbk4XnJq1J9-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WO43KKcxDO_ozy_Udc6k-1" value="用户退出存储模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="1100" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WO43KKcxDO_ozy_Udc6k-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WO43KKcxDO_ozy_Udc6k-4" target="RC3qmG1ghpbk4XnJq1J9-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WO43KKcxDO_ozy_Udc6k-4" value="用户退出实时运动模式" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340.04" y="1370" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
