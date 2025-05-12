@@ -13,11 +13,6 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-3" value="&lt;i&gt;设备连接页面&lt;/i&gt;&lt;div&gt;App连接到了心率带&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="672" y="619" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-5" target="R1lHBK2HXy8WGfGtHM48-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="745" y="1387" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="vhma3fg5Y648AO8j-QCg-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="1340" as="sourcePoint" />
@@ -309,9 +304,6 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="YHusyejt_DKvxTFTPySN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="vhma3fg5Y648AO8j-QCg-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="HxGd7Q-0biXSv-6X_yPY-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -320,7 +312,7 @@
             <mxPoint x="-4" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户点击“开始运动”按钮时，心率带状态不是“未运动”？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户点击“开始运动”按钮时，心率带状态是“未运动”？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（用户点击了灰色的“开始运动”按钮？）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577" y="1007" width="310" height="83" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YHusyejt_DKvxTFTPySN-11" target="YHusyejt_DKvxTFTPySN-20" edge="1">
