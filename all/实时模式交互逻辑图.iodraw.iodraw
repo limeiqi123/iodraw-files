@@ -10,9 +10,6 @@
         <mxCell id="YHusyejt_DKvxTFTPySN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-3" target="HxGd7Q-0biXSv-6X_yPY-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPcAaudElCX2ebDDalHc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vhma3fg5Y648AO8j-QCg-3" target="HxGd7Q-0biXSv-6X_yPY-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-3" value="&lt;i&gt;设备连接页面&lt;/i&gt;&lt;div&gt;App连接到了心率带&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="623" width="120" height="40" as="geometry" />
         </mxCell>
