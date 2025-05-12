@@ -177,10 +177,13 @@
             <mxPoint x="440" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RC3qmG1ghpbk4XnJq1J9-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RC3qmG1ghpbk4XnJq1J9-8">
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RC3qmG1ghpbk4XnJq1J9-8">
           <mxGeometry x="0.1" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC3qmG1ghpbk4XnJq1J9-3" target="RC3qmG1ghpbk4XnJq1J9-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RC3qmG1ghpbk4XnJq1J9-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CoachHR_v1&lt;/span&gt;是否在连接当前sports App 1之前已经连上其他sports App 2？&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="1140" width="440" height="60" as="geometry" />
