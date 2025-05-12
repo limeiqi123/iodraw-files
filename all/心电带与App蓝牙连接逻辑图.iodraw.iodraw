@@ -150,12 +150,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="960" />
-              <mxPoint x="650" y="1130" />
-              <mxPoint x="440" y="1130" />
+              <mxPoint x="650" y="1110" />
+              <mxPoint x="440" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RC3qmG1ghpbk4XnJq1J9-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RC3qmG1ghpbk4XnJq1J9-5">
+        <mxCell id="RC3qmG1ghpbk4XnJq1J9-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RC3qmG1ghpbk4XnJq1J9-5">
           <mxGeometry x="-0.5758" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
