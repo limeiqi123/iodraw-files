@@ -134,7 +134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_1KWG_5H9zGKl4j-NjRT-26" value="按照信号名称，从上到下排列设备；等待用户手动进行蓝牙连接；&lt;div&gt;用户手动连接一个设备（&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_1KWG_5H9zGKl4j-NjRT-26" value="按照信号名称，从上到下排列设备；等待用户手动进行蓝牙连接；&lt;div&gt;用户手动连接一个设备（&lt;span style=&quot;background-color: initial;&quot;&gt;eg, CoachHR_v1）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440.04" y="755" width="251" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1KWG_5H9zGKl4j-NjRT-29" target="_1KWG_5H9zGKl4j-NjRT-49" edge="1">
