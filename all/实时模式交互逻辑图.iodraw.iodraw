@@ -309,8 +309,11 @@
             <mxPoint x="-4" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHusyejt_DKvxTFTPySN-4" target="oBLnD4j1K2vvLx6aPAaI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户点击“开始运动”按钮时，心率带状态不是“未运动”？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（用户点击了灰色的“开始运动”按钮？）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="577" y="1007" width="310" height="83" as="geometry" />
+          <mxGeometry x="500" y="1007" width="387" height="83" as="geometry" />
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-15" value="App端不断&lt;div&gt;调用GPS接&lt;span style=&quot;background-color: initial;&quot;&gt;口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取gps质量（户外跑时）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="766" width="160" height="60" as="geometry" />
