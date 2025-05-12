@@ -61,7 +61,7 @@
         <mxCell id="vhma3fg5Y648AO8j-QCg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1212.5" y="1576.16" as="sourcePoint" />
-            <mxPoint x="1028" y="1576.41" as="targetPoint" />
+            <mxPoint x="1000" y="1576" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1020" y="1576.41" />
             </Array>
@@ -74,7 +74,7 @@
         </mxCell>
         <mxCell id="IPcAaudElCX2ebDDalHc-2" value="&lt;p&gt;是&lt;/p&gt;&lt;p&gt;App给MCU发送开始实时运动指令（Tag1 0x0001）&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vhma3fg5Y648AO8j-QCg-18">
           <mxGeometry x="0.0622" y="1" relative="1" as="geometry">
-            <mxPoint x="41" y="-41" as="offset" />
+            <mxPoint x="20" y="-41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-21" edge="1">
