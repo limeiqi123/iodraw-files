@@ -406,7 +406,7 @@
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-5" value="用户点击我知道了，维持在开始运动页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" vertex="1" parent="1">
           <mxGeometry x="909" y="1215" width="232.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oBLnD4j1K2vvLx6aPAaI-6" value="&lt;div&gt;需要给用户什么反馈吗？&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="oBLnD4j1K2vvLx6aPAaI-6" value="&lt;div&gt;需要给用户什么反馈吗？暂时不需要&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="971" y="1018.5" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBLnD4j1K2vvLx6aPAaI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBLnD4j1K2vvLx6aPAaI-17" target="vhma3fg5Y648AO8j-QCg-13">
