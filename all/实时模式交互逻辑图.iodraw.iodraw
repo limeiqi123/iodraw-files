@@ -29,7 +29,7 @@
         </mxCell>
         <mxCell id="YHusyejt_DKvxTFTPySN-27" value="App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输&lt;div&gt;（用于计算个性化跑步参数）&lt;/div&gt;&lt;div&gt;App给MCU发送开始实时运动指令（Tag1 0x0001），该指令指示 需要再补充发送“ECG实时数据”、“ACC实时数据”等&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YHusyejt_DKvxTFTPySN-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1203" y="1" relative="1" as="geometry">
-            <mxPoint x="30" y="-29" as="offset" />
+            <mxPoint x="80" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-5" value="&lt;div&gt;用户点击“直接开始”运动&lt;/div&gt;&lt;div&gt;（即使异常没有被解决）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -388,7 +388,7 @@
         </mxCell>
         <mxCell id="pQgSAZWccSKd0lJqHwSU-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pQgSAZWccSKd0lJqHwSU-1">
           <mxGeometry x="-0.0898" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R1lHBK2HXy8WGfGtHM48-2" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当前设备的运动状态为“未运动”？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（app没有收到心率带状态的通知）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
