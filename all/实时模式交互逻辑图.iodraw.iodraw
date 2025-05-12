@@ -261,7 +261,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NN-2ISehvnmji4_QbpQm-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FHs8Cgwomu3kawwBKDpe-10">
+        <mxCell id="NN-2ISehvnmji4_QbpQm-26" value="注意运动记录中的 运动时长，不包括最后断连的这30min" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FHs8Cgwomu3kawwBKDpe-10">
           <mxGeometry x="0.5618" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
