@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YHusyejt_DKvxTFTPySN-27" value="&lt;div&gt;App给MCU发送开始实时运动指令（Tag1 0x0001），该指令指示 需要再补充发送“ECG实时数据”、“ACC实时数据”等&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YHusyejt_DKvxTFTPySN-26" vertex="1" connectable="0">
+        <mxCell id="YHusyejt_DKvxTFTPySN-27" value="&lt;div&gt;App给MCU发送开始实时运动指令（Tag1 0x0001），该指令指示 需要再补充发送“ECG实时数据”、“ACC实时数据”等&lt;/div&gt;&lt;div&gt;App从后台拿到用户的个性化模型参数，然后通过ble向mcu传输（用于计算个性化跑步参数）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YHusyejt_DKvxTFTPySN-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1203" y="1" relative="1" as="geometry">
             <mxPoint x="99" y="-29" as="offset" />
           </mxGeometry>
