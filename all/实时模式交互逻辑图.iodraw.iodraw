@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="DdRrCVNIYPfwyHI9o0Sr">
-    <mxGraphModel dx="2391" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3348" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,11 +120,6 @@
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-32" value="蓝牙断开（die手机进程）？&lt;div&gt;（用户手动清理app后台，退出app）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="242.5" y="1905" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vhma3fg5Y648AO8j-QCg-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vhma3fg5Y648AO8j-QCg-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="1945" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vhma3fg5Y648AO8j-QCg-50" value="&lt;div&gt;保存当次运动记录数据（上传到云端，存储的数据字段及格式见《&lt;span style=&quot;text-align: left;&quot;&gt;运动心率带3.0蓝牙协议及&lt;/span&gt;数据库说明》）&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1895" width="230" height="100" as="geometry" />
