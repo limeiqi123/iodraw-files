@@ -124,7 +124,7 @@
         </mxCell>
         <mxCell id="iDeRiqOkABDMOrtG0vkj-0" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;mcu与app通信校验当前心率带&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;CoachHR_v1&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;的运动状态&lt;/span&gt;&lt;div style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;（获取当前运动状态（Tag1 0x0007））&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_1KWG_5H9zGKl4j-NjRT-34">
           <mxGeometry x="0.0748" relative="1" as="geometry">
-            <mxPoint x="53" y="-20" as="offset" />
+            <mxPoint x="55" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_1KWG_5H9zGKl4j-NjRT-20" value="自动连接CoachHR_v1，且显示在第一行，显示的内容包含：电量、信号强度、连接状态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
