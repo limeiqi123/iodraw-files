@@ -192,16 +192,6 @@
             <mxPoint x="1114.4799999999996" y="3262.3" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-86" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hdzeUjcCGxVkYUa7Ub5_-85" vertex="1" connectable="0">
-          <mxGeometry x="-0.4762" y="2" relative="1" as="geometry">
-            <mxPoint x="-37" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FoqwPx5EqOw4-RM_lVA4-4" value="mcu向App发送数据列表信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hdzeUjcCGxVkYUa7Ub5_-85" vertex="1" connectable="0">
-          <mxGeometry x="0.0201" y="2" relative="1" as="geometry">
-            <mxPoint x="28" y="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FoqwPx5EqOw4-RM_lVA4-5" value="用户点击当条运动记录查看数据详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="1533.97" y="3439.005" width="120" height="60" as="geometry" />
         </mxCell>
