@@ -164,21 +164,6 @@
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-58" value="蓝牙断开（die手机进程）？&lt;div&gt;（用户手动清理app后台，退出app）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="324.50000000000006" y="2955.25" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="hdzeUjcCGxVkYUa7Ub5_-84" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="542.4700000000003" y="3141.75" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="hdzeUjcCGxVkYUa7Ub5_-84" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="542.4700000000003" y="3262.25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="hdzeUjcCGxVkYUa7Ub5_-84" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="541.5" y="3377.25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-79" target="hdzeUjcCGxVkYUa7Ub5_-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -201,12 +186,6 @@
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-82" value="连接上蓝牙" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1098.53" y="2965.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-84" target="hdzeUjcCGxVkYUa7Ub5_-87" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-84" value="设备连接页面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="814.53" y="3232.25" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-87" target="hdzeUjcCGxVkYUa7Ub5_-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1209" y="3727.25" as="targetPoint" />
@@ -224,14 +203,6 @@
         </mxCell>
         <mxCell id="hdzeUjcCGxVkYUa7Ub5_-87" value="心率带连接上？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1034.53" y="3222.25" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.595;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hdzeUjcCGxVkYUa7Ub5_-87" target="hdzeUjcCGxVkYUa7Ub5_-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hdzeUjcCGxVkYUa7Ub5_-89" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hdzeUjcCGxVkYUa7Ub5_-88" vertex="1" connectable="0">
-          <mxGeometry x="-0.1274" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FoqwPx5EqOw4-RM_lVA4-5" value="用户点击当条运动记录查看数据详情" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;resizable=1;" parent="1" vertex="1">
           <mxGeometry x="1533.97" y="3439.005" width="120" height="60" as="geometry" />
